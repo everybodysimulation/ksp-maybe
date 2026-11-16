@@ -20963,7 +20963,7 @@ RESOURCE_CONFIGURATION
   name = LiquidFuel
   displayName = #autoLOC_500999 //#autoLOC_500999 = Liquid Fuel
   abbreviation = #autoLOC_6002095  //#autoLOC_6002095 = LF
-  density = 0.005
+  density = 0.002777778
   unitCost = 0.8
   hsp = 2010
   flowMode = STACK_PRIORITY_SEARCH
@@ -20984,7 +20984,7 @@ RESOURCE_DEFINITION
   name = Oxidizer
   displayName = #autoLOC_501000 //#autoLOC_501000 = Oxidizer
   abbreviation = #autoLOC_6002096 //#autoLOC_6002096 = Ox
-  density = 0.005
+  density = 0.002777778
   unitCost = 0.18
   hsp = 1551
   flowMode = STACK_PRIORITY_SEARCH
@@ -21005,7 +21005,7 @@ RESOURCE_DEFINITION
   name = SolidFuel
   displayName = #autoLOC_501001 //#autoLOC_501001 = Solid Fuel
   abbreviation = #autoLOC_6002097 //#autoLOC_6002097 = SF
-  density = 0.0075
+  density = 0.004166667
   unitCost = 0.6
   hsp = 920
   flowMode = NO_FLOW
@@ -21023,7 +21023,7 @@ RESOURCE_DEFINITION
   name = MonoPropellant
   displayName = #autoLOC_501002 //#autoLOC_501002 = Monopropellant
   abbreviation = #autoLOC_6002098 //#autoLOC_6002098 = MP
-  density = 0.004
+  density = 0.002222222
   unitCost = 1.2
   hsp = 3000
   flowMode = STAGE_PRIORITY_FLOW
@@ -21044,7 +21044,7 @@ RESOURCE_DEFINITION
   name = XenonGas
   displayName = #autoLOC_501003 //#autoLOC_501003 = Xenon Gas
   abbreviation = #autoLOC_6002099 //#autoLOC_6002099 = Xe
-  density = 0.0001  
+  density = 5.555556e-05  
   unitCost = 4
   hsp = 120
   flowMode = STAGE_PRIORITY_FLOW
@@ -21084,7 +21084,7 @@ RESOURCE_DEFINITION
   name = IntakeAir
   displayName = #autoLOC_501005 //#autoLOC_501005 = Intake Air
   abbreviation = #autoLOC_6002101 //#autoLOC_6002101 = Air
-  density = 0.005
+  density = 0.002777778
   unitCost = 0
   hsp = 10
   flowMode = ALL_VESSEL
@@ -21103,7 +21103,7 @@ RESOURCE_DEFINITION
   name = EVA Propellant
   displayName = #autoLOC_501006 //#autoLOC_501006 = EVA Propellant
   abbreviation = #autoLOC_6002102 //#autoLOC_6002102 = EP
-  density = 0.005
+  density = 0.002777778
   unitCost = 0
   hsp = 3000
   flowMode = NO_FLOW
@@ -21121,7 +21121,7 @@ RESOURCE_DEFINITION
   name = Ore
   displayName = #autoLOC_501007 //#autoLOC_501007 = Ore
   abbreviation = #autoLOC_6002103 //#autoLOC_6002103 = Ore
-  density = 0.010
+  density = 0.005555556
   unitCost = 0.02
   flowMode = ALL_VESSEL
   transfer = PUMP
@@ -21144,7 +21144,7 @@ RESOURCE_DEFINITION
   name = Ablator
   displayName = #autoLOC_501008 //#autoLOC_501008 = Ablator
   abbreviation = #autoLOC_6002104 //#autoLOC_6002104 = Ab
-  density = 0.001
+  density = 0.0005555556
   hsp = 400
   flowMode = NO_FLOW
   transfer = NONE
@@ -44921,7 +44921,7 @@ iˆ#P<¤¨{4 &i€À0Ä JFI28€x'%SÆ©M€(!Š÷¾·ÿòG)(ÉÅD˜œBp!À>Ì‚a€  0ãĞJ£ˆ
 	manufacturer = #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501782   //#autoLOC_501782 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.01
+	mass = 0.005555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -45108,7 +45108,7 @@ PART
 	manufacturer = #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501785  //#autoLOC_501785 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.04
+	mass = 0.02222222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -45295,7 +45295,7 @@ PART
 	manufacturer = #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501788    //#autoLOC_501788 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.16
+	mass = 0.08888889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -45481,7 +45481,7 @@ PART
 	manufacturer = #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501791   //#autoLOC_501791 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.36
+	mass = 0.2
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -45662,7 +45662,7 @@ PART
 	manufacturer = #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501794 //#autoLOC_501794 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.01
+	mass = 0.005555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -45849,7 +45849,7 @@ PART
 	manufacturer = #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501797  //#autoLOC_501790 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -46036,7 +46036,7 @@ PART
 	manufacturer =  #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501800 //#autoLOC_501800 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.21
+	mass = 0.1166667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -46222,7 +46222,7 @@ PART
 	manufacturer = #autoLOC_501676  //#autoLOC_501676 = O.M.B. Demolition Enterprises
 	description = #autoLOC_501803   //#autoLOC_501803 = Description Creation Pending
 	attachRules = 1,0,1,1,0
-	mass = 0.48
+	mass = 0.2666667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -257976,7 +257976,7 @@ bŠBŠ-ğªÎÆ¯Á+I–çÎı¢;½
 	manufacturer = #autoLOC_501629 //#autoLOC_501629 = O.M.B. Demolition Enterprises
 	description = #autoLOC_500179 //#autoLOC_500179 = A tiny structural heat shield
 	attachRules = 1,0,1,0,0
-	mass = 0.025
+	mass = 0.01388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -258418,7 +258418,7 @@ heatshield         €?  €?              heatshield.png    ï»¿PART
 	manufacturer = #autoLOC_501629 //#autoLOC_501629 = O.M.B. Demolition Enterprises
 	description = #autoLOC_500182 //#autoLOC_500182 = A small structural heat shield with an integrated fairing
 	attachRules = 1,0,1,0,0
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -258889,7 +258889,7 @@ heatshield         €?  €?        Fairing        €?  €?              heats
 	manufacturer = #autoLOC_501629 //#autoLOC_501629 = O.M.B. Demolition Enterprises
 	description = #autoLOC_500185 //#autoLOC_500185 = A medium structural heat shield with an integrated fairing
 	attachRules = 1,0,1,0,0
-	mass = 0.5
+	mass = 0.2777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -259507,7 +259507,7 @@ heatshield         €?  €?        Fairing        €?  €?              heats
 	manufacturer = #autoLOC_501629 //#autoLOC_501629 = O.M.B. Demolition Enterprises
 	description = #autoLOC_500188 //#autoLOC_500188 = A large structural heat shield with an integrated fairing
 	attachRules = 1,0,1,0,0
-	mass = 1.0
+	mass = 0.5555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -260275,7 +260275,7 @@ aÒ>Jw=’±šÊáÜ×Ì‡ÌĞÅE¸ïcÑøñ[~;Õ€.M„Æ'à Ú}]L¶º8â–Ø¢ĞÉ­¨;nl€BŠéuÜÊİ¢AeIJ\¬‹
 	manufacturer = #autoLOC_501629 //#autoLOC_501629 = O.M.B. Demolition Enterprises
 	description = #autoLOC_500191 //#autoLOC_500191 = Based on the design of a child's toy, this heat shield uses a set of inflatable rings covered with a thermal blanket to provide a generous 10 meter heat shield for reentry and deceleration, and the aerodynamic qualities of an untethered bouncy castle.
 	attachRules = 1,0,1,0,1
-	mass = 1.5
+	mass = 0.8333333
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -262576,7 +262576,7 @@ m¶¹Zpá­8êš¤Æò™ñs°=ñå"E­2¾˜‰` ‘Z?‡4“-ø§=Ü}
 	description = #autoLOC_500110 //#autoLOC_500110 = Aerodynamic, lightweight and mostly non-explosive. As a reminder to all personnel operating nearby, this part is really sharp and it'd probably hurt if you fell on it.
 	attachRules = 1,0,1,1,0
 	stackSymmetry = 2
-	mass = 0.03
+	mass = 0.01666667
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -262890,7 +262890,7 @@ U¿,=P¾pT}¿KË<F¦½m%¿>¨<ö¿œt=§;o=!¿k¯=ƒ‹<äT¿¨{?Yg¦<ÚåT¿›*?ex†=¹
 	manufacturer = #autoLOC_501625 //#autoLOC_501625 = Vac-Co Advanced Suction Systems
 	description = #autoLOC_500116 //#autoLOC_500116 = An intake duct version that can be mounted at the sides of a fuselage. Warranty does not cover engine flame-outs or any objects, inanimate or otherwise, sucked in by the intake. Optimized for subsonic flight.
 	attachRules = 0,1,0,0,0
-	mass = 0.02
+	mass = 0.01111111
 	thermalMassModifier = 6.0
 	// heatConductivity = 0.06 // half default
 	dragModelType = default
@@ -262951,7 +262951,7 @@ U¿,=P¾pT}¿KË<F¦½m%¿>¨<ö¿œt=§;o=!¿k¯=ƒ‹<äT¿¨{?Yg¦<ÚåT¿›*?ex†=¹
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500113 //#autoLOC_500113 = Research into feasible ways to slow down a plane in mid-air showed that loose hull panels are pretty great as drag-inducing deceleration devices. The discovery led to the invention of the Aerodynamically Integrated Retrograde Braking Robustly Armed Kinetic Extending System (A.I.R.B.R.A.K.E.S.), which is now popular mostly as a cheap alternative to longer runways. C7 Engineers are still trying to come up with a shorter name for such a long acronym.
 	attachRules = 0,1,0,0,1
-	mass = 0.05
+	mass = 0.02777778
 	thermalMassModifier = 5.0 // a hair worse than airliner parts
 	emissiveConstant = 0.4
 	dragModelType = none
@@ -263812,7 +263812,7 @@ r‰…9ŸMGÁ¨|ÂÈ TctÏ‘ŠÌgËÓªùc½¼úsZõ³Ò{ÒuAÃ>ŠgNcœ ¹«˜ï°&ÙÉÙ™g9aÿyúteŞg2
 	manufacturer = #autoLOC_501626 //#autoLOC_501626 = WinterOwl Aircraft Emporium
 	description = #autoLOC_500119 //#autoLOC_500119 = Large conventional control surface.
 	attachRules = 0,1,0,1,1
-	mass = 0.17
+	mass = 0.09444444
 	thermalMassModifier = 6
 	heatConductivity = 0.12
 	emissiveConstant = 0.4
@@ -263889,7 +263889,7 @@ CTRLSRFCOL   €               €   €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501626 //#autoLOC_501626 = WinterOwl Aircraft Emporium
 	description = #autoLOC_500122 //#autoLOC_500122 = One of the largest lifting surfaces in production. The internal volume of these is big enough to carry generously sized fuel tanks.
 	attachRules = 0,1,0,1,1
-	mass = 0.78
+	mass = 0.4333333
 	thermalMassModifier = 3
 	heatConductivity = 0.12
 	emissiveConstant = 0.4
@@ -264012,7 +264012,7 @@ e¾«·c?ûË>  €?ş$…¾“qs?­Œ+¾  €?Ê½¾9m?Á½  €?»è¾k5H?‚öÚ>  €?âz?šÙB>²¹m=  €?!ÿ
 	manufacturer = #autoLOC_501626 //#autoLOC_501626 = WinterOwl Aircraft Emporium
 	description = #autoLOC_500125 //#autoLOC_500125 = Large conventional wing with built-in control surface.
 	attachRules = 0,1,0,1,1
-	mass = 0.36
+	mass = 0.2
 	thermalMassModifier = 3.0
 	heatConductivity = 0.12
 	emissiveConstant = 0.4
@@ -264493,7 +264493,7 @@ tailFinCOL   €               €   €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500128 //#autoLOC_500128 = Our engineers thought this design looked "high tech" and therefore must be clear improvement on earlier models.
 	attachRules = 0,1,0,1,0
-	mass = 0.08
+	mass = 0.04444444
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -264547,7 +264547,7 @@ tailFinCOL   €               €   €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500131 //#autoLOC_500131 = Our engineers had a stroke of inspiration after "visiting" the Kerlington production facilities. Introducing our new controllable canards. Warning, hard maneuvering may cause unintended stage separation.
 	attachRules = 0,1,0,1,0
-	mass = 0.1
+	mass = 0.05555556
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -264601,7 +264601,7 @@ tailFinCOL   €               €   €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501626 //#autoLOC_501626 = WinterOwl Aircraft Emporium
 	description = #autoLOC_500134 //#autoLOC_500134 = A prototype swept back wing, part of our "Let's Fly", line. Made of light weight composite materials. Guaranteed to generate lift, not guaranteed to ensure crew safety.
 	attachRules = 0,1,0,1,1
-	mass = 0.275
+	mass = 0.1527778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -264653,7 +264653,7 @@ tailFinCOL   €               €   €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500137 //#autoLOC_500137 = This tailfin has passed extensive modeling in our patented P.A.S system.(Paper Airplane Simulation). This fin has been blunted to prevent accidental dismemberment of installing technicians.
 	attachRules = 0,1,0,1,0
-	mass = 0.125
+	mass = 0.06944444
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -264711,7 +264711,7 @@ KTX1    @             Hx bÕ­  vˆ    @               b  î o P o € ¿  £ 
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500140 //#autoLOC_500140 = This simple bolt-on aluminum fin may not be the cutting edge of aerospace engineering but it's dirt cheap and will make your rocket slightly less unstable.
 	attachRules = 0,1,0,1,1
-	mass = 0.01
+	mass = 0.005555556
 	//thermalMassModifier = 1
 	//heatConductivity = 0.12
 	emissiveConstant = 0.95
@@ -265027,7 +265027,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	description = #autoLOC_500143 //#autoLOC_500143 = A proper turbofan intake, not only provides oxygen to air breathing engines, it pulls in twice as much air than those puny air scoops from Vac-Co. Optimized for subsonic flight.
 	attachRules = 1,0,1,0,0
 	stackSymmetry = 2
-	mass = 0.04
+	mass = 0.02222222
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.55
@@ -265098,7 +265098,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500146 //#autoLOC_500146 = A shocking new intake from the C7 Aerospace Division that brought you much adored parts such as the Delta Wing and the Standard Nosecone! Offers exceptional performance at all speeds and has some heat shielding of its own.
 	attachRules = 1,0,1,0,0
-	mass = 0.12
+	mass = 0.06666667
 	thermalMassModifier = 8
 	// heatConductivity = 0.06 // half default
 	heatConvectiveConstant = 0.75 // air goes into jet, not bashes on intake.
@@ -265168,7 +265168,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	description = #autoLOC_500152 //#autoLOC_500152 = Less drag due to pointy shape.
 	attachRules = 1,1,1,1,0
 	stackSymmetry = 2
-	mass = 0.075
+	mass = 0.04166667
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -265268,7 +265268,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501623 //#autoLOC_501623 = Goliath National Products
 	description = #autoLOC_500155 //#autoLOC_500155 = Useful for boosters - the slanted shape is good for leading pressure away from the core stages.
 	attachRules = 1,1,1,1,0
-	mass = 0.075
+	mass = 0.04166667
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -265362,7 +265362,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500149 //#autoLOC_500149 = Have you ever wanted to impress your peers by showing off your elite flying skills, but lacked the skills to become a trained pilot? C7 Aerospace's Fly-By-Wire Avionics Hub is the solution! This module allows even the most minimally trained crew to fly like an Ace! WARNING: This module cannot operate autonomously. Warranty void if attempting to do so. WARNING: Module contains no internal gyroscopes or control systems (control actuators sold separately). WARNING: Warranty void without proper use of C7 Aerospace Brand Sickness Bags (sold separately, currently out of stock).
 	attachRules = 1,0,1,1,0
-	mass = 0.08
+	mass = 0.04444444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -265432,7 +265432,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500158 //#autoLOC_500158 = The base of C7 Aerospace's Nose Cone system (NCS)
 	attachRules = 1,1,1,1,0
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -265485,7 +265485,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501623 //#autoLOC_501623 = Goliath National Products
 	description = #autoLOC_500200 //#autoLOC_500200 = A large nose cone for covering up exposed areas of big rockets.
 	attachRules = 1,0,1,1,0
-	mass = 0.2
+	mass = 0.1111111
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -265594,7 +265594,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501623 //#autoLOC_501623 = Goliath National Products
 	description = #autoLOC_500200 //#autoLOC_500200 = A large nose cone for covering up exposed areas of big rockets.
 	attachRules = 1,0,1,1,0
-	mass = 0.2
+	mass = 0.1111111
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -265705,7 +265705,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501623 //#autoLOC_501623 = Goliath National Products
 	description = #autoLOC_6012027	//#autoLOC_6012027 = A huge nosecone to help make 3.75 rockets cut through the air.
 	attachRules = 1,0,1,1,0
-	mass = 0.4
+	mass = 0.2222222
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -265774,7 +265774,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500161 //#autoLOC_500161 = An aerodynamic nose cap.
 	attachRules = 1,1,1,1,0
-	mass = 0.01
+	mass = 0.005555556
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -265821,7 +265821,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501626 //#autoLOC_501626 = WinterOwl Aircraft Emporium
 	description = #autoLOC_500164 //#autoLOC_500164 = A simple aerodynamic tail for aircraft. Designed to fit onto all standard 1.25m attachments, this part is the embodiment of our "Let's Fly", line of parts.
 	attachRules = 1,1,1,1,0
-	mass = 0.2
+	mass = 0.1111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -265869,7 +265869,7 @@ MV?‘G˜>f‡¸>‘G˜>M1W?fõ–>×5>‘G˜>\6>(#=`‘s?hÎú=sw?GÊV>-ìy?‘G˜>¾z?   À<G½ú9>/
 	manufacturer = #autoLOC_501626 //#autoLOC_501626 = WinterOwl Aircraft Emporium
 	description = #autoLOC_500167 //#autoLOC_500167 = This raised variant of our popular airplane tail provides a lot of ground clearance during take-off.
 	attachRules = 1,1,1,1,0
-	mass = 0.2
+	mass = 0.1111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -267167,7 +267167,7 @@ yYM–|"'Ú´ Iã(=C¨©Á+2I¡šËášÌC5œQL²¤Æ§Køã»vÅ‘	o7áxŒ‡ÈwßL.*[RşåT«Õ{Ã¦ØŸ
 	manufacturer = #autoLOC_501634 //#autoLOC_501634 = FLOOYD Dynamics Research Labs
 	description = #autoLOC_500170 //#autoLOC_500170 = While the Kerbals at Mission Control were still figuring out how to get their rockets back down to Kerbin safely, the research engineers at FLOOYD were quickly realising that protecting parts on ascent was just as important. Heavy research into two-dimensional-input driven procedural construction was then funded with the hopes of making protective shells for important payloads and interstage areas of the crafts. The protective shells also have the benefit of making the craft more aerodynamic, hopefully saving on precious rocket fuel! The AE-FF1 is the smallest size available from FLOOYD.
 	attachRules = 1,0,1,1,0
-	mass = 0.075
+	mass = 0.04166667
 	thermalMassModifier = 2.0
 	skinMassPerArea = 4.0
 	skinInternalConductionMult = 0.25
@@ -267745,7 +267745,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             fairings_dif
 	manufacturer = #autoLOC_501634 //#autoLOC_501634 = FLOOYD Dynamics Research Labs
 	description = #autoLOC_500173 //#autoLOC_500173 = While the Kerbals at Mission Control were still figuring out how to get their rockets back down to Kerbin safely, the research engineers at FLOOYD were quickly realising that protecting parts on ascent was just as important. Heavy research into two-dimensional-input driven procedural construction was then funded with the hopes of making protective shells for important payloads and interstage areas of the crafts. The protective shells also have the benefit of making the craft more aerodynamic, hopefully saving on precious rocket fuel! The AE-FF2 is the mid-range size available from FLOOYD.
 	attachRules = 1,0,1,1,0
-	mass = 0.175
+	mass = 0.09722222
 	thermalMassModifier = 2.0
 	skinMassPerArea = 4.0
 	skinInternalConductionMult = 0.25
@@ -268324,7 +268324,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             fairings_dif
 	manufacturer = #autoLOC_501634 //#autoLOC_501634 = FLOOYD Dynamics Research Labs
 	description = #autoLOC_500176 //#autoLOC_500176 = While the Kerbals at Mission Control were still figuring out how to get their rockets back down to Kerbin safely, the research engineers at FLOOYD were quickly realising that protecting parts on ascent was just as important. Heavy research into two-dimensional-input driven procedural construction was then funded with the hopes of making protective shells for important payloads and interstage areas of the crafts. The protective shells also have the benefit of making the craft more aerodynamic, hopefully saving on precious rocket fuel! The AE-FF3 is the largest size available from FLOOYD.
 	attachRules = 1,0,1,1,0
-	mass = 0.475
+	mass = 0.2638889
 	thermalMassModifier = 2.0
 	skinMassPerArea = 4.0
 	skinInternalConductionMult = 0.25
@@ -269860,7 +269860,7 @@ lÈ¤k‹S†´´_Í£H”şƒKOçóÓâZcá°Ç!	È«:Y”­d³ëå¿J?Ó	¢ıµïZ˜e'«¾ëRüàu×Vı‰¤æ$îÛEJóp|\¹
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500194 //#autoLOC_500194 = This intake addresses those sometimes absurd contraptions that SSTO engineers designed in an attempt to pump more and more air into their engines. Optimized for supersonic flight.
 	attachRules = 0,1,0,1,1
-	mass = 0.01
+	mass = 0.005555556
 	thermalMassModifier = 12.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.7
@@ -269921,7 +269921,7 @@ lÈ¤k‹S†´´_Í£H”şƒKOçóÓâZcá°Ç!	È«:Y”­d³ëå¿J?Ó	¢ıµïZ˜e'«¾ëRüàu×Vı‰¤æ$îÛEJóp|\¹
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500197 //#autoLOC_500197 = A must-have for air breathing engines, this intake duct will pull in outside air to run turbine engines on, as long as there is any outside air to begin with, of course. Optimized for subsonic flight.
 	attachRules = 1,0,1,1,0
-	mass = 0.007
+	mass = 0.003888889
 	thermalMassModifier = 4.0
 	// heatConductivity = 0.06
 	emissiveConstant = 0.55
@@ -270225,7 +270225,7 @@ ER‚©)-AnPDëu+RÑÀpA” ÏÇª`W¹GÙ×W	óhnÈi°7Gêˆ‚¢/5¸«£D[¢\²û1)MäÉ
 	description = #autoLOC_500203 //#autoLOC_500203 = At supersonic speeds, -PATENT PENDING, CLASSIFIED INFO- inside the intake duct deflect the incoming air stream, causing -PATENT PENDING, CLASSIFIED INFO-, which creates a -PATENT PENDING, CLASSIFIED INFO-, thereby greatly increasing the efficiency of this unit at supersonic speeds. Patents Pending.
 	attachRules = 1,0,1,1,0
 	stackSymmetry = 2
-	mass = 0.06
+	mass = 0.03333333
 	thermalMassModifier = 12.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.7
@@ -271046,7 +271046,7 @@ E-ì¨±ÕîrÎ?$XLÚıoØ­a«UÎf{=çVºQğ©å¸LÎ½Z„“Êq‘“”pi…-Êî¸—(}À)Ï›ÚÚÿæu~ƒçLyÔ^Û¿
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500206 //#autoLOC_500206 = The Big-S line of wings are C7's largest lifting surfaces to date. Not only are they Sturdy and heat resistant enough to survive reentry, but also have enough internal volume to carry optional fuel tanks.
 	attachRules = 0,1,0,1,1
-	mass = 0.5
+	mass = 0.2777778
 	thermalMassModifier = 8.0
 	heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271098,7 +271098,7 @@ E-ì¨±ÕîrÎ?$XLÚıoØ­a«UÎf{=çVºQğ©å¸LÎ½Z„“Êq‘“”pi…-Êî¸—(}À)Ï›ÚÚÿæu~ƒçLyÔ^Û¿
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500209 //#autoLOC_500209 = The Big-S line of wings are C7's largest lifting surfaces to date. Not only are they Sturdy and heat resistant enough to survive reentry, but also have enough internal volume to carry optional fuel tanks.
 	attachRules = 0,1,0,1,1
-	mass = 0.15
+	mass = 0.08333333
 	thermalMassModifier = 8.0
 	heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271152,7 +271152,7 @@ E-ì¨±ÕîrÎ?$XLÚıoØ­a«UÎf{=çVºQğ©å¸LÎ½Z„“Êq‘“”pi…-Êî¸—(}À)Ï›ÚÚÿæu~ƒçLyÔ^Û¿
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500212 //#autoLOC_500212 = The Big-S line of wings are C7's largest lifting surfaces to date. Not only are they Sturdy and heat resistant enough to survive reentry, but also have enough internal volume to carry optional fuel tanks.
 	attachRules = 0,1,0,1,1
-	mass = 0.23
+	mass = 0.1277778
 	thermalMassModifier = 8.0
 	heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271207,7 +271207,7 @@ E-ì¨±ÕîrÎ?$XLÚıoØ­a«UÎf{=çVºQğ©å¸LÎ½Z„“Êq‘“”pi…-Êî¸—(}À)Ï›ÚÚÿæu~ƒçLyÔ^Û¿
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500215 //#autoLOC_500215 = Large heat resistant spaceplane fin.
 	attachRules = 0,1,0,1,1
-	mass = 0.45
+	mass = 0.25
 	thermalMassModifier = 8.0
 	heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271256,7 +271256,7 @@ E-ì¨±ÕîrÎ?$XLÚıoØ­a«UÎf{=çVºQğ©å¸LÎ½Z„“Êq‘“”pi…-Êî¸—(}À)Ï›ÚÚÿæu~ƒçLyÔ^Û¿
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500218 //#autoLOC_500218 = The Big-S line of wings are C7's largest lifting surfaces to date. Not only are they Sturdy and heat resistant enough to survive reentry, but also have enough internal volume to carry optional fuel tanks.
 	attachRules = 0,1,0,1,1
-	mass = 0.1
+	mass = 0.05555556
 	thermalMassModifier = 8.0
 	heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271400,7 +271400,7 @@ H¡ÊnË²˜óÚ”æwòçÇfÁ½O9Á»‹i©  ªŞktX|…ƒPSv”’¿¤?…jöìt:K€µÊ‹Ÿ[¬Åü­SÓí¹O×ŸxÄ
 	CoMOffset = -0.0745, -0.2, 0
 	CoLOffset = -0.0745, -0.2, 0
 	CoPOffset = -0.0745, -0.2, 0
-	mass = 0.1
+	mass = 0.05555556
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271522,7 +271522,7 @@ s§w2º#ÉkfsñŒxÔë/Î0ãt²Ç¿6ÁéïrÀ  Àë|ÑĞBôuÄ=nÙÑ&ıì}»³VV|)ß©_ñÿ¹AİmV¢õ`Ú½¬Úl
 	CoMOffset = 0.08, -0.2, 0.00664
 	CoLOffset = 0.08, -0.2, 0.00664
 	CoPOffset = 0.08, -0.2, 0.00664
-	mass = 0.037
+	mass = 0.02055556
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271619,7 +271619,7 @@ DŸwCíÌ3nW¥B’“KßõS¤ÆRØªôéÈ§çåLßŸŠ¸mödÃ-–]»k6½Ë–IYÌ+«½¬®ûà •ÀB|Êªªÿ_à¬Ì01çx
 	CoMOffset = -0.08, -0.3, 0
 	CoLOffset = -0.08, -0.3, 0
 	CoPOffset = -0.08, -0.3, 0
-	mass = 0.078
+	mass = 0.04333333
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271837,7 +271837,7 @@ dù‹c‡œêdó¦T²{:ê+)ÌïüNkÕşŠËéı7º1PØ­—-˜û« ¹T5ù²ç×)NCnEãnˆn\_z¬ÓîCnŠ’&tª†
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500230 //#autoLOC_500230 = A vaguely wing shaped board. Use at your own risk.
 	attachRules = 0,1,0,1,1
-	mass = 0.2
+	mass = 0.1111111
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271899,7 +271899,7 @@ tg?Ù›¾øˆ™¾òH?C¿¶|„¾™?‹ H¿œ H¾Ã_r?Ğ¤¾    i—O?KÎ¿    i—O?KÎ¿    Ã_r?Ğ¤¾ 
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500233 //#autoLOC_500233 = A vaguely wing shaped board. Use at your own risk.
 	attachRules = 0,1,0,1,1
-	mass = 0.2
+	mass = 0.1111111
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -271965,7 +271965,7 @@ v¹|úr?  €¿q¿ ¾İ9<s?  €¿ér ¾puµás?  €¿  €?²4²4  €?  €?W•š3ƒ4  €?  €?Àx
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500236 //#autoLOC_500236 = A vaguely wing shaped board.
 	attachRules = 0,1,0,1,1
-	mass = 0.1
+	mass = 0.05555556
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272021,7 +272021,7 @@ connector3Å p¿        ô5¿        ô5?  €?  €?  €?   Untagged          `   
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500239 //#autoLOC_500239 = Found in a trash bin next to a wing factory.
 	attachRules = 0,1,0,1,1
-	mass = 0.05
+	mass = 0.02777778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272079,7 +272079,7 @@ connector4Å ğ¾       €ô5¿        ô5?  €?  €?  €?   Untagged          `   
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500242 //#autoLOC_500242 = Found in a trash bin next to a wing factory.
 	attachRules = 0,1,0,1,1
-	mass = 0.05
+	mass = 0.02777778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272143,7 +272143,7 @@ connector5Å p¿        ô5¿        ô5?  €?  €?  €?   Untagged          `   
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500245 //#autoLOC_500245 = Standard Delta configuration wings. These wings provide high lift and a stable center of gravity for your everyday lifting needs.
 	attachRules = 0,1,0,1,1
-	mass = 0.2
+	mass = 0.1111111
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272206,7 +272206,7 @@ connector5Å p¿        ô5¿        ô5?  €?  €?  €?   Untagged          `   
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500248 //#autoLOC_500248 = This small delta wing has breezed through extensive stress tests and design revisions, mostly because it wasn't involved in any of those. In any case, it should work as a comparatively reliable lifting surface.
 	attachRules = 0,1,0,1,1
-	mass = 0.05
+	mass = 0.02777778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272267,7 +272267,7 @@ connector5Å p¿        ô5¿        ô5?  €?  €?  €?   Untagged          `   
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500251 //#autoLOC_500251 = Made from the finest materials at hand, these flight surfaces are guaranteed to operate while attached to the craft. However studies have shown that a lack of atmosphere *may* slightly impede function. No refunds.
 	attachRules = 0,1,0,0,0
-	mass = 0.05
+	mass = 0.02777778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272326,7 +272326,7 @@ Elevon1COL   €        &½{3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500254 //#autoLOC_500254 = Made from the finest materials at hand, these flight surfaces are guaranteed to operate while attached to the craft. However studies have shown that a lack of atmosphere *may* slightly impede function. No refunds.
 	attachRules = 0,1,0,0,0
-	mass = 0.06
+	mass = 0.03333333
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272402,7 +272402,7 @@ Elevon2COL   €               €   €  €?  €?  €?  €?   Untagged           "  
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500257 //#autoLOC_500257 = Made from the finest materials at hand, these flight surfaces are guaranteed to operate while attached to the craft. However studies have shown that a lack of atmosphere *may* slightly impede function. No refunds.
 	attachRules = 0,1,0,0,0
-	mass = 0.08
+	mass = 0.04444444
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272475,7 +272475,7 @@ Bº  €?  €?          €?œ[º°ñ½F8~?  €?œ[º°ñ½F8~?  €?œ[º°ñ½F8~?  €?  €?      
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500260 //#autoLOC_500260 = Feel the need to attach an elevator, rudder or aileron to just about any surface you can get your mitts on? Well this small elevon is for you. Made of mostly new factory parts, it will fit just about anywhere. Just don't expect a huge performance out of such a small part.
 	attachRules = 0,1,0,0,0
-	mass = 0.04
+	mass = 0.02222222
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272534,7 +272534,7 @@ Elevon4COL   €               €   €  €?  €?  €?  €?   Untagged              
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500263 //#autoLOC_500263 = Just another one of these elevon things... wait, this one is swept! Wow!
 	attachRules = 0,1,0,0,0
-	mass = 0.08
+	mass = 0.04444444
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272597,7 +272597,7 @@ Elevon5COL   €´Õøè¥ €3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500266 //#autoLOC_500266 = Strakes are like sideburns for your plane. The girls will fall for you!
 	attachRules = 0,1,0,1,1
-	mass = 0.05
+	mass = 0.02777778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272661,7 +272661,7 @@ Elevon5COL   €´Õøè¥ €3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500269 //#autoLOC_500269 = This wing has been constructed out of surplus wing components. Comes complete with "like new" finish. Intended uses include very large canards, and leading edges of larger delta wings.
 	attachRules = 0,1,0,1,1
-	mass = 0.1
+	mass = 0.05555556
 	thermalMassModifier = 8.0 // the dang things are light, so 3200 kJ/tonne-K
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272721,7 +272721,7 @@ Elevon5COL   €´Õøè¥ €3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500272 //#autoLOC_500272 = This wing has been constructed out of surplus wing components. Comes complete with "like new" finish.
 	attachRules = 0,1,0,1,1
-	mass = 0.1
+	mass = 0.05555556
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272784,7 +272784,7 @@ Elevon5COL   €´Õøè¥ €3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500275 //#autoLOC_500275 = This wing has been constructed out of surplus wing components. Comes complete with "like new" finish.
 	attachRules = 0,1,0,1,1
-	mass = 0.05
+	mass = 0.02777778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272840,7 +272840,7 @@ Elevon5COL   €´Õøè¥ €3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500278 //#autoLOC_500278 = This wing has been constructed out of surplus wing components. Comes complete with "like new" finish.
 	attachRules = 0,1,0,1,1
-	mass = 0.025
+	mass = 0.01388889
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272900,7 +272900,7 @@ Elevon5COL   €´Õøè¥ €3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500281 //#autoLOC_500281 = This wing has been constructed out of surplus wing components. Comes complete with "like new" finish.
 	attachRules = 0,1,0,1,1
-	mass = 0.113
+	mass = 0.06277778
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -272960,7 +272960,7 @@ Elevon5COL   €´Õøè¥ €3       €  €?  €?  €?  €?   Untagged             
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500284 //#autoLOC_500284 = This wing has been constructed from surplus wing components. Comes complete with "like new" finish.
 	attachRules = 0,1,0,1,1
-	mass = 0.226
+	mass = 0.1255556
 	thermalMassModifier = 8.0
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.95
@@ -273031,7 +273031,7 @@ v¹|úr?  €¿q¿ ¾İ9<s?  €¿ér ¾Y«wµás?  €¿0ùd?hñ4(ùä>  €?-ùd?şmŸ32ùä>  €?-ùd?â—
 	manufacturer = #autoLOC_501664 // #autoLOC_501664 = Experimental Engineering Group
 	description = #autoLOC_6012022 // #autoLOC_6012022 = A large 1.25 container, capable of storing a wide variety of equipment but specifically designed for storing precision scientific instruments and protecting them from the rigours of launch, travel, and landing on distance planets Warning: Contents not pressurized. Risk of Snack Bag explosion >99%.
 	attachRules = 1,0,1,1,0
-	mass = 0.15
+	mass = 0.08333333
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -273446,7 +273446,7 @@ m à±;ÿ»¶”QM¸€ô¸1«‡[Z‘½7¡ÁÓ#z.ßUƒ|¬mVÈ¶«E§Ş;G…Äé£ŞÚë^Éß%ÖŞ¹eõÅS¾ùC–ÍŒ5
 	manufacturer = #autoLOC_501664 // #autoLOC_501664 = Experimental Engineering Group
 	description = #autoLOC_8004434 // #autoLOC_8004434 = This sturdy unit keeps the expensive and delicate equipment our astronauts need to bring with them safely stored.  Rigorous engineering studies have shown it to be 20% more effective than 'a picnic cooler and some duct tape' at making sure these items arrive intact at their destination.
 	attachRules = 1,1,1,1,0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -273669,7 +273669,7 @@ Bø=­R 8$Î5«ÜŒÉgô à-‰p©vş£Î¿Ğ‰$LïS3*SNµ<Ş=é„Í¾<á ¸¬²ûÑŸ>“r$Ãğcâjê±M
 	manufacturer = #autoLOC_501680 //#autoLOC_501680 = Reaction Systems Ltd
 	description = #autoLOC_8003427	//#autoLOC_8003427 = When you just don't have enough delta-V to visit all your favorite spots on Minimus, or want to circumnavigate Dres freestyle, you'll want to pack this spare EVA fuel cylinder for extra-long duration EVA trips.\n\nHandily tranfers fuel to your EVA jetpack with a child-proof safety seal.
 	attachRules = 0,0,0,0,0
-	mass = 0.005
+	mass = 0.002777778
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -274232,7 +274232,7 @@ H!YÈ;0ÛK¾õåÇhl‹àìi’ÛÀÆ„a9ş•MH8J$g…D{×—õ¶7‹¿^6Ñj%ÿxŞğ'ã_šèåó6> v&”ğí
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_6006114 // #autoLOC_6006114 = Occaisionally, even the most seasoned of rocket jockeys wants to be safely back on the ground - and what better way to securely show your affection for gravity than by clamping yourself to it?   The Stamp-O-Tron ground anchor provides a secure point to which you can attach other parts with EVA construction, including docking ports if you'd like to park a larger vessel safely.  Expect stocks in C7 Aerospace Division to jump if negative gravity is ever a real thing.
 	attachRules = 0,0,1,1,0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -274974,7 +274974,7 @@ PóÆ¼B5Í	rvåˆ$-](œ¼ï®”ï_z¥U³æ×‚2Àîû®Ë1“®+ ï£êõ@.€ ïŒpÀ < ğPART
 	manufacturer = #autoLOC_501639 //#autoLOC_501639 = Reaction Systems Ltd
 	description = #autoLOC_8003421 //#autoLOC_8003421 = The EVA jetpack has been a workhorse of kerbal astronauts for decades. It has been so useful that some kerbals have taken to wearing them inside the complex, back home, and even in their showers.\n\nIt gives unparalleled mobility in space and low gravity environments but can be tricky to master. Incidences of injury while using one have dropped to nearly 10% after sufficient training.
 	attachRules = 0,0,0,0,0
-	mass = 0.02
+	mass = 0.01111111
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -276241,7 +276241,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             EVAjetpack.p
 	manufacturer = #autoLOC_168875 //#autoLOC_168875 = Found lying by the side of the road
 	description = #autoLOC_8003424 //#autoLOC_8003424 = This Kerbal-sized ram-air parachute is perfect for saving intrepid pilots from a mis-considered aircraft design, or hijinks involving the top of the VAB and a hopeffuly functional autopilot.   Why should Kerbals put their trust in something that was found lying by the side of the road?   Well, because there wasn't a Kerbal-shaped crater next to it!
 	attachRules = 0,0,0,0,0
-	mass = 0.004
+	mass = 0.002222222
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -277515,7 +277515,7 @@ ZRÔ»•kJÌ÷›)öÆíŸvçßh{Ş28Ğ[nYq;Ò*ëfOoZ¶Aíÿ†]r|èõ-¬üËÅr¼¦—]B™åµLìûƒ-NW6¿
 	manufacturer = #autoLOC_501649 //#autoLOC_501649 = Kerbal Motion LLC
 	description = #autoLOC_6005095	//#autoLOC_6005095 = This repair kit has some generic widgets, tape, tools, and other knicknacks to allow intrepid Kerbals to effect repairs on broken parts that may have suffered unplanned dissassembly.  Note: Repair kits will be used up effecting repairs, and more than one repair kit may be required for especially large parts.
 	attachRules = 0,0,0,0,0
-	mass = 0.005
+	mass = 0.002777778
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -278539,7 +278539,7 @@ wà	Xç:î>À   1¦K=   l1ÕN¨ÀÀ   -eÓ™K9µİpµÚz@  Œ~ƒ    z@  À>×¨â½èz<İÌÂ¾^
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description =  #autoLOC_6002539 //#autoLOC_6002539 = Probodobodyne has meticulously curated and assembled this case full of various devices and knicknacks, all of which are useful for science experiments.  Despite observations to the contrary, we feel that the inability for Kerbal astronauts to find a good use for the collapsible top hat and magic wand to be more of an issue with lack of creativity, rather than a case of items being left inside from a prior use case.
 	attachRules = 0,0,0,0,0
-	mass = 0.015
+	mass = 0.008333333
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -278577,7 +278577,7 @@ wà	Xç:î>À   1¦K=   l1ÕN¨ÀÀ   -eÓ™K9µİpµÚz@  Œ~ƒ    z@  À>×¨â½èz<İÌÂ¾^
 	manufacturer = #autoLOC_501664 // #autoLOC_501664 = Experimental Engineering Group
 	description = #autoLOC_8012055 // #autoLOC_8012055 = When you want to bring everything and the kitchen sink, this is the storage unit for you. Capable of transporting 24 different cargo items, or a small houses worth of goods and furniture. Colonize Duna in style!
 	attachRules = 1,0,1,1,0
-	mass = 0.4	
+	mass = 0.2222222	
 	dragModelType = default
 	crashTolerance = 14
 	bulkheadProfiles = size2
@@ -278617,7 +278617,7 @@ wà	Xç:î>À   1¦K=   l1ÕN¨ÀÀ   -eÓ™K9µİpµÚz@  Œ~ƒ    z@  À>×¨â½èz<İÌÂ¾^
 	manufacturer = #autoLOC_501664 // #autoLOC_501664 = Experimental Engineering Group
 	description = #autoLOC_8012058 // #autoLOC_8012058 = A small storage container, built with conformal aerodynamics in mind to allow its use on both aircraft and spacecraft. Perfect for small cargo needs, or a secret snack supply.
 	attachRules = 0,1,0,0,0
-	mass = 0.02
+	mass = 0.01111111
 	dragModelType = default
 	crashTolerance = 15
 	bulkheadProfiles = srf
@@ -279935,7 +279935,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             M1-3 Pod.tga
 	manufacturer = #autoLOC_501673  //#autoLOC_501673 = Kerlington Model Rockets and Paper Products Inc
 	description = #autoLOC_501806    //#autoLOC_501806 = This modern cockpit includes space for three crew members, and integrated RCS thrusters.
 	attachRules = 1,0,1,1,0
-	mass = 2.6
+	mass = 1.444444
 	
 	dragModelType = default
 	maximum_drag = 0.20
@@ -280195,7 +280195,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             M1-3 Pod.tga
 	manufacturer = #autoLOC_501631 //#autoLOC_501631 = STEADLER Engineering Corps
 	description = #autoLOC_6002518 //#autoLOC_6002518 = The Moho Planetary Observer combines the function of many parts in one, to help make sure the searing heat of its primary mission target is distributed and dissipated without harming its critical control functionality.
 	attachRules = 1,0,1,1,0
-	mass = 0.395
+	mass = 0.2194444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -281568,7 +281568,7 @@ t—a¥cÆ}é=Ô›¸ĞLò¸ªÌNüªÒÎ6_Ñ<ÊM2Üİ>qoŸ¿).‚'sòánáü37òhœAqÉ[Ú>¢eÂäu5 
 	manufacturer = #autoLOC_501631 //#autoLOC_501631 = STEADLER Engineering Corps
 	description = #autoLOC_6002521 //#autoLOC_6002521 = The Moho Transfer Module houses a control core and a generously sized xenon tank. Perfect for transporting large scientific payloads anywhere where large amounts of deltaV are required.
 	attachRules = 1,0,1,1,0
-	mass = 0.415
+	mass = 0.2305556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -282815,7 +282815,7 @@ Hva~¨Åì•RX0”z·¼ßŸ™Q¯vÅ8ÀRÉéŒ­2G7¶‘5+ë³àS—É<ıák`·£ŸchÒÒHy²†¿µ!ée½äÃò`V
 	manufacturer = #autoLOC_501631 //#autoLOC_501631 = STEADLER Engineering Corps
 	description = #autoLOC_500287 //#autoLOC_500287 = After many years of research, STEADLER Corps rocket engineers discovered that large flywheels were necessary to keep large ships under control. The "Advanced Reaction Wheel Module, Large" addresses that issue by its use of patented Large Flywheelsâ„¢ to provide "More Torque" (patent pending). STEADLER promptly dismissed all criticism concerning the necessity of so much research work, stating that 'it only sounds so simple now that we've figured it out'. Critics remain skeptical, but none can disagree that this module does indeed pack a lot more punch than previous models. It also needs a lot more power, but STEADLER is currently carrying out intense research work on why that is.
 	attachRules = 1,0,1,1,0
-	mass = 0.2
+	mass = 0.1111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -282953,7 +282953,7 @@ o3  €?ëFw¿ëƒ„¾ÀµI4  €?  €¿ƒñÒ3;ôÒ³  €?  €¿j ¹3Ë¹³  €?ëFw¿éƒ„>,"/4  €?ìFw¿äƒ„>}‰
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500290 //#autoLOC_500290 = The PPD-12 was developed to provide a high visibility control room for orbital stations, and a place for thoughtful Kerbals to contemplate the beauty of the cosmos.
 	attachRules = 1,0,1,1,0
-	mass = 0.94
+	mass = 0.5222222
 	dragModelType = default
 	maximum_drag = 0.20
 	minimum_drag = 0.20
@@ -283708,7 +283708,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             ksp_l_cupola
 	manufacturer = #autoLOC_501630 //#autoLOC_501630 = Kerlington Model Rockets and Paper Products Inc
 	description = #autoLOC_500293 //#autoLOC_500293 = The EAS-1 External Command Seat provides all the controls needed to fully operate a spacecraft, just like a command pod, but without such needless frivolities as "pressurized interiors", or "seat belts". It's bare-bones, pedal-to-the-metal efficiency at its finest.
 	attachRules = 0,1,0,1,0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = default
 	maximum_drag = 0.05
 	minimum_drag = 0.05
@@ -284234,7 +284234,7 @@ $|èÖ/Cò¯ÿ°HeU+El…>M"£+%R­Õ‡„á¦.h´“94Wî†ºUb…T*	”dÂ®L£!Dè;4]çBŞºT­-[!şä×áÕ’
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500296 //#autoLOC_500296 = The HSC was an invention of necessity - how do we store 4 Kerbals on-orbit without any real provisions for return? Who needed this remains a mystery, as do his motivations.
 	attachRules = 1,0,1,1,0
-	mass = 2.25
+	mass = 1.25
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -284584,7 +284584,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             	cabin.tga   
 	manufacturer = #autoLOC_501631 //#autoLOC_501631 = STEADLER Engineering Corps
 	description = #autoLOC_500299 //#autoLOC_500299 = The Advanced Inline Stabilizer module containing a larger, heavier array of reaction wheels. These spin very quickly to create torque without wasting propellant. These larger wheels are driven by proportionally larger electric motors, so keep an eye on your Electricity levels.
 	attachRules = 1,0,1,1,0
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -284726,7 +284726,7 @@ X¹n9VÓ  q«#M»­8¹30Ó7K¬   Š¡¯/{›x¿_dËñ¦÷å—r•›à¨ÉYòı1†–œ&i¹	÷j&Új—¦ËÍÀãŒú¶
 	title = #autoLOC_500301 //#autoLOC_500301 = Small Inline Reaction Wheel
 	description = #autoLOC_500302 //#autoLOC_500302 = The inline reaction wheel system uses a series of spinning discs that are going "Very Fast", to generate the torque necessary to control a spacecraft without wasting any propellant. Please do not attempt to service this device while it is running.
 	attachRules = 1,0,1,1,0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -285850,7 +285850,7 @@ MuüĞçÔ_F9åOÏç·‹òÎ5á¤òóØÜ^HÙş/$¨%ctúFÏâãËì9k*ı‰„+ë¢¸KÚ^ñS7tvP´™«°ŠúWæ
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500308 //#autoLOC_500308 = C7 Aerospace is proud to present our second generation cockpit. This unit is equipped to ensure survival in some of the worst conditions possible. The extra re-enforcement has slightly increased the weight.
 	attachRules = 1,0,1,1,0
-	mass = 1.25
+	mass = 0.6944444
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -286029,7 +286029,7 @@ MuüĞçÔ_F9åOÏç·‹òÎ5á¤òóØÜ^HÙş/$¨%ctúFÏâãËì9k*ı‰„+ë¢¸KÚ^ñS7tvP´™«°ŠúWæ
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500311 //#autoLOC_500311 = A cozy passenger cabin derived from a business jet and upgraded for use in spacecraft.
 	attachRules = 1,0,1,1,0
-	mass = 1
+	mass = 0.5555556
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -286153,7 +286153,7 @@ MuüĞçÔ_F9åOÏç·‹òÎ5á¤òóØÜ^HÙş/$¨%ctúFÏâãËì9k*ı‰„+ë¢¸KÚ^ñS7tvP´™«°ŠúWæ
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500314 //#autoLOC_500314 = A next generation inline cockpit. Designed for sleek high speed aircraft.
 	attachRules = 1,0,1,1,0
-	mass = 1
+	mass = 0.5555556
 	dragModelType = default
 	maximum_drag = 0.08
 	minimum_drag = 0.08
@@ -286497,7 +286497,7 @@ J4       a–ÇR”Ù-‰àM%&	RoL             Ã¸@Š      ÃY´ª²÷JqO¬@       5½>ºº&
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500317 //#autoLOC_500317 = This capsule was designed for lightweight non-atmospheric landers, and seats a single occupant. Features a novel full-body crumple-zone technology.
 	attachRules = 1,0,1,1,0
-	mass = 0.6
+	mass = 0.3333333
 	dragModelType = default
 	maximum_drag = 0.20
 	minimum_drag = 0.2
@@ -287911,7 +287911,7 @@ GgØ;Ã¿Ş£ÕN‡ïÕe?/¶!@   ‡ô mœXdöÍôùfägo&ekåeo¦!|À      À™Ú	&ësa>ìhÕËù/
 	bodyLiftOnlyAttachName = bottom
 
 	// --- standard part parameters ---
-	mass = 0.8
+	mass = 0.4444444
 
 	dragModelType = default
 	maximum_drag = 0.2
@@ -288515,7 +288515,7 @@ KÀªş„!  	œmÓ·ÊÀ R\P  ³ªÜ   
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500323 //#autoLOC_500323 = After 'accidentally' snapping the nose off of the Mk2 Cockpit, the engineers over at the C7 Aerospace Division realised that such a design looked quite functional. They quickly hammered out the following part and spruced it up for all your inline spaceplane cockpit needs!
 	attachRules = 1,0,1,1,0
-	mass = 2.0
+	mass = 1.111111
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -289405,7 +289405,7 @@ gSÌ{­\Í(y<%ÍzFcÉñCù   ;¯¯¦kGØØ¹çÍ¹@ÊOfÖÕ7À@˜Z–OÄok!¶É-h’È\O¨9—F×Ë=:‘ÿ>¦sa1
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500326 //#autoLOC_500326 = Fits not one, but two Kerbals! This spearhead-shaped new Mk2 design from the lovable folks over at the C7 Aerospace Division should help you pierce the great blue yonder known as the Sky.
 	attachRules = 1,0,1,1,0
-	mass = 2.0
+	mass = 1.111111
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -289730,7 +289730,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor       FlagKSP/Alpha/Cutof
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500329 //#autoLOC_500329 = After extensive research and testing to improve the safety factor of next-generation modules for their Mk2 series, engineers at C7 Aerospace got fed up with having to constantly find new recruits willing to test their prototypes, and decided to develop an autonomous AI capable of doing the same job, only with a lot less screaming over the comms link. This was met with divided opinions, some criticizing C7 as taking the "booooring" route, others praising them for the innovation, while yet others reacted by shutting themselves in bunkers in anticipation of the time when these units will gain sentience and turn on their creators. C7 has vehemently denied any involvement in all sentient-AI-related catastrophes so far.
 	attachRules = 1,0,1,1,0
-	mass = 0.20
+	mass = 0.1111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -289966,7 +289966,7 @@ JB¿YŒ&¿  €?+—^¾ÏiH¿†>¿  €?  €?–$¶      €¿  €?p+4      €¿  €?6      €¿  €? 
 	manufacturer = #autoLOC_501632 //#autoLOC_501632 = Sean's Cannery
 	description = #autoLOC_500332 //#autoLOC_500332 = This cozy capsule seats two, and is very lightweight. However, don't expect it to survive atmospheric entry or even a sneeze.
 	attachRules = 1,0,1,1,0
-	mass = 2.5
+	mass = 1.388889
 	dragModelType = default
 	maximum_drag = 0.20
 	minimum_drag = 0.15
@@ -291943,7 +291943,7 @@ Mk2Can.png    Mk2Can_glow.png    ï»¿PART
 	manufacturer = #autoLOC_501632 //#autoLOC_501632 = Sean's Cannery
 	description = #autoLOC_500332 //#autoLOC_500332 = This cozy capsule seats two, and is very lightweight. However, don't expect it to survive atmospheric entry or even a sneeze.
 	attachRules = 1,0,1,1,0
-	mass = 1.355  //Same as the LEM from Making History - less crash tolerance, etc. than a re-entry pod
+	mass = 0.7527778  //Same as the LEM from Making History - less crash tolerance, etc. than a re-entry pod
 	dragModelType = default
 	maximum_drag = 0.20
 	minimum_drag = 0.15
@@ -292431,7 +292431,7 @@ F?æ‚Ñ„A`×[„”µ¸íÆrG5­%7©ò{ƒ±o2KOĞŸÜ¹¬<¼°j1äkË´0KÜı&¾Ã|on'Ğµ‹ë×Ê5ö^i\ª&'
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500335 //#autoLOC_500335 = A cockpit for those die hard explorers. Especially useful when transporting extra crew to a remote rock to save the day.
 	attachRules = 1,0,1,1,0
-	mass = 3.5
+	mass = 1.944444
 	dragModelType = default
 	maximum_drag = 0.1
 	minimum_drag = 0.1
@@ -293115,7 +293115,7 @@ SÏÃl*„úZ•RU‘ö>U.æaçDD±7ì„ ˆ‡AxŠ[ù“§üÉ„PeãĞ^“jW;ôˆâaCõ´&QËô_·dğÁB³íúQÆ$
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500338 //#autoLOC_500338 = QBE is Probodobodyne's latest development in probe miniaturization. Despite it's diminutive size, the QBE is a fully-functional and incredibly lightweight command unit. All this goodness comes at a price however: The QBE's tiny enclosure means there is no room for internal reaction wheels, and battery capacity is pitiful at best. Despite all this, or perhaps because of it, many engineers have found it to be ideally suited for those 'optional return' missions.
 	attachRules = 1,0,1,1,0
-	mass = 0.07
+	mass = 0.03888889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -293425,7 +293425,7 @@ npì0× Z»
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500341 //#autoLOC_500341 = The HECS core capabilities go far beyond its sleek, 6-sided futuristic casing. This probe core provides advanced guidance assistance technology, and comes fitted with internal reaction wheels and decently-sized batteries. Despite concerns that one day, autonomous spacecraft cores could become self-aware and turn against their creators, or even become very stubborn against opening pod bay doors, Probodobodyne insists that these unmanned AI-driven devices are the way of the future.
 	attachRules = 1,0,1,1,0
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -293676,7 +293676,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             hecsDiffuse.
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500341 //#autoLOC_500341 = The HECS core capabilities go far beyond its sleek, 6-sided futuristic casing. This probe core provides advanced guidance assistance technology, and comes fitted with internal reaction wheels and decently-sized batteries. Despite concerns that one day, autonomous spacecraft cores could become self-aware and turn against their creators, or even become very stubborn against opening pod bay doors, Probodobodyne insists that these unmanned AI-driven devices are the way of the future.
 	attachRules = 1,0,1,1,0
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -293817,7 +293817,7 @@ KTX1                Hx R¥P  %4ß                 R  )   {  !   œ   
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500347 //#autoLOC_500347 = The OKTO2 is far more than a flatter variant of the original OKTO. This new iteration of the ubiquitous 8-sided probe core features a much more advanced guidance system. This new model however, does not feature built-in reaction wheels and does requires more power to run, even on standby. Its internal battery supply is also very limited, being intended mainly to keep the Standby LEDs lit.
 	attachRules = 1,0,1,1,0
-	mass = 0.04
+	mass = 0.02222222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -294095,7 +294095,7 @@ _‹ÿvÏõ}íMêÜ¹¡:œÄ‰cÖs…ñ•ÚVI¯G/³Ø|×Xv‘^üoG*YÂ|¹¯}üíÆåóãØ¶tÊfïÿäÅ{@ª½¤Å5kÒ£
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500344 //#autoLOC_500344 = The OKTO is the next step in unmanned control technology. This small unit can not only receive and relay control, it also provides automatic stabilization assistance, just as a live pilot would. Also, its 8-sided stylistic design features lots of flat surfaces for attaching equipment.
 	attachRules = 1,0,1,1,0
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -294525,7 +294525,7 @@ S_¤ …kÒú™ùì¡ñ—y›Ãp¿1¥Y›¶ü^qåš3D;1‘ø}*í“ûû‰8åx¼F«×j_óğ£)ÑÑ	á¶-üÚè“-aö±Ö­
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500350 //#autoLOC_500350 = A sturdy housing for a robust probe and battery system - no assembly required! Thought intended as the body for surface rovers, we've been told by our most day-dreaming of engineers that the possibilities are endless! While it has a Stability Assistance System, the RoveMate lacks reaction wheels so bring some along if you want to hold that attitude.
 	attachRules = 1,0,1,1,0
-	mass = 0.15
+	mass = 0.08333333
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -294642,7 +294642,7 @@ KTX1               Hx RÊ›   ÃGR                 R     i     t   
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500350 //#autoLOC_500350 = A sturdy housing for a robust probe and battery system - no assembly required! Thought intended as the body for surface rovers, we've been told by our most day-dreaming of engineers that the possibilities are endless! While it has a Stability Assistance System, the RoveMate lacks reaction wheels so bring some along if you want to hold that attitude.
 	attachRules = 1,0,1,1,0
-	mass = 0.15
+	mass = 0.08333333
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -295642,7 +295642,7 @@ M‰‘U   Ø¤Š1~‡Ê'[8¬YÔ‡¶à%`õ65é(:Š96K.Öm7:Û·ı,î¼±cw^ôËhíÚ×¶şöîœŠ«Ü  q=o2¾¨
 	manufacturer = #autoLOC_501631 //#autoLOC_501631 = STEADLER Engineering Corps
 	description = #autoLOC_500353 //#autoLOC_500353 = A larger version of the popular RGU system, developed in partnership with the Rockomax conglomerate.
 	attachRules = 1,0,1,1,0
-	mass = 0.5
+	mass = 0.2777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -296148,7 +296148,7 @@ f «úvÎSàß¿_ÅGš†iÈ¿}ŸÇé/˜13Íl3
 	manufacturer = #autoLOC_501631 //#autoLOC_501631 = STEADLER Engineering Corps
 	description = #autoLOC_500356 //#autoLOC_500356 = The STEADLER RGU core is one of the most complete command units available to date, featuring all the latest guidance systems, plus its own internal set of Reaction Wheels. STEADLER claims this is the closest one can get to a fully self-contained spacecraft. (Some assembly required. Spacecraft sold separately)
 	attachRules = 1,0,1,1,0
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -296881,7 +296881,7 @@ z9øåÃáO2¼hp~ö¦ğÌ<lï”ğöh€µX•+CºçcìÏ1ûÕK •“_6èXŠšs5’±Éñu6kgŠÓ/gÇ8ŸÔ‹ügkÖ½È
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500359 //#autoLOC_500359 = The Stayputnik offers the ultimate solution in crew safety. A lightweight sphere equipped with remote receivers and relay control input from the ground to the craft, it carries no crew at all, thus keeping them perfectly safe from all harm. This device does require electricity to operate however, and will cease to function if the power runs out. The built-in batteries should keep it going for about 10 minutes.
 	attachRules = 1,0,1,1,0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -297076,7 +297076,7 @@ y¿ÿëh×ÇlP$Æßô6Pú“ÜoŸ:Åä÷yî:u2Wqpğ@^ãÓ^±è`dÄP,·¬e‚Õ˜²SMíªSŸ¶µ¶PL
 	description = #autoLOC_500362 //#autoLOC_500362 = New breakthroughs at FLOOYD Dynamics have made the FTX Fuel Duct a reality. Altough criticized by some as being no more than 'a sewage pipe painted yellow', most agree that the yellow is a relatively nice color, and that fuel lines are indeed able to pump fuel from side-mounted fuel tanks. After the recall of the FTX-1 series, All FTX-2 lines have arrows painted on to indicate the fuel flow direction, so engineers can tell which way around they are supposed to go.
 	attachRules = 0,1,0,0,1
 	node_attach = 0.0, 0.0, 0.0, 1.0, 0.0, 0.0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = none
 	maximum_drag = 0.02
 	minimum_drag = 0.02
@@ -297317,7 +297317,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             EAS-4 Strut 
 	description = #autoLOC_500365 //#autoLOC_500365 = The Strut Connector is highly regarded by many spacecraft engineers as they help in constructing more stable spacecraft. Once both sides are connected, a structural beam is created to link both ends, allowing for sturdier (and heavier) construction.
 	attachRules = 0,1,0,0,1
 	node_attach = 0.0, 0.0, 0.0, 1.0, 0.0, 0.0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = none
 	maximum_drag = 0.02
 	minimum_drag = 0.02
@@ -301058,7 +301058,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Decouplers.p
 	manufacturer = #autoLOC_501633   //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_6006103   //#autoLOC_6006103 = The -10C versions of probododynes award winning line of photovoltaic cells have a unique feature - they're round!   This special method of deployment offers yet another option for a spacecraft's power needs. Warning: Not retractable once deployed.
 	attachRules = 0,1,0,0,1
-	mass = 0.09
+	mass = 0.05
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -301110,7 +301110,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Decouplers.p
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_6006100 //#autoLOC_6006100 = The -10C versions of probododynes award winning line of photovoltaic cells have a unique feature - they're round!   This special method of deployment offers yet another option for a spacecraft's power needs.
 	attachRules = 0,1,0,0,1
-	mass = 0.13
+	mass = 0.07222222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -301161,7 +301161,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Decouplers.p
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_6006106   //#autoLOC_6006106 = A larger version of the OX-4 series of solar panels.  Includes advanced heat radiators, and a deploying bracket to keep the panels clear of other senstive instruments on the craft. Warning: Not retractable once deployed
 	attachRules = 0,1,0,0,1
-	mass = 0.09
+	mass = 0.05
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -301212,7 +301212,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Decouplers.p
 	manufacturer = #autoLOC_501633    //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_6006109    //#autoLOC_6006109 = This enhanced version of the SP series photovoltaic panels provides improved power generation by increasing solar array area by a full five fold.  The SP model as always includes a case to allow the panel to be retracted when its not needed or when keeping it deployed could mean damage to the sensitive panels.
 	attachRules = 0,1,0,0,1
-	mass = 0.13
+	mass = 0.07222222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -301264,7 +301264,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Decouplers.p
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500368 //#autoLOC_500368 = The alternate configuration of the SP Model Photovoltaic Panels.  Includes passive radiators on the reverse side for better heat dissipation.
 	attachRules = 0,1,0,0,1
-	mass = 0.025
+	mass = 0.01388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -301415,7 +301415,7 @@ wP>7H‡6¨Á‘ÀF5éó-&‚ME&…Šãƒ0 
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500371 //#autoLOC_500371 = The OX-4 is similar in design to the SP series solar panels, but without the heavy casing.  Includes passive radiators on the reverse side for better heat dissipation. WARNING: Not retractable once deployed!
 	attachRules = 0,1,0,0,1
-	mass = 0.0175
+	mass = 0.009722222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -301547,7 +301547,7 @@ wP>7H‡6¨Á‘ÀF5éó-&‚ME&…Šãƒ0 
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500374 //#autoLOC_500374 = Probodobodyne branded Photovoltaic Panels are the world standard for power generation, from your own home to the stars. The SP model comes with a protective shroud, allowing recovery when it's no longer needed.  Includes passive radiators on the reverse side for better heat dissipation.
 	attachRules = 0,1,0,0,1
-	mass = 0.025
+	mass = 0.01388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -301881,7 +301881,7 @@ a wVÉÓ cySj->R2` 3D„A£H†Êb.ˆQ³’ C(É.$k Ú“7`é¿g ô¨´…ÑĞ“1J
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500377 //#autoLOC_500377 = The OX-4 is similar in design to the SP series solar panels, but without the heavy casing. WARNING: Not retractable once deployed!
 	attachRules = 0,1,0,0,1
-	mass = 0.0175
+	mass = 0.009722222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -302037,7 +302037,7 @@ a wVÉÓ cySj->R2` 3D„A£H†Êb.ˆQ³’ C(É.$k Ú“7`é¿g ô¨´…ÑĞ“1J
 	manufacturer = #autoLOC_501635 //#autoLOC_501635 = Ionic Symphonic Protonic Electronics
 	description = #autoLOC_500386 //#autoLOC_500386 = Through exploitation of the natural decay of Blutonium-238, this elegantly simple power generator can provide consistent, stable power for decades. Not to be used for providing heating during emergency rover excursions.
 	attachRules = 1,1,1,0,0
-	mass = 0.08
+	mass = 0.04444444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -302143,7 +302143,7 @@ ikëPáşU{‘D@P„Ÿ_¹!³zÄ¬Y-7ßõ3¥ÿ„Å"EPéÁf†iñu	]íKH{µ5Â¯o›Á'‡îW+èœ3|ÔY	1‡ÿæ]
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500380 //#autoLOC_500380 = The single largest solar array available for purchase, the Gigantor XL offers tremendous generation potential from a compact initial package.  Includes passive radiators on the reverse side for better heat dissipation.
 	attachRules = 0,1,0,0,1
-	mass = 0.3
+	mass = 0.1666667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -302346,7 +302346,7 @@ P7³Ï6èIáí½"Øj/)§CÉÃÀâİñ–n>Ng;ä’±ŒÒ"8˜ï¡ù>™ÎExğ
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500383 //#autoLOC_500383 = The OX-STAT solar panel is a simple panel with no sun-tracking or deployment mechanics. As a result, it is very light and cheap.
 	attachRules = 0,1,0,0,1
-	mass = 0.005
+	mass = 0.002777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -302441,7 +302441,7 @@ p«_÷áHÒo&n“ó`oO¹Îx³!6ˆèm‘-{Ò`Qæ®†(‚z<ïf”=•NÕğ 8¥¯<í­ê©áöœñ)¢|>Z$–XĞU
 	manufacturer = #autoLOC_501636 //#autoLOC_501636 = Zaltonic Electronics
 	description = #autoLOC_500389 //#autoLOC_500389 = The Z-100 battery pack is the standard model for electrical applications. Holds two (2) AAAA batteries and holds a maximum 100 units of charge.
 	attachRules = 0,1,0,0,0
-	mass = 0.005
+	mass = 0.002777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -302569,7 +302569,7 @@ duûZ(ÚwŸ‰Ğ–“)7\W[´yJ<â#Á]”¦²¸´Zê&¡Q0ÆCÀ  Æ3À  ï»¿PART
 	manufacturer = #autoLOC_501636 //#autoLOC_501636 = Zaltonic Electronics
 	description = #autoLOC_500392 //#autoLOC_500392 = The Z-1k is a stackable battery bank, with ten times the power capacity of the Z-100.
 	attachRules = 1,0,1,1,0
-	mass = 0.05
+	mass = 0.02777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -302708,7 +302708,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             ksp_m_batter
 	manufacturer = #autoLOC_501636 //#autoLOC_501636 = Zaltonic Electronics
 	description = #autoLOC_500395 //#autoLOC_500395 = The Z-200 is a stackable variant of the Z-100 battery pack, with increased capacity. In emergency situations, please refrain from "reversing the polarity".
 	attachRules = 1,0,1,1,0
-	mass = 0.01
+	mass = 0.005555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -302961,7 +302961,7 @@ E›=>–S2à¯ô¹j¼Û¶OTI—Z¯ëJ¬ù*Ëz#GÓg4–­ÊzS!{ş£g,Ğ© ÓZŠBå }R9Ãj¢R7moB
 	manufacturer = #autoLOC_501636 //#autoLOC_501636 = Zaltonic Electronics
 	description = #autoLOC_500398 //#autoLOC_500398 = The Z-400 battery pack is a versatile, compact electrical charge storage solution designed for heavier loads than AAAA batteries can handle. Holds one E-size battery with a maximum of 400 units of charge.
 	attachRules = 0,1,0,0,0
-	mass = 0.02
+	mass = 0.01111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -303135,7 +303135,7 @@ P¼  €?†V}?‚Á>‡<H¼  €? -}?]w>ú&ø¼  €?›Ë}?[h>·ú¼  €?˜=~?ÿæ=0F½  €?|†}?B
 	manufacturer = #autoLOC_501636 //#autoLOC_501636 = Zaltonic Electronics
 	description = #autoLOC_500401 //#autoLOC_500401 = New advances in surge control technology made The Z-4K, the largest battery pack ever put into production a reality. While Zaltonic admits intense electrical discharges can be really cool, shorting the Z-4K's contacts should probably be avoided.
 	attachRules = 1,0,1,1,0
-	mass = 0.2
+	mass = 0.1111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -303470,7 +303470,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             solid_booste
 	manufacturer = #autoLOC_501638 //#autoLOC_501638 = Kerbodyne
 	description = #autoLOC_500461 //#autoLOC_500461 = This super heavy booster is designed to be recovered after jettisoning. Once recovered, it is refurbished and refueled for another launch.
 	attachRules = 1,1,1,1,0
-	mass = 4.5
+	mass = 2.5
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -304686,7 +304686,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Puff_diffuse
 	title = #autoLOC_500466 //#autoLOC_500466 = O-10 "Puff" MonoPropellant Fuel Engine
 	manufacturer = #autoLOC_501639 //#autoLOC_501639 = Reaction Systems Ltd
 	description = #autoLOC_500467 //#autoLOC_500467 = When The O-10 Engine was first unveiled, it was regarded as one of those ideas that someone should have thought of a long time ago. This made most employees at Reaction Systems Ltd feel quite awkward, as they were particularly proud of having delivered this project on schedule for once. This Engine responds to main throttle controls, but it consumes MonoPropellant instead of a Fuel+Oxidizer mix.
-	mass = 0.09
+	mass = 0.05
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -306229,7 +306229,7 @@ Eövë•ÛxéZD÷Œwòl~Ugˆı‡jºævİ/­{ûî?"o>$>ëåSöÚÍW¬Å¨Ó„pQ-ª^ûú´V"˜3oØ³Ö©?nÁRğ
 	title = #autoLOC_500484 //#autoLOC_500484 = RT-10 "Hammer" Solid Fuel Booster
 	description = #autoLOC_500485 //#autoLOC_500485 = Packing a powerful punch for its size, The RT-10 is widely used in many space programs, whenever the need to save cash is greater than the need to keep astronauts alive.
 	attachRules = 1,1,1,1,0
-	mass = 0.75
+	mass = 0.4166667
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -306576,7 +306576,7 @@ Eövë•ÛxéZD÷Œwòl~Ugˆı‡jºævİ/­{ûî?"o>$>ëåSöÚÍW¬Å¨Ó„pQ-ª^ûú´V"˜3oØ³Ö©?nÁRğ
 	title = #autoLOC_500487 //#autoLOC_500487 = RT-5 "Flea" Solid Fuel Booster
 	description = #autoLOC_500488 //#autoLOC_500488 = While considered by some to be little more than "a trash bin full o' boom", The RT-5 can be seen in use at many space programs, perhaps possibly because it is the only option for many space programs, but nevertheless, this small booster provides a nice kick to lift small payloads to considerable heights. Use with caution, though. Once lit, solid fuel motors cannot be put out until the fuel runs out.
 	attachRules = 1,1,1,1,0
-	mass = 0.45
+	mass = 0.25
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -307380,7 +307380,7 @@ smokePoint        ¡Ô¿À      €¿       ³  €?  €?  €?   Untagged             
 	rescaleFactor = 1
 	node_stack_top = 0.0,4.356,0.0, 0.0, 1.0, 0.0, 2
 	node_attach = 1.304782,0.0, 0.0, 1.0, 0.0, 0.0
-	mass = 10.5
+	mass = 5.833333
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -308555,7 +308555,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             twin_nozzle_
 	rescaleFactor = 1
 	node_stack_top = 0.0,4.356,0.0, 0.0, 1.0, 0.0, 2
 	node_attach = 1.304782,0.0, 0.0, 1.0, 0.0, 0.0
-	mass = 10.5
+	mass = 5.833333
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -310397,7 +310397,7 @@ Töw†+tqzÑq>ö¨YES½zª4Vë©hİšPëÍ¹ŠïÚÌÕê§{9ïıw'à_+“S1Q<9¦~Ñ<û¾® ¼EÀ{oNÇÊe
 	manufacturer = #autoLOC_501638 //#autoLOC_501638 = Kerbodyne
 	description = #autoLOC_500476 //#autoLOC_500476 = This engine is Kerbodyne's first attempt at a highly advanced engine. The engineers couldn't get it to produce full efficiency at sea level without the engine exploding, so it was repurposed as an upper stage engine. The experience gained here with high efficiency has been repurposed for later models, which feature multiple combustion chambers at higher pressure (that don't go boom). This engine is optimized for lighting mid-flight, although it still provides respectable power at sea level.
 	attachRules = 1,0,1,0,0
-	mass = 9.0
+	mass = 5
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -311598,7 +311598,7 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 	scale = 1.0
 	rescaleFactor = 1
 	node_stack_top = 0.0,1.527248,0.0 , 0.0, 1.0, 0.0, 3
-	mass = 15
+	mass = 8.333333
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -311967,7 +311967,7 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 	manufacturer = #autoLOC_501672      //#autoLOC_501672 = Kerbodyne
 	description = #autoLOC_6005071      //#autoLOC_6005071 = Kerbodyne was asked to deliver a small, high efficiency solid fuel booster and that's just what they did.  While it may just look like a someone welded a rocket nozzle onto a scuba tank, some serious technology went into making this motor.
 	attachRules = 1,1,1,1,0
-	mass = 0.15
+	mass = 0.08333333
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -312086,7 +312086,7 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 	manufacturer = #autoLOC_501672      //#autoLOC_501672 = Kerbodyne
 	description = #autoLOC_6005073      //#autoLOC_6005073 = Solid fuel boosters come in a range of sizes and this one is distinctly on the low end of the scale.  The Mite is still useful for many space programs that want a tiny kick motor to plant their probes firmly on the right trajectory, or just a bit more oomph to get their craft off the ground.
 	attachRules = 1,1,1,1,0
-	mass = 0.075
+	mass = 0.04166667
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -312195,7 +312195,7 @@ PART
 	manufacturer = #autoLOC_501635 //#autoLOC_501635 = Ionic Symphonic Protonic Electronics
 	description = #autoLOC_500404 //#autoLOC_500404 = By emitting ionized xenon gas through a small thruster port, Dawn can produce incredibly efficient propulsion, but with a downside of very low thrust and high energy usage. According to ISP Electronics sales reps, the rumours of this engine being powered by "dark magic" are largely exaggerated.
 	attachRules = 1,0,1,1,0
-	mass = 0.25
+	mass = 0.1388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -312873,7 +312873,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500407 //#autoLOC_500407 = A high performance jet engine with a variable geometry thrust vectoring nozzle and an afterburner for extra thrust.
 	attachRules = 1,0,1,0,0
-	mass = 1.2
+	mass = 0.6666667
 	// heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -313495,7 +313495,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500410 //#autoLOC_500410 = A high bypass turbofan engine. This engine works best at low cruising speeds and altitudes.
 	attachRules = 1,0,1,0,0
-	mass = 1.5
+	mass = 0.8333333
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -313872,7 +313872,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500413 //#autoLOC_500413 = The largest and highest thrust jet engine ever built. This engine works best at low cruising speeds and altitudes.
 	attachRules = 1,1,1,1,0
-	mass = 4.5
+	mass = 2.5
 	// heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -314309,7 +314309,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500416 //#autoLOC_500416 = A highly advanced turbine engine using space-grade materials for very high performance. This new model features the latest in thrust vectoring and compression technology and is designed to operate best at higher altitudes and speeds. The advanced turbo ramjet design bleeds air around the compressor at high speed allowing a far maximum speed than regular jet engines, so engineers from C7 Aerospace assured us all those leaks are intentional.
 	attachRules = 1,0,1,1,0
-	mass = 1.8
+	mass = 1
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -316085,7 +316085,7 @@ EeníüU€v§{æœê [}ÎSÜ¸Àõ<ıW¼€U©/…@ı€  ï»¿PART
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500419 //#autoLOC_500419 = Tiny engine! But very useful, good for craft where larger radial engines won't fit, or when you want more control in combination with large lifter engines.
 	attachRules = 0,1,0,1,0
-	mass = 0.09
+	mass = 0.05
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -316893,7 +316893,7 @@ Twitch.mbm    Twitch_GLOW.mbm    ï»¿PART
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500419 //#autoLOC_500419 = Tiny engine! But very useful, good for craft where larger radial engines won't fit, or when you want more control in combination with large lifter engines.
 	attachRules = 0,1,0,1,0
-	mass = 0.08
+	mass = 0.04444444
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -318361,7 +318361,7 @@ Yâá–Ye–Ye–Yg½qærûùÖóÌlaÈÃñÕğï™{ÜR›/¯}9£j9êİnlï)jŞ|«ÚzÖÜ8/ÒX$/R·SuŒÔ‰-ã
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500422 //#autoLOC_500422 = The 48-7S may be small, but it packs quite a punch for its size. This little engine is a testament to how larger does not always mean more advanced, at least according to Rockomax's marketing department. The box it comes in is pretty cool, in any case.
 	attachRules = 1,0,1,0,0
-	mass = 0.13
+	mass = 0.07222222
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -318839,7 +318839,7 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 	sound_rocket_hard = running
 	sound_vent_soft = disengage
 	sound_explosion_low = flameout
-	mass = 1.0
+	mass = 0.5555556
 	//heatConductivity = 0.03
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -319145,7 +319145,7 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500431 //#autoLOC_500431 = Adapted to appease engineers who were outraged at the lack of control rocket engines usually provide, the radial mounted LV-1R offers an appealing solution: "Just add more".  Point away from face.
 	attachRules = 0,1,0,1,0
-	mass = 0.02
+	mass = 0.01111111
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -319551,7 +319551,7 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500428 //#autoLOC_500428 = What is this, an engine for ants?
 	attachRules = 1,1,1,1,0
-	mass = 0.02
+	mass = 0.01111111
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -321264,7 +321264,7 @@ ADZgê-¡h€í›ÚÀ•ûÒ*şVWI§’J"ß2Ã®í¨j… ÆAæZiéÙÃN—Z¶PwToDGü~G°½nyÈDb!ó8Ë¾¤
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500434 //#autoLOC_500434 = The 909 model was initially received with some skepticism by spacecraft engineers, as it defied the long-standing convention that "More Power!" is always better. Despite this, the 909 series has found its place in the spacecraft construction world, being particularly useful as a final stage and landing engine.
 	attachRules = 1,0,1,0,0
-	mass = 0.5
+	mass = 0.2777778
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -321626,7 +321626,7 @@ ADZgê-¡h€í›ÚÀ•ûÒ*şVWI§’J"ß2Ã®í¨j… ÆAæZiéÙÃN—Z¶PwToDGü~G°½nyÈDb!ó8Ë¾¤
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500437 //#autoLOC_500437 = Despite the big scary trefoil painted onto the side of this engine, its radioactive exhaust, and tendency to overheat, the LV-N Atomic Rocket Motor is harmless. Mostly. Note that the LV-N is the only LV series engine to run solely on Liquid Fuel - the future is glowing bright!
 	attachRules = 1,0,1,0,0
-	mass = 3
+	mass = 1.666667
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.85 // engine nozzles are good at radiating, NTRs even better
@@ -322433,7 +322433,7 @@ bî‡±IK%7=ç§Iä“¸2P
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500440 //#autoLOC_500440 = Although criticized by some due to their not insignificant use of so-called "pieces found lying about", the LV-T series engines have proven themselves as comparatively reliable. The T30 model boasts a failure and rattly bits ratio below the 50% mark, this has been considered a major improvement over previous models by engineers and LV-T enthusiasts.
 	attachRules = 1,0,1,0,0
-	mass = 1.25
+	mass = 0.6944444
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -326912,7 +326912,7 @@ h~ş3À«Ú's/Á‡ß__EWªJu³áìK¢ä=§J	'Yj””°­Äˆ=t¥4Ì&™€42ÚõwÃ_Ï17ëşSùÔ×
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500440 //#autoLOC_500440 = Although criticized by some due to their not insignificant use of so-called "pieces found lying about", the LV-T series engines have proven themselves as comparatively reliable. The T30 model boasts a failure and rattly bits ratio below the 50% mark, this has been considered a major improvement over previous models by engineers and LV-T enthusiasts.
 	attachRules = 1,0,1,0,0
-	mass = 1.25
+	mass = 0.6944444
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -327079,7 +327079,7 @@ h~ş3À«Ú's/Á‡ß__EWªJu³áìK¢ä=§J	'Yj””°­Äˆ=t¥4Ì&™€42ÚõwÃ_Ï17ëşSùÔ×
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500443 //#autoLOC_500443 = The LV-T45 engine was considered a breakthrough in the LV-T series due to its Thrust Vectoring feature. The LV-T45 can deflect its thrust to aid in craft control. All these added mechanics however, make for a slightly smaller and heavier engine in comparison with other LV-T models.
 	attachRules = 1,0,1,0,0
-	mass = 1.5
+	mass = 0.8333333
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -330843,7 +330843,7 @@ v*ê&+¹93Vq¾iæĞ       èt,½ßuÎÅ3^[Ï   «¡  4–‹Î{÷wZ@ Cj3í‘XÚÿiì¥Ì}9 Œ_º~¯~}%
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500443 //#autoLOC_500443 = The LV-T45 engine was considered a breakthrough in the LV-T series due to its Thrust Vectoring feature. The LV-T45 can deflect its thrust to aid in craft control. All these added mechanics however, make for a slightly smaller and heavier engine in comparison with other LV-T models.
 	attachRules = 1,0,1,0,0
-	mass = 1.5
+	mass = 0.8333333
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -331269,7 +331269,7 @@ _sÀ¯¬§n)Ù‚ü§cd{+Œb¤§g]ÚıÚ#s¾äº	h§q+b§sX?ö#ü®¢ŠwB’¸î,ÙådoôË.</l`ò@§4&
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500446 //#autoLOC_500446 = A monster of an engine for heavy lifting purposes, the Mainsail's power rivals that of entire small nations.
 	attachRules = 1,0,1,0,0
-	mass = 6
+	mass = 3.333333
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -337232,7 +337232,7 @@ råxæİ'Tq‘íõÍ¾qW”¿¡;-¿¡İ:·zCàá¶Ùuñ®íıÛØ	~R-e–ŸÓí»Ÿö¯—Rİ}•õí#’~»ËĞ* ¶U
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500449 //#autoLOC_500449 = After an intensive search for an engineer crazy enough to plan and build a revolutionary new engine type, researchers turned to renowned engineer Eumon Kerman, one of the top minds in the industry. He failed miserably at the job, and this is what we ended up with. Hey, at least it works well with other large (Rockomax) engines when you want more control. Sorry, no combo deals.
 	attachRules = 0,1,0,1,0
-	mass = 0.9
+	mass = 0.5
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -343904,7 +343904,7 @@ q'cÇÙ{÷œ4´ëÄ¯ÈÛ°éÓ*ä”+IÓÍwNàmòØíÂFb¹Ö àêå²Æœ¥°úåM”GLxNğ]FßºÎ°¼½v9¸•K®
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500452 //#autoLOC_500452 = A more reasonable engine for rough economic times, the Poodle engine doubles as a BBQ when at low power.
 	attachRules = 1,0,1,0,0
-	mass = 1.75
+	mass = 0.9722222
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -344526,7 +344526,7 @@ aÊ» ÿ‰pXqO  ‚LºÛ$Ã² ±Aï;"y« 4           rèî‰GTÊ]x`†yPaST¤K ¦ŸR	£äuÅ6æ
 	rescaleFactor = 1
 	node_stack_top = 0.0,0.0,0.0 , 0.0, 1.0, 0.0, 1
 	node_stack_bottom = 0.0,-1.6,0.0 , 0.0, -1.0, 0.0, 1
-	mass = 4.0
+	mass = 2.222222
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
 	dragModelType = default
@@ -345452,7 +345452,7 @@ R˜‚U-	_«àFË>N¬e[Ã®¢21º{™¼GOváËe|í’†¾hÁÀÚê´˜Z¬Œ™˜€  @ø9´ Ú¢|OQ °¨
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500455 //#autoLOC_500455 = The smaller sibling of the Mainsail, the Skipper's power rivals that of... large cities. Combining high thrust with reasonable efficiency, this engine excels when used as a mid-stage booster.
 	attachRules = 1,0,1,0,0
-	mass = 3
+	mass = 1.666667
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -349968,7 +349968,7 @@ D"¾ ‘>  €¿oä[¿kw4¾<'ö>  €¿                                         
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500464 //#autoLOC_500464 = A small turbojet. Not very efficient, anemic thrust, but hey--it's cheap! And it's so cute...look at the little thing!
 	attachRules = 1,0,1,0,0
-	mass = 0.25
+	mass = 0.1388889
 	// heatConductivity = 0.06 // half default
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
 	dragModelType = default
@@ -350756,7 +350756,7 @@ W>òñÅR.şçÔ&çP}6å
 	node_stack_top = 0.0,0.741545,0.0 , 0.0, 1.0, 0.0
 	node_stack_bottom = 0.0,-0.2048244, 0.0, 0.0, -1.0, 0.0
 	CoMOffset = 0.0, 2.6, 0.0
-	mass = 2.0
+	mass = 1.111111
 	heatConductivity = 0.06 // half default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.8 // engine nozzles are good at radiating.
@@ -353571,7 +353571,7 @@ b†‹cÉu„/5§SÇËÈô=›ÖlçîÚ¼Œ%E¼ÑdºûÍÖ‹o¤ëû1~Ønï67wìéŞ7Ä°fe¤D/HÔ‡„¾è˜TG
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500482 //#autoLOC_500482 = Filled with a new, even more volatile fuel, the BACC offers semi-reliable performance at a good price.
 	attachRules = 1,1,1,1,0
-	mass = 1.5
+	mass = 0.8333333
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -353863,7 +353863,7 @@ b†‹cÉu„/5§SÇËÈô=›ÖlçîÚ¼Œ%E¼ÑdºûÍÖ‹o¤ëû1~Ønï67wìéŞ7Ä°fe¤D/HÔ‡„¾è˜TG
 	manufacturer = #autoLOC_501672 		//#autoLOC_501672 = Kerbodyne
 	description = #autoLOC_6005069      //#autoLOC_6005069 = When Jeb asked Kerbodyne how to lift his house into space, this is what they came up with.  The Thoroughbred is a truly massive solid rocket fuel booster.  It is also the first booster Kerbodyne has managed to add thrust vector control to, adding surprising agility to this powerful motor.
 	attachRules = 1,1,1,1,0
-	mass = 10
+	mass = 5.555556
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -356318,7 +356318,7 @@ yØRibØRiyÑüØ†æŞ‡zvæ¿òÜvGÚ»/íÙ4›vM/ã6]ğ†oÛîh’şâß‡ä à<ôë5ıãã×]Ï¢ÿğD…b’½¸
 	manufacturer = #autoLOC_501672 		//#autoLOC_501672 = Kerbodyne
 	description = #autoLOC_6005067    //#autoLOC_6005067 = The Clydesdale is not surprising just for its size.  It's also amazing just how much thrust comes out of this motor - nothing else in its size class comes close.
 	attachRules = 1,1,1,1,0
-	mass = 21
+	mass = 11.66667
 	heatConductivity = 0.06 // 1/2 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -360126,7 +360126,7 @@ yğÀcî+§<qXcs‹BÑ›™ÎVYÂZ•á¿sC}²Î4Ç¿$8tv1~v&UoWáÅ7ãšaèÉX3gK,îBB}T
 	manufacturer = #autoLOC_501641 //#autoLOC_501641 = Periapsis Rocket Supplies Co
 	description = #autoLOC_500491 //#autoLOC_500491 = A small canister filled with what appears to be solid rocket fuel. Although not much of a step forward in terms of raw power, Kerbal Scientists have slowly warmed up to the Sepratron I's many uses, such as pushing things away. For best results, angle before use.
 	attachRules = 0,1,0,0,0
-	mass = 0.0125
+	mass = 0.006944444
 	heatConductivity = 0.04 // 1/3 default
 	skinInternalConductionMult = 4.0
 	emissiveConstant = 0.5 // yes, it's white. But let's claim it's an emissive white...
@@ -360397,7 +360397,7 @@ PART
 	manufacturer = #autoLOC_501662   //#autoLOC_501662 = C7 Aerospace Division
 	description = #autoLOC_501809   //#autoLOC_501809 = As convenient as it is fashionable. This part actually won a modern-art design prize.
 	attachRules = 0,1,0,1,0
-	mass = 0.03375
+	mass = 0.01875
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -360793,7 +360793,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             RadialTanks.
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_501812  //#autoLOC_501812 = Often, and mistakenly used for playing ball games.
 	attachRules = 0,1,0,1,0
-	mass = 0.01375
+	mass = 0.007638889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -361782,7 +361782,7 @@ xÂÏÈf£ûSõğ“<»ÌZ2t"e)ØLõŒ~Í¾@›ª…ÎÍá2z<Ö _üÊ-YÆÚ† Öüø§Ï®ÿTcj¾ôé‹ycnOh
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_501815   //#autoLOC_501815 = Description pending
 	attachRules = 1,0,1,1,1
-	mass = 0.0375
+	mass = 0.02083333
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -362651,7 +362651,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             RadialTanks.
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500602 //#autoLOC_500602 = A larger-scale version of the standard RCS fuel tank.
 	attachRules = 1,0,1,1,0
-	mass = 0.4
+	mass = 0.2222222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -364608,7 +364608,7 @@ rù®(C&8>gÄ¼RïîÓÕ,ËŠ¤uˆjËK·]Ô¯¶#•
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500605 //#autoLOC_500605 = The FL-R20 is a miniature RCS tank for small probes and low volume monopropellant storage.
 	attachRules = 1,1,1,1,0
-	mass = 0.02
+	mass = 0.01111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -364762,7 +364762,7 @@ zBq2Š*êòm!:Œ˜)¸MÂ­¥Z{IëYk¦Nš9êj£U¶®4¦RšEÔû©[Ié°ªZ:©2‘V×VÎ­²©@J¶ú¥U‚ÒzÖZã©“¦
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500608 //#autoLOC_500608 = These fuel tanks store monopropellant for RCS thrusters. New advances in plumbing technology made it possible to route RCS lines to any point in the ship. So unlike liquid fuel tanks, RCS Fuel tanks can be placed anywhere.
 	attachRules = 1,0,1,1,0
-	mass = 0.08
+	mass = 0.04444444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -364988,7 +364988,7 @@ Wßş‹PtU	2ô%³Àü€qŠ~z4‡}^i.z=?¤Ø—ø'Ææì½7í~x5áÈúÙƒ½(wÿ±ö¤k+ÆûïŒgşĞı
 	description = #autoLOC_500611 //#autoLOC_500611 = Despite its fanciful name, the Stratus-V is quite simple - a small, radially attachable RCS tank.
 	manufacturer = #autoLOC_6004000 //#autoLOC_6004000 = Stratus Corporation
 	attachRules = 0,1,0,1,1
-	mass = 0.02
+	mass = 0.01111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -365026,7 +365026,7 @@ Wßş‹PtU	2ô%³Àü€qŠ~z4‡}^i.z=?¤Ø—ø'Ææì½7í~x5áÈúÙƒ½(wÿ±ö¤k+ÆûïŒgşĞı
 	description = #autoLOC_500614 //#autoLOC_500614 = After years of research and development, the Stratus corporation has developed a revolutionary upgrade to their Stratus-V fuel tank line. Cylinders. This tank holds a moderate supply of monopropellant for RCS thrusters.
 	manufacturer = #autoLOC_6004000 //#autoLOC_6004000 = Stratus Corporation
 	attachRules = 0,1,0,1,1
-	mass = 0.03
+	mass = 0.01666667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -365145,7 +365145,7 @@ sƒ†Ğ>Xmo´é è}³ÌbF¹K”W¹ôÆ£÷ò÷vVÒ
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500542 //#autoLOC_500542 = After many, many studies, Rockomax engineers found that the space program does indeed have a use for a tank half the size of the X200-32. No refunds.
 	attachRules = 1,1,1,1,0
-	mass = 1
+	mass = 0.5555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -365226,7 +365226,7 @@ sƒ†Ğ>Xmo´é è}³ÌbF¹K”W¹ôÆ£÷ò÷vVÒ
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500545 //#autoLOC_500545 = Developed after one J. Kerman complained that the fuel tanks available were 'way too small', the X200-32 holds a generous amount of fuel, for all your... fueling needs or something like that. Shut up, Rockomax hires rocket scientists, not writers.
 	attachRules = 1,1,1,1,0
-	mass = 2
+	mass = 1.111111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -365329,7 +365329,7 @@ PART
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500521 //#autoLOC_500521 = The largest tank available from Rockomax, the Jumbo-64 holds a vast amount of fuel in a friendly orange insulated container. Contrary to popular belief, the Jumbo-64 is NOT orange flavored and should NOT be tasted.
 	attachRules = 1,1,1,1,0
-	mass = 4
+	mass = 2.222222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -365411,7 +365411,7 @@ PART
 	manufacturer = #autoLOC_501637 //#autoLOC_501637 = Rockomax Conglomerate
 	description = #autoLOC_500548 //#autoLOC_500548 = A compact fuel tank, designed for small upper stages and landers. Rockomax takes no responsibility for the Dawton Kerman Aboveground Pool Company stickers on the inside because it totally is not a swimming pool frame we stole from their back lot.
 	attachRules = 1,1,1,1,0
-	mass = 0.5
+	mass = 0.2777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -368251,7 +368251,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             125Tanks_D.p
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500527 //#autoLOC_500527 = The T100 is a miniature fuel tank made to be even more adorable than its bigger brother, the T200. Handle stoically and with care.
 	attachRules = 1,1,1,1,0
-	mass = 0.0625
+	mass = 0.03472222
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -368353,7 +368353,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             125Tanks_D.p
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500530 //#autoLOC_500530 = The T200 tank had some difficulty being accepted in the spacecraft engineering world, because most rocket builders had trouble overcoming their urges to squee at the "cute little fuel tank". This initial reaction was only put aside when the amount of fiery explosions in assembly areas became so high, strict guidelines were put in place to prohibit "teasing the fuel containers". The T200 Tank now is widely used in several space programs and does a remarkably good job, if assembled politely.
 	attachRules = 1,1,1,1,0
-	mass = 0.125
+	mass = 0.06944444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -368455,7 +368455,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             125Tanks_D.p
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500533 //#autoLOC_500533 = The FL series was received as a substantial upgrade over previous fuel containers used in the Space Program, generally due to its ability to keep the fuel unexploded more often than not. Fuel tanks are useless if there isn't a Liquid Engine attached under it. They can also be stacked with other fuel tanks to increase the amount of fuel for the engine below.
 	attachRules = 1,1,1,1,0
-	mass = 0.25
+	mass = 0.1388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -368559,7 +368559,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             125Tanks_D.p
 	manufacturer = #autoLOC_501627 //#autoLOC_501627 = Jebediah Kerman's Junkyard and Spacecraft Parts Co
 	description = #autoLOC_500536 //#autoLOC_500536 = A stretched variant of the FL-T400, the FL-T800 holds twice the fuel in a slightly stronger container. The black stripes along the side make the rocket go faster, our engineers tell us.
 	attachRules = 1,1,1,1,0
-	mass = 0.5
+	mass = 0.2777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -369858,7 +369858,7 @@ G¹8½ÚH“v,gycÜÿ“øìÅ9Çã¤ã1Ñç{û[mÛ¬òÖöÓZ\‹6`¹Ù(»Ô½CíÇYáS>µ™¡:ÔˆA°ŸÉv²İÌ•e¹
 	manufacturer = #autoLOC_501638 //#autoLOC_501638 = Kerbodyne
 	description = #autoLOC_500617 //#autoLOC_500617 = When nobody believed in (or even asked for) an even larger fuel tank than the already enormous S3-7200, Kerbodyne stepped up with the sanity-defying S3-14400 model. Carrying fully twice as much fuel as before, this fuel tank may just pack enough propellant to justify its proportionately enormous cost.
 	attachRules = 1,1,1,1,0
-	mass = 9
+	mass = 5
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -369937,7 +369937,7 @@ G¹8½ÚH“v,gycÜÿ“øìÅ9Çã¤ã1Ñç{û[mÛ¬òÖöÓZ\‹6`¹Ù(»Ô½CíÇYáS>µ™¡:ÔˆA°ŸÉv²İÌ•e¹
 	manufacturer = #autoLOC_501638 //#autoLOC_501638 = Kerbodyne
 	description = #autoLOC_500620 //#autoLOC_500620 = Kerbodyne's signature heavy fuel tank. Designed to be used with their advanced rocket engines.
 	attachRules = 1,1,1,1,0
-	mass = 4.5
+	mass = 2.5
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -370016,7 +370016,7 @@ G¹8½ÚH“v,gycÜÿ“øìÅ9Çã¤ã1Ñç{û[mÛ¬òÖöÓZ\‹6`¹Ù(»Ô½CíÇYáS>µ™¡:ÔˆA°ŸÉv²İÌ•e¹
 	manufacturer = #autoLOC_501638 //#autoLOC_501638 = Kerbodyne
 	description = #autoLOC_500623 //#autoLOC_500623 = A half-capacity version of Kerbodyne's iconic fuel tank, for not quite exactly half the cost.
 	attachRules = 1,1,1,1,0
-	mass = 2.25
+	mass = 1.25
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -370091,7 +370091,7 @@ G¹8½ÚH“v,gycÜÿ“øìÅ9Çã¤ã1Ñç{û[mÛ¬òÖöÓZ\‹6`¹Ù(»Ô½CíÇYáS>µ™¡:ÔˆA°ŸÉv²İÌ•e¹
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500497 //#autoLOC_500497 = Our engineers insisted on a way to reuse Mk2 parts on the new Fuselage system. Manufacturing a streamlined adapter despite the considerable difference of the two cross sections required quite a radical design. It is often used as a slide on Take Your Kids to Work Day.
 	attachRules = 1,1,1,1,0
-	mass = 1.43
+	mass = 0.7944444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -370252,7 +370252,7 @@ L?}á>óe¿CR?j•ˆ>_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•? å(¿¢Ø?ºKñ> å
 	description = #autoLOC_500500 //#autoLOC_500500 = A structural mounting plate for rocket engines.
 	attachRules = 1,1,1,1,0
 	stackSymmetry = 2
-	mass = 0.7
+	mass = 0.3888889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -370288,7 +370288,7 @@ L?}á>óe¿CR?j•ˆ>_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•? å(¿¢Ø?ºKñ> å
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500503 //#autoLOC_500503 = Perfectly pointy, carefully curved and devastatingly destructive, this Mk3 to 2.5m adapter can satisfy your wildest of dreams. Or it'll let you bridge the gaps between parts on your craft while giving you a bit of fuel... Your choice.
 	attachRules = 1,1,1,1,0
-	mass = 1.79
+	mass = 0.9944444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -370391,7 +370391,7 @@ L?}á>óe¿CR?j•ˆ>_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•?_EÎ>¿ò0?Í•? å(¿¢Ø?ºKñ> å
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500506 //#autoLOC_500506 = Makes your craft hang in the air like bricks don't!
 	attachRules = 1,1,1,1,0
-	mass = 1.79
+	mass = 0.9944444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -371096,7 +371096,7 @@ _Shininess   ÍÌÌ>_Opacity     €?_RimFalloff   ÍÌÌ=	_RimColor               
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500509 //#autoLOC_500509 = When you can't decide between a rocket and a spaceplane, why not both?
 	attachRules = 1,1,1,1,0
-	mass = 0.57
+	mass = 0.3166667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -371237,7 +371237,7 @@ _Shininess   ÍÌÌ>_Opacity     €?_RimFalloff   ÍÌÌ=	_RimColor               
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500512 //#autoLOC_500512 = While the popular Rockomax Adapter has served its purpose fairly well over the years, C7 engineers thought they could do better. Improvements of this in-house product include an integrated fuel tank and a longer structural frame.
 	attachRules = 1,1,1,1,0
-	mass = 0.57
+	mass = 0.3166667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -371335,7 +371335,7 @@ _Shininess   ÍÌÌ>_Opacity     €?_RimFalloff   ÍÌÌ=	_RimColor               
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500515 //#autoLOC_500515 = While the popular Rockomax Adapter has served its purpose fairly well over the years, C7 engineers thought they could do better. Improvements of this in-house product include an integrated fuel tank and a longer structural frame.
 	attachRules = 1,1,1,1,0
-	mass = 0.57
+	mass = 0.3166667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -371424,7 +371424,7 @@ _Shininess   ÍÌÌ>_Opacity     €?_RimFalloff   ÍÌÌ=	_RimColor               
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500518 //#autoLOC_500518 = An adapter for when your craft turns from a massive rocket into a gargantuan plane!
 	attachRules = 1,1,1,1,0
-	mass = 1.79
+	mass = 0.9944444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -371524,7 +371524,7 @@ N?†’<  €¿7¦¾%é}?Ôv<  €¿Ò;¾á¥{?$?™<  €¿¯¾k€p?¶š´<  €¿ó5¿ó5¿      €¿Ö³]¿
 	attachRules = 0,1,0,0,0
 	
 	// --- standard part parameters ---
-	mass = 0.01
+	mass = 0.005555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -371705,7 +371705,7 @@ EÓĞ ğ€ètâH‚"Éx²!@€ Ù8r©T­GÆª‚	ÍâÄŒÆb"o'6®vÄÏ™<ø÷­ÏÄ³ï1M'|i­æ
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500524 //#autoLOC_500524 = The Oscar-B Fuel Tank from Probodobodyne is a compact fuel container for small space probes, or a backup tank for other small spacecraft. Do not wash in cold water, or feed after midnight.
 	attachRules = 1,1,1,1,0
-	mass = 0.025
+	mass = 0.01388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.15
@@ -371802,7 +371802,7 @@ _Shininess   ÍÌÌ>_Opacity     €?_RimFalloff   ÍÌÌ=	_RimColor               
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500551 //#autoLOC_500551 = A small container for jet fuel.
 	attachRules = 1,1,1,1,0
-	mass = 0.025
+	mass = 0.01388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -371847,7 +371847,7 @@ _Shininess   ÍÌÌ>_Opacity     €?_RimFalloff   ÍÌÌ=	_RimColor               
 	description = #autoLOC_500554 //#autoLOC_500554 = One engine is not enough? We got you covered!
 	attachRules = 1,1,1,1,0
 	stackSymmetry = 1
-	mass = 0.29
+	mass = 0.1611111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -372172,7 +372172,7 @@ MK2Cockpit         €?  €?        ÅÄD?ÅÄD?ÅÄD?  €?PŸá>      mk2adapters1m.mbm
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500557 //#autoLOC_500557 = A generic Mk1 to Mk2 adapter that was left to dry a bit too long and stretched out.
 	attachRules = 1,1,1,1,0
-	mass = 0.57
+	mass = 0.3166667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -372539,7 +372539,7 @@ S¨I$¶‹cˆÕ,2¨a6ñö £‰+Š,óèİ<‚š(¾R,¥
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500560 //#autoLOC_500560 = Generic Mk2 to Mk1 adapter.
 	attachRules = 1,1,1,1,0
-	mass = 0.29
+	mass = 0.1611111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.1
@@ -372874,7 +372874,7 @@ MK2Cockpit         €?  €?        ÅÄD?ÅÄD?ÅÄD?  €?PŸá>      mk2adapters1m.mbm
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500563 //#autoLOC_500563 = This airframe fuselage features the latest in lifting technology. Not only does it stay together during flight, it's sleek design makes your plane just that much speedier! Now comes with at least 100% more Oxidiser.
 	attachRules = 1,1,1,1,0
-	mass = 0.57
+	mass = 0.3166667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -372931,7 +372931,7 @@ MK2Cockpit         €?  €?        ÅÄD?ÅÄD?ÅÄD?  €?PŸá>      mk2adapters1m.mbm
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500566 //#autoLOC_500566 = This airframe fuselage features the latest in lifting technology. Not only does it stay together during flight, it's sleek design makes your plane just that much speedier! Only carries Liquid Fuel.
 	attachRules = 1,1,1,1,0
-	mass = 0.57
+	mass = 0.3166667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -373513,7 +373513,7 @@ Y¾¿" ©¦Æ¤Ã¡è¬d}Ç½8´p¨h ¯¤|V…ÕÕ2¼C£›´ĞàlÆ¸ ïwp  `€ÿ*    FuselageShort
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500569 //#autoLOC_500569 = This airframe fuselage features the latest in lifting technology. Not only does it stay together during flight, it's sleek design makes your plane just that much speedier! Now comes with at least 100% more Oxidiser.
 	attachRules = 1,1,1,1,0
-	mass = 0.29
+	mass = 0.1611111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -373576,7 +373576,7 @@ Y¾¿" ©¦Æ¤Ã¡è¬d}Ç½8´p¨h ¯¤|V…ÕÕ2¼C£›´ĞàlÆ¸ ïwp  `€ÿ*    FuselageShort
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500572 //#autoLOC_500572 = This airframe fuselage features the latest in lifting technology. Not only does it stay together during flight, it's sleek design makes your plane just that much speedier! Only carries Liquid Fuel.
 	attachRules = 1,1,1,1,0
-	mass = 0.29
+	mass = 0.1611111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -373633,7 +373633,7 @@ Y¾¿" ©¦Æ¤Ã¡è¬d}Ç½8´p¨h ¯¤|V…ÕÕ2¼C£›´ĞàlÆ¸ ïwp  `€ÿ*    FuselageShort
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500575 //#autoLOC_500575 = This airframe fuselage features the latest in lifting technology. Not only does it stay together during flight, it's sleek design makes your plane just that much speedier! Bursting to the brim with Monopropellant for all your attitude control needs!
 	attachRules = 1,1,1,1,0
-	mass = 0.29
+	mass = 0.1611111
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -373883,7 +373883,7 @@ m	óñÂëü¾Õ«{s7â•YÂ}kÎnş¯lYrë°rÇ®àğ
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500578 //#autoLOC_500578 = At a capacity of 16 Kerbals, the Mk3 Passenger module is known in the Astronaut Complex breakrooms as the "Super Economy" class for spacetravel and allows only carry-on baggage. Any checked or emotional baggage may require one of the Mk3 Cargo Bays.
 	attachRules = 1,0,1,1,0
-	mass = 7.9
+	mass = 4.388889
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -374114,7 +374114,7 @@ m¿•_Á¾  €¿­íÄ¶5?Ö5¿  €¿FŞ¶5?Ò5¿  €¿MS«:ú4¿Ä5¿  €¿R¬«:ú4¿Ê5¿  €¿T¾K:Oa
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500581 //#autoLOC_500581 = Filled to the brim with Rocket Fuel, C7 Aerospace's supplier Ekson-Kobil have assured us that this tank is absolutely airtight.
 	attachRules = 1,1,1,1,0
-	mass = 7.14
+	mass = 3.966667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -374181,7 +374181,7 @@ J¡>¢;¢Ô>F>?f¾³>F>?f¾³>¢;•x>¢;•x>F>?5{X?İ[Ó:ºøK?ªe?5{X?ªe?ºøK?İ[Ó:5
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500584 //#autoLOC_500584 = A compact fuel tank for when the rest of your craft is taken up by cargo bays!
 	attachRules = 1,1,1,1,0
-	mass =  1.79
+	mass =  0.9944444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -374240,7 +374240,7 @@ J¡>¢;¢Ô>F>?f¾³>F>?f¾³>¢;•x>¢;•x>F>?5{X?İ[Ó:ºøK?ªe?5{X?ªe?ºøK?İ[Ó:5
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500587 //#autoLOC_500587 = For that rare moment when your fuel needs are less than ludicrous.
 	attachRules = 1,1,1,1,0
-	mass =3.57
+	mass =1.983333
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -374311,7 +374311,7 @@ J¡>F>?f¾³>±Š¿>f¾³>F>?•x>F>?•x>±Š¿>5{X?‚âÿ>GÿK?ªe?5{X?ªe?GÿK?‚âÿ>pY?à÷ÿ>^
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500590 //#autoLOC_500590 = C7 Aerospace Division had issues piping the fuel from the refinery, so they brought the refinery tanks to us! It sounded like they muttered "Good luck.." as they dropped off these parts.
 	attachRules = 1,1,1,1,0
-	mass = 7.14
+	mass = 3.966667
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -374371,7 +374371,7 @@ J¡>¢;¢Ô>F>?f¾³>F>?f¾³>¢;•x>¢;•x>F>?   jr¿E“¤>      €¿        jr¿E
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500593 //#autoLOC_500593 = For the economically minded aerospace designer, who is building a massive plane...
 	attachRules = 1,1,1,1,0
-	mass = 1.79
+	mass = 0.9944444
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -374424,7 +374424,7 @@ J¡>¢;¢Ô>F>?f¾³>F>?f¾³>¢;•x>¢;•x>F>?   jr¿E“¤>      €¿        jr¿E
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500596 //#autoLOC_500596 = For when your fuel needs are only 1/4 as enormous.
 	attachRules = 1,1,1,1,0
-	mass = 3.57
+	mass = 1.983333
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -374484,7 +374484,7 @@ J¡>F>?f¾³>±Š¿>f¾³>F>?•x>F>?•x>±Š¿>   jr¿E“¤>      €¿        jr¿E“¤>     
 	manufacturer = #autoLOC_501624 //#autoLOC_501624 = C7 Aerospace Division
 	description = #autoLOC_500599 //#autoLOC_500599 = The reaction to when the reaction control system doesn't have enough control in the system; more monopropellant!
 	attachRules = 1,1,1,1,0
-	mass = 1.4
+	mass = 0.7777778
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -375035,7 +375035,7 @@ L‘IÒ‘ºG»«v˜Ä§ÇYdb
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500626 //#autoLOC_500626 = Although most of the Probodobodyne staff couldn't pronounce "Xenon", when told how to say it correctly, they all agreed it sounded super-cool - and everything possible should be done so it could be used as a fuel, no matter the cost.
 	attachRules = 1,0,1,1,0
-	mass = 0.024
+	mass = 0.01333333
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -375759,7 +375759,7 @@ A•Zc§GºSõÄşrÏ úwĞşv˜[¢|»‘óSW‚écûÇ9lÌéîënúC)­bVUÏø¾Ä“º¶§+Ó@Í2ô¬†¼®=
 	manufacturer = #autoLOC_501633 //#autoLOC_501633 = Probodobodyne Inc
 	description = #autoLOC_500629 //#autoLOC_500629 = Although most of the Probodobodyne staff couldn't pronounce "Xenon", when told how to say it correctly, they all agreed it sounded super-cool - and everything possible should be done so it could be used as a fuel, no matter the cost.
 	attachRules = 1,0,1,1,0
-	mass = 0.19
+	mass = 0.1055556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.3
@@ -375897,7 +375897,7 @@ ik¿æ×¤>¬£f>  €¿İ)u¿ÄFp>àÃ*>  €¿> z¿˜ M>ò"¡=  €¿ÕÖ&¿x¡á>™?  €¿®`Y¿Ió>ûLä>  €¿¨
 	title = #autoLOC_500631 //#autoLOC_500631 = PB-X50R Xenon Container
 	description = #autoLOC_500632 //#autoLOC_500632 = The X50R is a small-volume Xenon container, heralded by engineers for being ideally suited for small ion-driven spacecraft, and also for having thoroughly disproved management in their notion that a smaller fuel tank would make the fuel cheaper.
 	attachRules = 0,1,0,1,1
-	mass = 0.0135
+	mass = 0.0075
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
@@ -382514,7 +382514,7 @@ dÍ†>5ÔõŸÎXæ­ÌÑÎclÆ<…ã&SğÜÏåp‹ãlŸi‹«—ey"x&Sù|¨rvX¼üã¨@[şa‡LÉ“NğêlŸğÏ,
 	attachRules = 1,1,0,0,0
 
 	// --- standard part parameters ---
-	mass = 0.1
+	mass = 0.05555556
 	dragModelType = default
 	maximum_drag = 0.2
 	minimum_drag = 0.2
