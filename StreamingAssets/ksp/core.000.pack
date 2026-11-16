@@ -122018,7 +122018,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -122268,7 +122268,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -122374,7 +122374,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -122480,7 +122480,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -122612,7 +122612,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -122744,7 +122744,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -122876,7 +122876,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -122958,7 +122958,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -123095,7 +123095,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -123228,7 +123228,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -123361,7 +123361,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -123551,7 +123551,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -123795,7 +123795,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -123900,7 +123900,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124005,7 +124005,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124110,7 +124110,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124215,7 +124215,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124320,7 +124320,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124425,7 +124425,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124545,7 +124545,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124665,7 +124665,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124785,7 +124785,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -124905,7 +124905,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125025,7 +125025,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125145,7 +125145,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125204,7 +125204,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125286,7 +125286,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125401,7 +125401,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125532,7 +125532,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125659,7 +125659,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125786,7 +125786,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -125898,7 +125898,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126010,7 +126010,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126122,7 +126122,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126193,7 +126193,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126264,7 +126264,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126380,7 +126380,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126496,7 +126496,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126612,7 +126612,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126728,7 +126728,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126844,7 +126844,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -126960,7 +126960,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -127102,7 +127102,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -127300,7 +127300,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -127521,7 +127521,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -127638,7 +127638,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -127755,7 +127755,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -127872,7 +127872,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -127989,7 +127989,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128105,7 +128105,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128221,7 +128221,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128304,7 +128304,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128387,7 +128387,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128465,7 +128465,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128576,7 +128576,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128731,7 +128731,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -128972,7 +128972,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129084,7 +129084,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129196,7 +129196,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129308,7 +129308,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129385,7 +129385,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129462,7 +129462,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129539,7 +129539,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129641,7 +129641,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129743,7 +129743,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129845,7 +129845,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -129991,7 +129991,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130159,7 +130159,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130245,7 +130245,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130359,7 +130359,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130447,7 +130447,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130595,7 +130595,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130674,7 +130674,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130753,7 +130753,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130861,7 +130861,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -130969,7 +130969,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -131077,7 +131077,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -131185,7 +131185,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -131328,7 +131328,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -131517,7 +131517,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -131737,7 +131737,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -131842,7 +131842,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -131947,7 +131947,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132052,7 +132052,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132157,7 +132157,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132262,7 +132262,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132367,7 +132367,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132435,7 +132435,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132503,7 +132503,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132569,7 +132569,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132635,7 +132635,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132712,7 +132712,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132790,7 +132790,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -132907,7 +132907,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -133024,7 +133024,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -133141,7 +133141,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -133258,7 +133258,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -133399,7 +133399,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -133509,7 +133509,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -133668,7 +133668,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -133918,7 +133918,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134009,7 +134009,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134100,7 +134100,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134207,7 +134207,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134314,7 +134314,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134421,7 +134421,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134528,7 +134528,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134635,7 +134635,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134742,7 +134742,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134849,7 +134849,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -134956,7 +134956,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135063,7 +135063,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135170,7 +135170,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135277,7 +135277,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135384,7 +135384,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135491,7 +135491,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135598,7 +135598,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135705,7 +135705,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135812,7 +135812,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135927,7 +135927,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -135995,7 +135995,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136063,7 +136063,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136130,7 +136130,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136197,7 +136197,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136265,7 +136265,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136333,7 +136333,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136400,7 +136400,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136467,7 +136467,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136583,7 +136583,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136699,7 +136699,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136765,7 +136765,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136831,7 +136831,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -136908,7 +136908,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137067,7 +137067,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137319,7 +137319,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137401,7 +137401,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137483,7 +137483,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137563,7 +137563,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137666,7 +137666,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137736,7 +137736,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137805,7 +137805,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137874,7 +137874,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -137943,7 +137943,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138013,7 +138013,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138115,7 +138115,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138217,7 +138217,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138287,7 +138287,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138356,7 +138356,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138425,7 +138425,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138494,7 +138494,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138564,7 +138564,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138666,7 +138666,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138768,7 +138768,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138838,7 +138838,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138907,7 +138907,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -138976,7 +138976,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139045,7 +139045,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139115,7 +139115,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139217,7 +139217,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139319,7 +139319,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139389,7 +139389,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139458,7 +139458,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139527,7 +139527,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139596,7 +139596,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139666,7 +139666,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139768,7 +139768,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139870,7 +139870,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -139983,7 +139983,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -140096,7 +140096,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -140209,7 +140209,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -140369,7 +140369,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -140600,7 +140600,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -140701,7 +140701,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -140802,7 +140802,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -140903,7 +140903,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141004,7 +141004,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141105,7 +141105,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141206,7 +141206,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141307,7 +141307,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141408,7 +141408,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141524,7 +141524,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141640,7 +141640,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141756,7 +141756,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141872,7 +141872,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -141979,7 +141979,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142055,7 +142055,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142131,7 +142131,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142242,7 +142242,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142402,7 +142402,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142635,7 +142635,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142693,7 +142693,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142803,7 +142803,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -142913,7 +142913,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143023,7 +143023,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143111,7 +143111,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143193,7 +143193,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143275,7 +143275,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143335,7 +143335,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143498,7 +143498,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143681,7 +143681,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143734,7 +143734,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143788,7 +143788,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143860,7 +143860,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -143932,7 +143932,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144014,7 +144014,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144097,7 +144097,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144180,7 +144180,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144296,7 +144296,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144412,7 +144412,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144528,7 +144528,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144644,7 +144644,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144720,7 +144720,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144796,7 +144796,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -144907,7 +144907,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -145018,7 +145018,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -145129,7 +145129,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -145240,7 +145240,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -145348,7 +145348,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -145607,7 +145607,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -145857,7 +145857,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -145963,7 +145963,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146069,7 +146069,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146201,7 +146201,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146333,7 +146333,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146465,7 +146465,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146547,7 +146547,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146684,7 +146684,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146817,7 +146817,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -146950,7 +146950,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -147140,7 +147140,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -147384,7 +147384,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -147489,7 +147489,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -147594,7 +147594,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -147699,7 +147699,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -147804,7 +147804,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -147909,7 +147909,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148014,7 +148014,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148134,7 +148134,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148254,7 +148254,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148374,7 +148374,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148494,7 +148494,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148614,7 +148614,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148734,7 +148734,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148793,7 +148793,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148875,7 +148875,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -148990,7 +148990,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149121,7 +149121,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149248,7 +149248,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149375,7 +149375,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149487,7 +149487,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149599,7 +149599,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149711,7 +149711,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149782,7 +149782,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149853,7 +149853,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -149969,7 +149969,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -150085,7 +150085,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -150201,7 +150201,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -150317,7 +150317,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -150433,7 +150433,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -150549,7 +150549,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -150691,7 +150691,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -150889,7 +150889,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151110,7 +151110,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151227,7 +151227,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151344,7 +151344,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151461,7 +151461,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151578,7 +151578,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151694,7 +151694,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151810,7 +151810,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151893,7 +151893,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -151976,7 +151976,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152054,7 +152054,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152165,7 +152165,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152320,7 +152320,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152561,7 +152561,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152673,7 +152673,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152785,7 +152785,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152897,7 +152897,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -152974,7 +152974,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153051,7 +153051,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153128,7 +153128,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153230,7 +153230,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153332,7 +153332,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153434,7 +153434,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153593,7 +153593,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153761,7 +153761,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153847,7 +153847,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -153961,7 +153961,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154049,7 +154049,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154197,7 +154197,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154276,7 +154276,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154355,7 +154355,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154463,7 +154463,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154571,7 +154571,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154679,7 +154679,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154787,7 +154787,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -154930,7 +154930,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155119,7 +155119,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155339,7 +155339,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155444,7 +155444,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155549,7 +155549,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155654,7 +155654,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155759,7 +155759,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155864,7 +155864,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -155969,7 +155969,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156037,7 +156037,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156105,7 +156105,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156171,7 +156171,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156237,7 +156237,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156314,7 +156314,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156392,7 +156392,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156509,7 +156509,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156626,7 +156626,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156743,7 +156743,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -156860,7 +156860,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157001,7 +157001,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157111,7 +157111,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157270,7 +157270,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157520,7 +157520,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157611,7 +157611,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157702,7 +157702,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157809,7 +157809,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -157916,7 +157916,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158023,7 +158023,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158130,7 +158130,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158237,7 +158237,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158344,7 +158344,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158451,7 +158451,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158558,7 +158558,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158665,7 +158665,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158772,7 +158772,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158879,7 +158879,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -158986,7 +158986,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159093,7 +159093,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159200,7 +159200,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159307,7 +159307,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159414,7 +159414,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159529,7 +159529,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159597,7 +159597,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159665,7 +159665,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159732,7 +159732,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159799,7 +159799,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159867,7 +159867,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -159935,7 +159935,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160002,7 +160002,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160069,7 +160069,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160185,7 +160185,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160301,7 +160301,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160367,7 +160367,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160433,7 +160433,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160510,7 +160510,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160669,7 +160669,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -160921,7 +160921,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161003,7 +161003,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161085,7 +161085,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161165,7 +161165,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161268,7 +161268,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161338,7 +161338,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161407,7 +161407,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161476,7 +161476,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161545,7 +161545,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161615,7 +161615,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161717,7 +161717,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161819,7 +161819,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161889,7 +161889,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -161958,7 +161958,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162027,7 +162027,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162096,7 +162096,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162166,7 +162166,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162268,7 +162268,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162370,7 +162370,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162440,7 +162440,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162509,7 +162509,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162578,7 +162578,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162647,7 +162647,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162717,7 +162717,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162819,7 +162819,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162921,7 +162921,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -162991,7 +162991,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163060,7 +163060,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163129,7 +163129,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163198,7 +163198,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163268,7 +163268,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163370,7 +163370,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163472,7 +163472,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163585,7 +163585,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163698,7 +163698,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163811,7 +163811,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -163971,7 +163971,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164202,7 +164202,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164303,7 +164303,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164404,7 +164404,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164505,7 +164505,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164606,7 +164606,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164707,7 +164707,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164808,7 +164808,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -164909,7 +164909,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165010,7 +165010,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165126,7 +165126,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165242,7 +165242,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165358,7 +165358,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165474,7 +165474,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165581,7 +165581,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165657,7 +165657,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165733,7 +165733,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -165844,7 +165844,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166004,7 +166004,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166237,7 +166237,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166295,7 +166295,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166405,7 +166405,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166515,7 +166515,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166625,7 +166625,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166713,7 +166713,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166795,7 +166795,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166877,7 +166877,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -166937,7 +166937,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167100,7 +167100,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167283,7 +167283,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167337,7 +167337,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167391,7 +167391,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167463,7 +167463,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167535,7 +167535,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167618,7 +167618,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167701,7 +167701,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167784,7 +167784,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167867,7 +167867,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -167983,7 +167983,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168099,7 +168099,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168215,7 +168215,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168331,7 +168331,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168407,7 +168407,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168483,7 +168483,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168594,7 +168594,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168705,7 +168705,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168816,7 +168816,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -168927,7 +168927,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169035,7 +169035,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169305,7 +169305,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169388,7 +169388,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169472,7 +169472,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169542,7 +169542,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169614,7 +169614,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169680,7 +169680,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169748,7 +169748,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169805,7 +169805,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169861,7 +169861,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -169926,7 +169926,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170042,7 +170042,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170158,7 +170158,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170274,7 +170274,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170390,7 +170390,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170506,7 +170506,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170622,7 +170622,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170688,7 +170688,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170804,7 +170804,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170920,7 +170920,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -170974,7 +170974,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -171028,7 +171028,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -171230,7 +171230,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -171432,7 +171432,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -171634,7 +171634,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -171836,7 +171836,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -171902,7 +171902,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -171968,7 +171968,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -172052,7 +172052,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -172135,7 +172135,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -172202,7 +172202,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -172562,7 +172562,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -172654,7 +172654,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -172886,7 +172886,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173118,7 +173118,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173221,7 +173221,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173324,7 +173324,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173409,7 +173409,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173494,7 +173494,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173665,7 +173665,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173812,7 +173812,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173880,7 +173880,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -173946,7 +173946,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -174011,7 +174011,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -174127,7 +174127,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -174243,7 +174243,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -174475,7 +174475,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -174707,7 +174707,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -174839,7 +174839,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -174922,7 +174922,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175006,7 +175006,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175076,7 +175076,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175148,7 +175148,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175214,7 +175214,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175282,7 +175282,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175339,7 +175339,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175395,7 +175395,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175460,7 +175460,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175576,7 +175576,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175692,7 +175692,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175808,7 +175808,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -175924,7 +175924,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176040,7 +176040,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176156,7 +176156,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176222,7 +176222,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176338,7 +176338,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176454,7 +176454,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176507,7 +176507,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176559,7 +176559,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176760,7 +176760,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176826,7 +176826,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176892,7 +176892,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -176976,7 +176976,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -177059,7 +177059,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -177126,7 +177126,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -177485,7 +177485,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -177577,7 +177577,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -177808,7 +177808,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -177911,7 +177911,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178014,7 +178014,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178099,7 +178099,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178184,7 +178184,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178355,7 +178355,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178502,7 +178502,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178570,7 +178570,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178636,7 +178636,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178701,7 +178701,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178817,7 +178817,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -178933,7 +178933,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -179164,7 +179164,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -179269,7 +179269,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -179403,7 +179403,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -179626,7 +179626,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -179732,7 +179732,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -179838,7 +179838,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -179986,7 +179986,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -180134,7 +180134,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -180251,7 +180251,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -180368,7 +180368,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -180540,7 +180540,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -180688,7 +180688,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -180817,7 +180817,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -181049,7 +181049,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -181281,7 +181281,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -181513,7 +181513,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -181799,7 +181799,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182024,7 +182024,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182129,7 +182129,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182234,7 +182234,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182382,7 +182382,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182530,7 +182530,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182702,7 +182702,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182850,7 +182850,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -182979,7 +182979,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -183211,7 +183211,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -183443,7 +183443,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -183675,7 +183675,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -183907,7 +183907,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -184013,7 +184013,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -184173,7 +184173,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -184396,7 +184396,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -184502,7 +184502,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -184608,7 +184608,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -184756,7 +184756,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -184904,7 +184904,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -185021,7 +185021,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -185138,7 +185138,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -185310,7 +185310,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -185458,7 +185458,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -185587,7 +185587,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -185818,7 +185818,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -186049,7 +186049,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -186155,7 +186155,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -186317,7 +186317,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -186382,7 +186382,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -186489,7 +186489,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -186721,7 +186721,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -186953,7 +186953,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187155,7 +187155,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187357,7 +187357,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187421,7 +187421,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187485,7 +187485,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187565,7 +187565,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187645,7 +187645,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187715,7 +187715,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -187886,7 +187886,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188033,7 +188033,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188099,7 +188099,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188214,7 +188214,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188329,7 +188329,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188444,7 +188444,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188559,7 +188559,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188662,7 +188662,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188819,7 +188819,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188885,7 +188885,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -188992,7 +188992,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189223,7 +189223,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189424,7 +189424,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189488,7 +189488,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189552,7 +189552,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189632,7 +189632,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189712,7 +189712,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189782,7 +189782,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -189953,7 +189953,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190100,7 +190100,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190166,7 +190166,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190281,7 +190281,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190396,7 +190396,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190511,7 +190511,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190626,7 +190626,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190729,7 +190729,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190832,7 +190832,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -190938,7 +190938,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -191044,7 +191044,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -191205,7 +191205,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -191272,7 +191272,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -191504,7 +191504,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -191736,7 +191736,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -191938,7 +191938,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192140,7 +192140,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192204,7 +192204,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192268,7 +192268,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192348,7 +192348,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192428,7 +192428,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192498,7 +192498,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192669,7 +192669,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192816,7 +192816,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192882,7 +192882,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -192997,7 +192997,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193112,7 +193112,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193227,7 +193227,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193342,7 +193342,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193445,7 +193445,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193548,7 +193548,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193654,7 +193654,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193760,7 +193760,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193918,7 +193918,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -193975,7 +193975,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -194055,7 +194055,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -194170,7 +194170,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -194280,7 +194280,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -194390,7 +194390,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -194520,7 +194520,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -194646,7 +194646,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -194777,7 +194777,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195012,7 +195012,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195092,7 +195092,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195148,7 +195148,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195204,7 +195204,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195302,7 +195302,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195400,7 +195400,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195455,7 +195455,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195571,7 +195571,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195687,7 +195687,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195803,7 +195803,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -195919,7 +195919,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196035,7 +196035,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196151,7 +196151,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196219,7 +196219,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196287,7 +196287,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196355,7 +196355,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196423,7 +196423,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196491,7 +196491,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196559,7 +196559,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -196791,7 +196791,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -197023,7 +197023,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -197255,7 +197255,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -197487,7 +197487,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -197719,7 +197719,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198015,7 +198015,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198073,7 +198073,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198153,7 +198153,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198251,7 +198251,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198349,7 +198349,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198459,7 +198459,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198569,7 +198569,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198699,7 +198699,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198825,7 +198825,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -198956,7 +198956,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199191,7 +199191,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199271,7 +199271,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199327,7 +199327,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199385,7 +199385,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199483,7 +199483,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199581,7 +199581,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199636,7 +199636,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199752,7 +199752,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199868,7 +199868,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -199984,7 +199984,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200100,7 +200100,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200216,7 +200216,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200332,7 +200332,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200400,7 +200400,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200468,7 +200468,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200536,7 +200536,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200604,7 +200604,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200672,7 +200672,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200740,7 +200740,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200816,7 +200816,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -200892,7 +200892,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -201124,7 +201124,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -201356,7 +201356,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -201588,7 +201588,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -201820,7 +201820,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202052,7 +202052,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202347,7 +202347,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202406,7 +202406,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202486,7 +202486,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202584,7 +202584,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202682,7 +202682,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202797,7 +202797,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -202907,7 +202907,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203017,7 +203017,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203147,7 +203147,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203273,7 +203273,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203404,7 +203404,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203639,7 +203639,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203719,7 +203719,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203775,7 +203775,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203833,7 +203833,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -203931,7 +203931,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204029,7 +204029,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204084,7 +204084,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204200,7 +204200,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204316,7 +204316,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204432,7 +204432,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204548,7 +204548,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204664,7 +204664,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204780,7 +204780,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204847,7 +204847,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204914,7 +204914,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -204981,7 +204981,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205048,7 +205048,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205115,7 +205115,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205182,7 +205182,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205258,7 +205258,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205390,7 +205390,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205460,7 +205460,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205600,7 +205600,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205707,7 +205707,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205775,7 +205775,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205857,7 +205857,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -205939,7 +205939,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206058,7 +206058,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206177,7 +206177,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206296,7 +206296,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206415,7 +206415,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206640,7 +206640,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206759,7 +206759,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206878,7 +206878,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -206997,7 +206997,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -207116,7 +207116,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -207235,7 +207235,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -207354,7 +207354,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -207548,7 +207548,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -207718,7 +207718,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -207888,7 +207888,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -208058,7 +208058,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -208252,7 +208252,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -208422,7 +208422,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -208664,7 +208664,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -208906,7 +208906,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -209148,7 +209148,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -209390,7 +209390,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -209632,7 +209632,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -209874,7 +209874,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -210116,7 +210116,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -210358,7 +210358,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -210600,7 +210600,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -210842,7 +210842,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211043,7 +211043,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211112,7 +211112,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211254,7 +211254,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211361,7 +211361,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211429,7 +211429,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211511,7 +211511,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211593,7 +211593,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211712,7 +211712,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211831,7 +211831,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -211950,7 +211950,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212069,7 +212069,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212181,7 +212181,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212293,7 +212293,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212412,7 +212412,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212531,7 +212531,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212650,7 +212650,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212769,7 +212769,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -212888,7 +212888,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -213007,7 +213007,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -213201,7 +213201,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -213371,7 +213371,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -213541,7 +213541,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -213711,7 +213711,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -213953,7 +213953,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -214195,7 +214195,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -214437,7 +214437,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -214679,7 +214679,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -214921,7 +214921,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -215163,7 +215163,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -215405,7 +215405,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -215647,7 +215647,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -215889,7 +215889,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216131,7 +216131,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216328,7 +216328,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216398,7 +216398,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216540,7 +216540,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216647,7 +216647,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216715,7 +216715,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216793,7 +216793,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216871,7 +216871,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -216990,7 +216990,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -217109,7 +217109,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -217228,7 +217228,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -217347,7 +217347,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -217459,7 +217459,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -217571,7 +217571,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -217796,7 +217796,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -217915,7 +217915,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -218034,7 +218034,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -218153,7 +218153,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -218272,7 +218272,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -218391,7 +218391,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -218510,7 +218510,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -218704,7 +218704,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -218874,7 +218874,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -219044,7 +219044,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -219214,7 +219214,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -219408,7 +219408,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -219578,7 +219578,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -219819,7 +219819,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -220060,7 +220060,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -220263,7 +220263,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -220339,7 +220339,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -220571,7 +220571,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -220803,7 +220803,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221035,7 +221035,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221267,7 +221267,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221333,7 +221333,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221420,7 +221420,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221525,7 +221525,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221630,7 +221630,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221800,7 +221800,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221875,7 +221875,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -221943,7 +221943,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222010,7 +222010,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222151,7 +222151,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222266,7 +222266,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222482,7 +222482,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222555,7 +222555,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222786,7 +222786,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222854,7 +222854,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -222962,7 +222962,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223070,7 +223070,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223157,7 +223157,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223262,7 +223262,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223367,7 +223367,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223537,7 +223537,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223612,7 +223612,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223680,7 +223680,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223747,7 +223747,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -223888,7 +223888,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -224003,7 +224003,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -224222,7 +224222,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -224296,7 +224296,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -224528,7 +224528,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -224760,7 +224760,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -224992,7 +224992,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225224,7 +225224,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225292,7 +225292,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225400,7 +225400,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225508,7 +225508,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225613,7 +225613,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225718,7 +225718,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225888,7 +225888,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -225956,7 +225956,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226023,7 +226023,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226164,7 +226164,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226279,7 +226279,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226496,7 +226496,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226568,7 +226568,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226636,7 +226636,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226704,7 +226704,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226772,7 +226772,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226840,7 +226840,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -226930,7 +226930,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -227084,7 +227084,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -227238,7 +227238,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -227392,7 +227392,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -227546,7 +227546,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -227700,7 +227700,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -227854,7 +227854,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -228008,7 +228008,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -228162,7 +228162,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -228340,7 +228340,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -228443,7 +228443,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -228675,7 +228675,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -228907,7 +228907,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229139,7 +229139,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229421,7 +229421,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229495,7 +229495,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229563,7 +229563,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229631,7 +229631,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229699,7 +229699,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229767,7 +229767,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -229857,7 +229857,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -230011,7 +230011,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -230165,7 +230165,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -230319,7 +230319,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -230473,7 +230473,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -230627,7 +230627,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -230781,7 +230781,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -230935,7 +230935,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -231089,7 +231089,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -231189,7 +231189,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -231289,7 +231289,7 @@ PART
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -231466,7 +231466,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -231698,7 +231698,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -231930,7 +231930,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -232162,7 +232162,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -232445,7 +232445,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -232817,7 +232817,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -233049,7 +233049,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -233281,7 +233281,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -233513,7 +233513,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -233745,7 +233745,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -233856,7 +233856,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -233967,7 +233967,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234078,7 +234078,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234189,7 +234189,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234300,7 +234300,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234411,7 +234411,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234583,7 +234583,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234731,7 +234731,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234861,7 +234861,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -234987,7 +234987,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235051,7 +235051,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235167,7 +235167,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235283,7 +235283,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235455,7 +235455,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235603,7 +235603,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235713,7 +235713,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235824,7 +235824,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -235935,7 +235935,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -236003,7 +236003,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -236119,7 +236119,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -236235,7 +236235,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -236346,7 +236346,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -236522,7 +236522,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -236893,7 +236893,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237124,7 +237124,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237235,7 +237235,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237346,7 +237346,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237457,7 +237457,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237568,7 +237568,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237679,7 +237679,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237790,7 +237790,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -237962,7 +237962,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238110,7 +238110,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238240,7 +238240,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238366,7 +238366,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238430,7 +238430,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238546,7 +238546,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238662,7 +238662,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238834,7 +238834,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -238982,7 +238982,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239092,7 +239092,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239203,7 +239203,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239314,7 +239314,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239382,7 +239382,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239498,7 +239498,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239614,7 +239614,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239725,7 +239725,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239836,7 +239836,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -239934,7 +239934,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240099,7 +240099,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240163,7 +240163,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240234,7 +240234,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240305,7 +240305,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240390,7 +240390,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240475,7 +240475,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240545,7 +240545,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240615,7 +240615,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -240817,7 +240817,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241019,7 +241019,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241083,7 +241083,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241149,7 +241149,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241215,7 +241215,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241386,7 +241386,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241533,7 +241533,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241648,7 +241648,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241764,7 +241764,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241880,7 +241880,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -241996,7 +241996,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -242112,7 +242112,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -242214,7 +242214,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -242282,7 +242282,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -242350,7 +242350,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -242582,7 +242582,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -242814,7 +242814,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -242930,7 +242930,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243046,7 +243046,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243162,7 +243162,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243278,7 +243278,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243384,7 +243384,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243490,7 +243490,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243650,7 +243650,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243716,7 +243716,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243824,7 +243824,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -243932,7 +243932,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244002,7 +244002,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244072,7 +244072,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244157,7 +244157,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244242,7 +244242,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244312,7 +244312,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244382,7 +244382,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244584,7 +244584,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244786,7 +244786,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244850,7 +244850,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244916,7 +244916,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -244982,7 +244982,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245153,7 +245153,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245300,7 +245300,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245415,7 +245415,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245531,7 +245531,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245647,7 +245647,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245763,7 +245763,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245879,7 +245879,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -245981,7 +245981,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -246049,7 +246049,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -246117,7 +246117,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -246349,7 +246349,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -246581,7 +246581,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -246697,7 +246697,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -246813,7 +246813,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -246929,7 +246929,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247045,7 +247045,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247206,7 +247206,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247272,7 +247272,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247380,7 +247380,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247488,7 +247488,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247559,7 +247559,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247630,7 +247630,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247715,7 +247715,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247800,7 +247800,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247870,7 +247870,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -247939,7 +247939,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248140,7 +248140,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248204,7 +248204,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248270,7 +248270,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248336,7 +248336,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248507,7 +248507,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248654,7 +248654,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248769,7 +248769,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -248885,7 +248885,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249001,7 +249001,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249117,7 +249117,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249233,7 +249233,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249335,7 +249335,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249402,7 +249402,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249470,7 +249470,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249701,7 +249701,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249817,7 +249817,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -249933,7 +249933,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250049,7 +250049,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250165,7 +250165,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250271,7 +250271,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250377,7 +250377,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250540,7 +250540,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250772,7 +250772,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250885,7 +250885,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -250998,7 +250998,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -251099,7 +251099,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -251331,7 +251331,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -251563,7 +251563,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -251795,7 +251795,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -252027,7 +252027,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -252259,7 +252259,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -252491,7 +252491,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -252607,7 +252607,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -252723,7 +252723,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -252839,7 +252839,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -252955,7 +252955,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253071,7 +253071,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253138,7 +253138,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253203,7 +253203,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253380,7 +253380,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253496,7 +253496,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253606,7 +253606,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253716,7 +253716,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253808,7 +253808,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -253980,7 +253980,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -254128,7 +254128,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -254327,7 +254327,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -254558,7 +254558,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -254671,7 +254671,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -254784,7 +254784,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -254886,7 +254886,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -255117,7 +255117,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -255348,7 +255348,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = ForceHeaviest
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -255579,7 +255579,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -255695,7 +255695,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -255811,7 +255811,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -255927,7 +255927,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256043,7 +256043,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256159,7 +256159,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256226,7 +256226,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256291,7 +256291,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256468,7 +256468,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256584,7 +256584,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256694,7 +256694,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256804,7 +256804,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -256896,7 +256896,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -257068,7 +257068,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -257216,7 +257216,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -257345,7 +257345,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -257461,7 +257461,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
@@ -257537,7 +257537,7 @@ PART
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Off
-	rigidAttachment = False
+	rigidAttachment = True
 	istg = -1
 	resPri = 0
 	dstg = 0
