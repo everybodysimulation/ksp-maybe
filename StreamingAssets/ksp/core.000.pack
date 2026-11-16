@@ -24739,6 +24739,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
+	rigidAttachment = True
 	link = parachuteSingle_4290474242
 	link = solidBooster_sm_v2_4290449126
 	attN = bottom,solidBooster_sm_v2_4290449126
@@ -24890,6 +24891,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
+	rigidAttachment = True
 	attN = bottom,mk1pod_v2_4290485324
 	EVENTS
 	{
@@ -24987,6 +24989,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
+	rigidAttachment = True
 	attN = top,mk1pod_v2_4290485324
 	EVENTS
 	{
