@@ -24714,7 +24714,7 @@ TUTORIAL
 		key = 1800 51900
 	}
 }﻿ship = #autoLOC_501172 //#autoLOC_501172 = Hopper
-version = 1.1.0
+version = 1.12.5.0
 description = #autoLOC_501173 //#autoLOC_501173 = A starting craft. Can be built from the start of a career game, and is good enough to let you advance. Cheap, too!
 type = VAB
 size = 1.29386,3.033463,1.30201
