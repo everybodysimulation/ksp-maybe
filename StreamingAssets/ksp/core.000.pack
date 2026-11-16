@@ -24720,7 +24720,7 @@ type = VAB
 size = 1.29386,3.033463,1.30201
 PART
 {
-	part = mk1pod_4290485324
+	part = mk1pod_v2_4290485324
 	partName = Part
 	pos = 0,15,0
 	attPos = 0,0,0
@@ -24740,8 +24740,8 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	link = parachuteSingle_4290474242
-	link = solidBooster.sm_4290449126
-	attN = bottom,solidBooster.sm_4290449126
+	link = solidBooster_sm_v2_4290449126
+	attN = bottom,solidBooster_sm_v2_4290449126
 	attN = top,parachuteSingle_4290474242
 	EVENTS
 	{
@@ -24890,7 +24890,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
-	attN = bottom,mk1pod_4290485324
+	attN = bottom,mk1pod_v2_4290485324
 	EVENTS
 	{
 	}
@@ -24968,7 +24968,7 @@ PART
 }
 PART
 {
-	part = solidBooster.sm_4290449126
+	part = solidBooster_sm_v2_4290449126
 	partName = Part
 	pos = 0,13.90746,0
 	attPos = 0,0,0
@@ -24987,7 +24987,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
-	attN = top,mk1pod_4290485324
+	attN = top,mk1pod_v2_4290485324
 	EVENTS
 	{
 	}
@@ -122006,7 +122006,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294634370
+	part = HECS2_ProbeCore_4294634370
 	partName = Part
 	persistentId = 2923472174
 	pos = 0.000363856554,14.9824133,-0.000206589699
@@ -122032,11 +122032,11 @@ PART
 	modSize = 0,0,0
 	link = solarPanels4_4294623236
 	link = solarPanels4_4294619394
-	link = RCSBlock.v2_4294603246
-	link = RCSBlock.v2_4294603040
-	link = RCSBlock.v2_4294602856
+	link = RCSBlock_v2_4294603246
+	link = RCSBlock_v2_4294603040
+	link = RCSBlock_v2_4294602856
 	link = rcsTankMini_4294602058
-	link = HighGainAntenna5.v2_4294552416
+	link = HighGainAntenna5_v2_4294552416
 	attN = top,rcsTankMini_4294602058_0|0.5|0_0|1|0_0|0.5|0_0|1|0
 	attN = bottom,Null_0_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
 	EVENTS
@@ -122281,7 +122281,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels4_4294619394
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -122387,7 +122387,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels4_4294623236
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -122468,7 +122468,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294603246
+	part = RCSBlock_v2_4294603246
 	partName = Part
 	persistentId = 1853224632
 	pos = 0.623885036,14.827364,-0.360196859
@@ -122492,9 +122492,9 @@ PART
 	modCost = 40
 	modMass = 0.0500000007
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294603040
-	sym = RCSBlock.v2_4294602856
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294603040
+	sym = RCSBlock_v2_4294602856
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -122600,7 +122600,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294603040
+	part = RCSBlock_v2_4294603040
 	partName = Part
 	persistentId = 2720413092
 	pos = -0.623157501,14.827364,-0.36019662
@@ -122624,9 +122624,9 @@ PART
 	modCost = 40
 	modMass = 0.0500000007
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294602856
-	sym = RCSBlock.v2_4294603246
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294602856
+	sym = RCSBlock_v2_4294603246
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -122732,7 +122732,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294602856
+	part = RCSBlock_v2_4294602856
 	partName = Part
 	persistentId = 788415319
 	pos = 0.000364007516,14.827364,0.719773829
@@ -122756,9 +122756,9 @@ PART
 	modCost = 40
 	modMass = 0.0500000007
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294603246
-	sym = RCSBlock.v2_4294603040
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294603246
+	sym = RCSBlock_v2_4294603040
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -122892,7 +122892,7 @@ PART
 	link = GooExperiment_4294595652
 	link = GooExperiment_4294595600
 	attN = top,Null_0_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
-	attN = bottom,HECS2.ProbeCore_4294634370_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
+	attN = bottom,HECS2_ProbeCore_4294634370_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -123349,7 +123349,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294552416
+	part = HighGainAntenna5_v2_4294552416
 	partName = Part
 	persistentId = 3158629322
 	pos = -0.629835367,15.0615559,0.363639116
@@ -123373,7 +123373,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -123539,7 +123539,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294500114
+	part = HECS2_ProbeCore_4294500114
 	partName = Part
 	persistentId = 3210222362
 	pos = 0,15,0
@@ -123812,7 +123812,7 @@ PART
 	sym = LgRadialSolarPanel_4294498640
 	sym = LgRadialSolarPanel_4294498582
 	sym = LgRadialSolarPanel_4294498524
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -123917,7 +123917,7 @@ PART
 	sym = LgRadialSolarPanel_4294498582
 	sym = LgRadialSolarPanel_4294498524
 	sym = LgRadialSolarPanel_4294499284
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -124022,7 +124022,7 @@ PART
 	sym = LgRadialSolarPanel_4294498524
 	sym = LgRadialSolarPanel_4294499284
 	sym = LgRadialSolarPanel_4294498756
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -124127,7 +124127,7 @@ PART
 	sym = LgRadialSolarPanel_4294499284
 	sym = LgRadialSolarPanel_4294498756
 	sym = LgRadialSolarPanel_4294498698
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -124232,7 +124232,7 @@ PART
 	sym = LgRadialSolarPanel_4294498756
 	sym = LgRadialSolarPanel_4294498698
 	sym = LgRadialSolarPanel_4294498640
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -124337,7 +124337,7 @@ PART
 	sym = LgRadialSolarPanel_4294498698
 	sym = LgRadialSolarPanel_4294498640
 	sym = LgRadialSolarPanel_4294498582
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -124442,7 +124442,7 @@ PART
 	sym = strutConnector_4294496616
 	sym = strutConnector_4294496508
 	sym = strutConnector_4294496400
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -124562,7 +124562,7 @@ PART
 	sym = strutConnector_4294496508
 	sym = strutConnector_4294496400
 	sym = strutConnector_4294497644
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -124682,7 +124682,7 @@ PART
 	sym = strutConnector_4294496400
 	sym = strutConnector_4294497644
 	sym = strutConnector_4294496832
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -124802,7 +124802,7 @@ PART
 	sym = strutConnector_4294497644
 	sym = strutConnector_4294496832
 	sym = strutConnector_4294496724
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -124922,7 +124922,7 @@ PART
 	sym = strutConnector_4294496832
 	sym = strutConnector_4294496724
 	sym = strutConnector_4294496616
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -125042,7 +125042,7 @@ PART
 	sym = strutConnector_4294496724
 	sym = strutConnector_4294496616
 	sym = strutConnector_4294496508
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -125166,7 +125166,7 @@ PART
 	link = sensorThermometer_4294481762
 	link = strutOcto_4294480046
 	link = strutOcto_4294479844
-	attN = top,HECS2.ProbeCore_4294500114_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
+	attN = top,HECS2_ProbeCore_4294500114_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294490536_0|-0.9375|0_0|-1|0_0|-0.9375|0_0|-1|0
 	EVENTS
 	{
@@ -128399,8 +128399,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294448894
-	link = RCSBlock.v2_4294447766
+	link = RCSBlock_v2_4294448894
+	link = RCSBlock_v2_4294447766
 	attN = top,mk2DroneCore_4294475066_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
 	attN = bottom,Null_0_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
@@ -128453,7 +128453,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294448894
+	part = RCSBlock_v2_4294448894
 	partName = Part
 	persistentId = 3855229239
 	pos = 0.303552538,14.5568542,1.86146831E-08
@@ -128477,7 +128477,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294447766
+	sym = RCSBlock_v2_4294447766
 	srfN = srfAttach,rcsTankMini_4294450276,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -128564,7 +128564,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294447766
+	part = RCSBlock_v2_4294447766
 	partName = Part
 	persistentId = 23247774
 	pos = -0.303552538,14.5568542,7.92272292E-09
@@ -128588,7 +128588,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294448894
+	sym = RCSBlock_v2_4294448894
 	srfN = srfAttach,rcsTankMini_4294450276,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -128719,7 +128719,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294634370
+	part = HECS2_ProbeCore_4294634370
 	partName = Part
 	persistentId = 1859100550
 	pos = -0.0769860148,15.0004873,0.00921346247
@@ -128743,9 +128743,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294602856
-	link = RCSBlock.v2_4294592184
-	link = RCSBlock.v2_4294592000
+	link = RCSBlock_v2_4294602856
+	link = RCSBlock_v2_4294592184
+	link = RCSBlock_v2_4294592000
 	link = radialRCSTank_4294590172
 	link = radialRCSTank_4294590138
 	link = radialRCSTank_4294590110
@@ -128960,7 +128960,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294602856
+	part = RCSBlock_v2_4294602856
 	partName = Part
 	persistentId = 3158887892
 	pos = -0.129415035,14.6644373,0.7279706
@@ -128984,9 +128984,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294592184
-	sym = RCSBlock.v2_4294592000
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294592184
+	sym = RCSBlock_v2_4294592000
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -129072,7 +129072,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294592184
+	part = RCSBlock_v2_4294592184
 	partName = Part
 	persistentId = 1104715681
 	pos = 0.57169044,14.6644373,-0.304760337
@@ -129096,9 +129096,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294592000
-	sym = RCSBlock.v2_4294602856
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294592000
+	sym = RCSBlock_v2_4294602856
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -129184,7 +129184,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294592000
+	part = RCSBlock_v2_4294592000
 	partName = Part
 	persistentId = 1527741841
 	pos = -0.673233509,14.6644373,-0.39556998
@@ -129208,9 +129208,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294602856
-	sym = RCSBlock.v2_4294592184
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294602856
+	sym = RCSBlock_v2_4294592184
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -129322,7 +129322,7 @@ PART
 	modSize = 0,0,0
 	sym = radialRCSTank_4294590138
 	sym = radialRCSTank_4294590110
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -129399,7 +129399,7 @@ PART
 	modSize = 0,0,0
 	sym = radialRCSTank_4294590110
 	sym = radialRCSTank_4294590172
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -129476,7 +129476,7 @@ PART
 	modSize = 0,0,0
 	sym = radialRCSTank_4294590172
 	sym = radialRCSTank_4294590138
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -129553,7 +129553,7 @@ PART
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294589180
 	sym = LgRadialSolarPanel_4294589122
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -129655,7 +129655,7 @@ PART
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294589122
 	sym = LgRadialSolarPanel_4294589592
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -129757,7 +129757,7 @@ PART
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294589592
 	sym = LgRadialSolarPanel_4294589180
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -129857,7 +129857,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom,HECS2.ProbeCore_4294634370_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom,HECS2_ProbeCore_4294634370_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -129979,7 +129979,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = probeCoreSphere.v2_4294662684
+	part = probeCoreSphere_v2_4294662684
 	partName = Part
 	persistentId = 2270288643
 	pos = 0,15,0
@@ -130172,7 +130172,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = advSasModule_4294636192
-	attN = top,probeCoreSphere.v2_4294662684_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
+	attN = top,probeCoreSphere_v2_4294662684_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
 	attN = bottom,advSasModule_4294636192_0|-0.375|0_0|-1|0_0|-0.375|0_0|-1|0
 	EVENTS
 	{
@@ -130262,8 +130262,8 @@ PART
 	link = solarPanels3_4294635138
 	link = solarPanels3_4294635032
 	link = solarPanels3_4294634926
-	link = HighGainAntenna5.v2_4294548626
-	link = HighGainAntenna5.v2_4294547870
+	link = HighGainAntenna5_v2_4294548626
+	link = HighGainAntenna5_v2_4294547870
 	attN = top,adapterSmallMiniTall_4294645274_0|0.199026704|0_0|1|0_0|0.199026704|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294644316_0|-0.199026704|0_0|-1|0_0|-0.199026704|0_0|-1|0
 	EVENTS
@@ -131173,7 +131173,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294548626
+	part = HighGainAntenna5_v2_4294548626
 	partName = Part
 	persistentId = 402614446
 	pos = -0.43968603,13.8324137,-0.439686
@@ -131197,7 +131197,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = HighGainAntenna5.v2_4294547870
+	sym = HighGainAntenna5_v2_4294547870
 	srfN = srfAttach,advSasModule_4294636192,collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
@@ -131316,7 +131316,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294547870
+	part = HighGainAntenna5_v2_4294547870
 	partName = Part
 	persistentId = 2517527361
 	pos = 0.43968606,13.8324137,0.439685971
@@ -131340,7 +131340,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = HighGainAntenna5.v2_4294548626
+	sym = HighGainAntenna5_v2_4294548626
 	srfN = srfAttach,advSasModule_4294636192,collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
@@ -131505,7 +131505,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = probeCoreHex.v2_4294628802
+	part = probeCoreHex_v2_4294628802
 	partName = Part
 	persistentId = 1044621872
 	pos = 0,15,0
@@ -131754,7 +131754,7 @@ PART
 	sym = solarPanels5_4294627572
 	sym = solarPanels5_4294627538
 	sym = solarPanels5_4294627504
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -131859,7 +131859,7 @@ PART
 	sym = solarPanels5_4294627538
 	sym = solarPanels5_4294627504
 	sym = solarPanels5_4294627898
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -131964,7 +131964,7 @@ PART
 	sym = solarPanels5_4294627504
 	sym = solarPanels5_4294627898
 	sym = solarPanels5_4294627640
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -132069,7 +132069,7 @@ PART
 	sym = solarPanels5_4294627898
 	sym = solarPanels5_4294627640
 	sym = solarPanels5_4294627606
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -132174,7 +132174,7 @@ PART
 	sym = solarPanels5_4294627640
 	sym = solarPanels5_4294627606
 	sym = solarPanels5_4294627572
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -132279,7 +132279,7 @@ PART
 	sym = solarPanels5_4294627606
 	sym = solarPanels5_4294627572
 	sym = solarPanels5_4294627538
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -132383,7 +132383,7 @@ PART
 	link = longAntenna_4294613606
 	link = longAntenna_4294612774
 	attN = top,strutOcto_4294620602_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
-	attN = bottom,probeCoreHex.v2_4294628802_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
+	attN = bottom,probeCoreHex_v2_4294628802_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -132450,7 +132450,7 @@ PART
 	link = strutOcto_4294620846
 	link = longAntenna_4294612530
 	link = longAntenna_4294611900
-	attN = top,probeCoreHex.v2_4294628802_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
+	attN = top,probeCoreHex_v2_4294628802_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
 	attN = bottom,strutOcto_4294620846_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
 	{
@@ -136843,7 +136843,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294566990
+	link = RCSBlock_v2_4294566990
 	attN = top,Null_0_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294596744_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
@@ -136896,7 +136896,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294566990
+	part = RCSBlock_v2_4294566990
 	partName = Part
 	persistentId = 958393267
 	pos = 0.0109240925,16.1412487,0.00292710704
@@ -137495,10 +137495,10 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294566990
-	link = RCSBlock.v2_4294548770
-	link = RCSBlock.v2_4294548586
-	link = RCSBlock.v2_4294548402
+	link = RCSBlock_v2_4294566990
+	link = RCSBlock_v2_4294548770
+	link = RCSBlock_v2_4294548586
+	link = RCSBlock_v2_4294548402
 	attN = top,Null_0_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294596744_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
@@ -139858,7 +139858,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294566990
+	part = RCSBlock_v2_4294566990
 	partName = Part
 	persistentId = 1461968163
 	pos = 2.62252176E-08,15.9714556,-0.303162992
@@ -139882,9 +139882,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294548770
-	sym = RCSBlock.v2_4294548586
-	sym = RCSBlock.v2_4294548402
+	sym = RCSBlock_v2_4294548770
+	sym = RCSBlock_v2_4294548586
+	sym = RCSBlock_v2_4294548402
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -139971,7 +139971,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294548770
+	part = RCSBlock_v2_4294548770
 	partName = Part
 	persistentId = 1847809454
 	pos = -0.303162962,15.9714556,-4.42951382E-08
@@ -139995,9 +139995,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294548586
-	sym = RCSBlock.v2_4294548402
-	sym = RCSBlock.v2_4294566990
+	sym = RCSBlock_v2_4294548586
+	sym = RCSBlock_v2_4294548402
+	sym = RCSBlock_v2_4294566990
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -140084,7 +140084,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294548586
+	part = RCSBlock_v2_4294548586
 	partName = Part
 	persistentId = 1929665277
 	pos = 2.78132961E-10,15.9714556,0.303162992
@@ -140108,9 +140108,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294548402
-	sym = RCSBlock.v2_4294566990
-	sym = RCSBlock.v2_4294548770
+	sym = RCSBlock_v2_4294548402
+	sym = RCSBlock_v2_4294566990
+	sym = RCSBlock_v2_4294548770
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -140197,7 +140197,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294548402
+	part = RCSBlock_v2_4294548402
 	partName = Part
 	persistentId = 2410276517
 	pos = 0.303162962,15.9714556,8.15529333E-09
@@ -140221,9 +140221,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294566990
-	sym = RCSBlock.v2_4294548770
-	sym = RCSBlock.v2_4294548586
+	sym = RCSBlock_v2_4294566990
+	sym = RCSBlock_v2_4294548770
+	sym = RCSBlock_v2_4294548586
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -140357,7 +140357,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = roverBody.v2_4294547270
+	part = roverBody_v2_4294547270
 	partName = Part
 	persistentId = 651031052
 	pos = 0,15,0
@@ -140396,8 +140396,8 @@ PART
 	link = SurveyScanner_4294541906
 	link = radialRCSTank_4294536432
 	link = radialRCSTank_4294536400
-	link = RCSBlock.v2_4294536100
-	link = RCSBlock.v2_4294530924
+	link = RCSBlock_v2_4294536100
+	link = RCSBlock_v2_4294530924
 	attN = right,Null_0_0.510226011|0|0_1|0|0_0.510226011|0|0_1|0|0
 	attN = left,Null_0_-0.510226011|0|0_-1|0|0_-0.510226011|0|0_-1|0|0
 	attN = back,Null_0_0|0|0.224069998_0|0|1_0|0|0.224069998_0|0|1
@@ -140613,7 +140613,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294532304
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -140714,7 +140714,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294546572
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -140815,7 +140815,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544902
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -140916,7 +140916,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294545186
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -141017,7 +141017,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544676
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -141118,7 +141118,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544712
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -141219,7 +141219,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544450
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -141320,7 +141320,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544486
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -141420,7 +141420,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -141536,7 +141536,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -141652,7 +141652,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -141768,7 +141768,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -141884,7 +141884,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom,roverBody.v2_4294547270_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom,roverBody_v2_4294547270_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -141992,7 +141992,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = radialRCSTank_4294536400
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -142068,7 +142068,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = radialRCSTank_4294536432
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -142119,7 +142119,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294536100
+	part = RCSBlock_v2_4294536100
 	partName = Part
 	persistentId = 2880342019
 	pos = 0.574411333,15.950387,0
@@ -142143,8 +142143,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294530924
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294530924
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -142230,7 +142230,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294530924
+	part = RCSBlock_v2_4294530924
 	partName = Part
 	persistentId = 3111797962
 	pos = -0.574411333,15.950387,5.02166344E-08
@@ -142254,8 +142254,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294536100
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294536100
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -142390,7 +142390,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294643518
+	part = HECS2_ProbeCore_4294643518
 	partName = Part
 	persistentId = 547298988
 	pos = 0,15,0
@@ -142654,7 +142654,7 @@ PART
 	link = largeSolarPanel_4294606386
 	link = rcsTankRadialLong_4294526608
 	link = fuelLine_4294525818
-	srfN = srfAttach,HECS2.ProbeCore_4294643518,COL,0|-1.47523797|0,0|-1|0,0|-1.47523797|0
+	srfN = srfAttach,HECS2_ProbeCore_4294643518,COL,0|-1.47523797|0,0|-1|0,0|-1.47523797|0
 	attN = bottom,Null_0_0|-1.47523797|0_0|-1|0_0|-1.47523797|0_0|-1|0
 	attN = top,Null_0_0|1.47523797|0_0|1|0_0|1.47523797|0_0|1|0
 	EVENTS
@@ -143035,7 +143035,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom,HECS2.ProbeCore_4294643518_0|-0.180000007|0_0|-1|0_0|-0.180000007|0_0|-1|0
+	attN = bottom,HECS2_ProbeCore_4294643518_0|-0.180000007|0_0|-1|0_0|-0.180000007|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -143803,8 +143803,8 @@ PART
 	link = strutConnector_4294544778
 	link = strutConnector_4294544396
 	link = radialRCSTank_4294534968
-	link = RCSBlock.v2_4294515726
-	link = RCSBlock.v2_4294515242
+	link = RCSBlock_v2_4294515726
+	link = RCSBlock_v2_4294515242
 	sym = structuralIBeam3_4294553524
 	srfN = srfAttach,probeCoreCube_4294560592,cube_Collider,0|-0.802465618|0,0|-1|0,0|-0.802465618|0
 	attN = top,Null_0_0|0.802465618|0_0|1|0_0|0.802465618|0_0|1|0
@@ -143875,8 +143875,8 @@ PART
 	link = strutConnector_4294544670
 	link = strutConnector_4294544180
 	link = radialRCSTank_4294534882
-	link = RCSBlock.v2_4294516300
-	link = RCSBlock.v2_4294516894
+	link = RCSBlock_v2_4294516300
+	link = RCSBlock_v2_4294516894
 	sym = structuralIBeam3_4294553640
 	srfN = srfAttach,probeCoreCube_4294560592,cube_Collider,0|-0.802465618|0,0|-1|0,0|-0.802465618|0
 	attN = top,Null_0_0|0.802465618|0_0|1|0_0|0.802465618|0_0|1|0
@@ -144784,7 +144784,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294516300
+	part = RCSBlock_v2_4294516300
 	partName = Part
 	persistentId = 2721011104
 	pos = -1.18406561E-07,14.6484718,-2.00327063
@@ -144808,7 +144808,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294515726
+	sym = RCSBlock_v2_4294515726
 	srfN = srfAttach,structuralIBeam3_4294553524,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -144895,7 +144895,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294515726
+	part = RCSBlock_v2_4294515726
 	partName = Part
 	persistentId = 1680790688
 	pos = -5.67247653E-08,14.6484718,2.00327039
@@ -144919,7 +144919,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294516300
+	sym = RCSBlock_v2_4294516300
 	srfN = srfAttach,structuralIBeam3_4294553640,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -145006,7 +145006,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294516894
+	part = RCSBlock_v2_4294516894
 	partName = Part
 	persistentId = 464993374
 	pos = -1.27776929E-07,15.1350527,-2.00838017
@@ -145030,7 +145030,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294515242
+	sym = RCSBlock_v2_4294515242
 	srfN = srfAttach,structuralIBeam3_4294553524,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -145117,7 +145117,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294515242
+	part = RCSBlock_v2_4294515242
 	partName = Part
 	persistentId = 1579946990
 	pos = -4.78011728E-08,15.1350527,2.00838184
@@ -145141,7 +145141,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294516894
+	sym = RCSBlock_v2_4294516894
 	srfN = srfAttach,structuralIBeam3_4294553640,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -145595,7 +145595,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294634370
+	part = HECS2_ProbeCore_4294634370
 	partName = Part
 	persistentId = 2327286994
 	pos = 0.000363856554,14.9824133,-0.000206589699
@@ -145621,11 +145621,11 @@ PART
 	modSize = 0,0,0
 	link = solarPanels4_4294623236
 	link = solarPanels4_4294619394
-	link = RCSBlock.v2_4294603246
-	link = RCSBlock.v2_4294603040
-	link = RCSBlock.v2_4294602856
+	link = RCSBlock_v2_4294603246
+	link = RCSBlock_v2_4294603040
+	link = RCSBlock_v2_4294602856
 	link = rcsTankMini_4294602058
-	link = HighGainAntenna5.v2_4294563706
+	link = HighGainAntenna5_v2_4294563706
 	attN = top,rcsTankMini_4294602058_0|0.5|0_0|1|0_0|0.5|0_0|1|0
 	attN = bottom,Null_0_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
 	EVENTS
@@ -145870,7 +145870,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels4_4294619394
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -145976,7 +145976,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels4_4294623236
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -146057,7 +146057,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294603246
+	part = RCSBlock_v2_4294603246
 	partName = Part
 	persistentId = 1005691718
 	pos = 0.623885036,14.827364,-0.360196859
@@ -146081,9 +146081,9 @@ PART
 	modCost = 40
 	modMass = 0.0500000007
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294603040
-	sym = RCSBlock.v2_4294602856
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294603040
+	sym = RCSBlock_v2_4294602856
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -146189,7 +146189,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294603040
+	part = RCSBlock_v2_4294603040
 	partName = Part
 	persistentId = 3421136228
 	pos = -0.623157501,14.827364,-0.36019662
@@ -146213,9 +146213,9 @@ PART
 	modCost = 40
 	modMass = 0.0500000007
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294602856
-	sym = RCSBlock.v2_4294603246
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294602856
+	sym = RCSBlock_v2_4294603246
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -146321,7 +146321,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294602856
+	part = RCSBlock_v2_4294602856
 	partName = Part
 	persistentId = 1701385051
 	pos = 0.000364007516,14.827364,0.719773829
@@ -146345,9 +146345,9 @@ PART
 	modCost = 40
 	modMass = 0.0500000007
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294603246
-	sym = RCSBlock.v2_4294603040
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294603246
+	sym = RCSBlock_v2_4294603040
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -146481,7 +146481,7 @@ PART
 	link = GooExperiment_4294595652
 	link = GooExperiment_4294595600
 	attN = top,Null_0_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
-	attN = bottom,HECS2.ProbeCore_4294634370_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
+	attN = bottom,HECS2_ProbeCore_4294634370_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -146938,7 +146938,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294563706
+	part = HighGainAntenna5_v2_4294563706
 	partName = Part
 	persistentId = 36207858
 	pos = -0.629678726,15.0493298,0.363548696
@@ -146962,7 +146962,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -147128,7 +147128,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294500114
+	part = HECS2_ProbeCore_4294500114
 	partName = Part
 	persistentId = 2258720033
 	pos = 0,15,0
@@ -147401,7 +147401,7 @@ PART
 	sym = LgRadialSolarPanel_4294498640
 	sym = LgRadialSolarPanel_4294498582
 	sym = LgRadialSolarPanel_4294498524
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -147506,7 +147506,7 @@ PART
 	sym = LgRadialSolarPanel_4294498582
 	sym = LgRadialSolarPanel_4294498524
 	sym = LgRadialSolarPanel_4294499284
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -147611,7 +147611,7 @@ PART
 	sym = LgRadialSolarPanel_4294498524
 	sym = LgRadialSolarPanel_4294499284
 	sym = LgRadialSolarPanel_4294498756
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -147716,7 +147716,7 @@ PART
 	sym = LgRadialSolarPanel_4294499284
 	sym = LgRadialSolarPanel_4294498756
 	sym = LgRadialSolarPanel_4294498698
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -147821,7 +147821,7 @@ PART
 	sym = LgRadialSolarPanel_4294498756
 	sym = LgRadialSolarPanel_4294498698
 	sym = LgRadialSolarPanel_4294498640
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -147926,7 +147926,7 @@ PART
 	sym = LgRadialSolarPanel_4294498698
 	sym = LgRadialSolarPanel_4294498640
 	sym = LgRadialSolarPanel_4294498582
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -148031,7 +148031,7 @@ PART
 	sym = strutConnector_4294496616
 	sym = strutConnector_4294496508
 	sym = strutConnector_4294496400
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -148151,7 +148151,7 @@ PART
 	sym = strutConnector_4294496508
 	sym = strutConnector_4294496400
 	sym = strutConnector_4294497644
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -148271,7 +148271,7 @@ PART
 	sym = strutConnector_4294496400
 	sym = strutConnector_4294497644
 	sym = strutConnector_4294496832
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -148391,7 +148391,7 @@ PART
 	sym = strutConnector_4294497644
 	sym = strutConnector_4294496832
 	sym = strutConnector_4294496724
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -148511,7 +148511,7 @@ PART
 	sym = strutConnector_4294496832
 	sym = strutConnector_4294496724
 	sym = strutConnector_4294496616
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -148631,7 +148631,7 @@ PART
 	sym = strutConnector_4294496724
 	sym = strutConnector_4294496616
 	sym = strutConnector_4294496508
-	srfN = srfAttach,HECS2.ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294500114,COL,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -148755,7 +148755,7 @@ PART
 	link = sensorThermometer_4294481762
 	link = strutOcto_4294480046
 	link = strutOcto_4294479844
-	attN = top,HECS2.ProbeCore_4294500114_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
+	attN = top,HECS2_ProbeCore_4294500114_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294490536_0|-0.9375|0_0|-1|0_0|-0.9375|0_0|-1|0
 	EVENTS
 	{
@@ -151988,8 +151988,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294448894
-	link = RCSBlock.v2_4294447766
+	link = RCSBlock_v2_4294448894
+	link = RCSBlock_v2_4294447766
 	attN = top,mk2DroneCore_4294475066_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
 	attN = bottom,Null_0_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
@@ -152042,7 +152042,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294448894
+	part = RCSBlock_v2_4294448894
 	partName = Part
 	persistentId = 3696534763
 	pos = 0.303552538,14.5568542,1.86146831E-08
@@ -152066,7 +152066,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294447766
+	sym = RCSBlock_v2_4294447766
 	srfN = srfAttach,rcsTankMini_4294450276,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -152153,7 +152153,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294447766
+	part = RCSBlock_v2_4294447766
 	partName = Part
 	persistentId = 2397228263
 	pos = -0.303552538,14.5568542,7.92272292E-09
@@ -152177,7 +152177,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294448894
+	sym = RCSBlock_v2_4294448894
 	srfN = srfAttach,rcsTankMini_4294450276,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -152308,7 +152308,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294634370
+	part = HECS2_ProbeCore_4294634370
 	partName = Part
 	persistentId = 3845867189
 	pos = -0.0769860148,15.0004873,0.00921346247
@@ -152332,9 +152332,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294602856
-	link = RCSBlock.v2_4294592184
-	link = RCSBlock.v2_4294592000
+	link = RCSBlock_v2_4294602856
+	link = RCSBlock_v2_4294592184
+	link = RCSBlock_v2_4294592000
 	link = radialRCSTank_4294590172
 	link = radialRCSTank_4294590138
 	link = radialRCSTank_4294590110
@@ -152549,7 +152549,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294602856
+	part = RCSBlock_v2_4294602856
 	partName = Part
 	persistentId = 2551342832
 	pos = -0.129415035,14.6644373,0.7279706
@@ -152573,9 +152573,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294592184
-	sym = RCSBlock.v2_4294592000
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294592184
+	sym = RCSBlock_v2_4294592000
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -152661,7 +152661,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294592184
+	part = RCSBlock_v2_4294592184
 	partName = Part
 	persistentId = 548297994
 	pos = 0.57169044,14.6644373,-0.304760337
@@ -152685,9 +152685,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294592000
-	sym = RCSBlock.v2_4294602856
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294592000
+	sym = RCSBlock_v2_4294602856
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -152773,7 +152773,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294592000
+	part = RCSBlock_v2_4294592000
 	partName = Part
 	persistentId = 3383502149
 	pos = -0.673233509,14.6644373,-0.39556998
@@ -152797,9 +152797,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294602856
-	sym = RCSBlock.v2_4294592184
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294602856
+	sym = RCSBlock_v2_4294592184
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -152911,7 +152911,7 @@ PART
 	modSize = 0,0,0
 	sym = radialRCSTank_4294590138
 	sym = radialRCSTank_4294590110
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -152988,7 +152988,7 @@ PART
 	modSize = 0,0,0
 	sym = radialRCSTank_4294590110
 	sym = radialRCSTank_4294590172
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -153065,7 +153065,7 @@ PART
 	modSize = 0,0,0
 	sym = radialRCSTank_4294590172
 	sym = radialRCSTank_4294590138
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -153142,7 +153142,7 @@ PART
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294589180
 	sym = LgRadialSolarPanel_4294589122
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -153244,7 +153244,7 @@ PART
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294589122
 	sym = LgRadialSolarPanel_4294589592
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -153346,7 +153346,7 @@ PART
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294589592
 	sym = LgRadialSolarPanel_4294589180
-	srfN = srfAttach,HECS2.ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294634370,COL,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -153446,7 +153446,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom,HECS2.ProbeCore_4294634370_0|-0.129999995|0_0|-1|0_0|-0.129999995|0_0|-1|0
+	attN = bottom,HECS2_ProbeCore_4294634370_0|-0.129999995|0_0|-1|0_0|-0.129999995|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -153581,7 +153581,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = probeCoreSphere.v2_4294662684
+	part = probeCoreSphere_v2_4294662684
 	partName = Part
 	persistentId = 2976223066
 	pos = 0,15,0
@@ -153774,7 +153774,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = advSasModule_4294636192
-	attN = top,probeCoreSphere.v2_4294662684_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
+	attN = top,probeCoreSphere_v2_4294662684_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
 	attN = bottom,advSasModule_4294636192_0|-0.375|0_0|-1|0_0|-0.375|0_0|-1|0
 	EVENTS
 	{
@@ -153864,8 +153864,8 @@ PART
 	link = solarPanels3_4294635138
 	link = solarPanels3_4294635032
 	link = solarPanels3_4294634926
-	link = HighGainAntenna5.v2_4294559174
-	link = HighGainAntenna5.v2_4294558268
+	link = HighGainAntenna5_v2_4294559174
+	link = HighGainAntenna5_v2_4294558268
 	attN = top,adapterSmallMiniTall_4294645274_0|0.199026704|0_0|1|0_0|0.199026704|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294644316_0|-0.199026704|0_0|-1|0_0|-0.199026704|0_0|-1|0
 	EVENTS
@@ -154775,7 +154775,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294559174
+	part = HighGainAntenna5_v2_4294559174
 	partName = Part
 	persistentId = 4200482697
 	pos = -0.439440727,13.8682299,-0.439440697
@@ -154799,7 +154799,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = HighGainAntenna5.v2_4294558268
+	sym = HighGainAntenna5_v2_4294558268
 	srfN = srfAttach,advSasModule_4294636192,collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
@@ -154918,7 +154918,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294558268
+	part = HighGainAntenna5_v2_4294558268
 	partName = Part
 	persistentId = 1885311771
 	pos = 0.439440757,13.8682299,0.439440668
@@ -154942,7 +154942,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = HighGainAntenna5.v2_4294559174
+	sym = HighGainAntenna5_v2_4294559174
 	srfN = srfAttach,advSasModule_4294636192,collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
@@ -155107,7 +155107,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = probeCoreHex.v2_4294628802
+	part = probeCoreHex_v2_4294628802
 	partName = Part
 	persistentId = 4240123224
 	pos = 0,15,0
@@ -155356,7 +155356,7 @@ PART
 	sym = solarPanels5_4294627572
 	sym = solarPanels5_4294627538
 	sym = solarPanels5_4294627504
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -155461,7 +155461,7 @@ PART
 	sym = solarPanels5_4294627538
 	sym = solarPanels5_4294627504
 	sym = solarPanels5_4294627898
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -155566,7 +155566,7 @@ PART
 	sym = solarPanels5_4294627504
 	sym = solarPanels5_4294627898
 	sym = solarPanels5_4294627640
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -155671,7 +155671,7 @@ PART
 	sym = solarPanels5_4294627898
 	sym = solarPanels5_4294627640
 	sym = solarPanels5_4294627606
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -155776,7 +155776,7 @@ PART
 	sym = solarPanels5_4294627640
 	sym = solarPanels5_4294627606
 	sym = solarPanels5_4294627572
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -155881,7 +155881,7 @@ PART
 	sym = solarPanels5_4294627606
 	sym = solarPanels5_4294627572
 	sym = solarPanels5_4294627538
-	srfN = srfAttach,probeCoreHex.v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294628802,collider_base,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -155985,7 +155985,7 @@ PART
 	link = longAntenna_4294613606
 	link = longAntenna_4294612774
 	attN = top,strutOcto_4294620602_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
-	attN = bottom,probeCoreHex.v2_4294628802_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
+	attN = bottom,probeCoreHex_v2_4294628802_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -156052,7 +156052,7 @@ PART
 	link = strutOcto_4294620846
 	link = longAntenna_4294612530
 	link = longAntenna_4294611900
-	attN = top,probeCoreHex.v2_4294628802_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
+	attN = top,probeCoreHex_v2_4294628802_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
 	attN = bottom,strutOcto_4294620846_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
 	{
@@ -160445,7 +160445,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294566990
+	link = RCSBlock_v2_4294566990
 	attN = top,Null_0_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294596744_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
@@ -160498,7 +160498,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294566990
+	part = RCSBlock_v2_4294566990
 	partName = Part
 	persistentId = 2633945068
 	pos = 0.0109240925,16.1412487,0.00292710704
@@ -161097,10 +161097,10 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = RCSBlock.v2_4294566990
-	link = RCSBlock.v2_4294548770
-	link = RCSBlock.v2_4294548586
-	link = RCSBlock.v2_4294548402
+	link = RCSBlock_v2_4294566990
+	link = RCSBlock_v2_4294548770
+	link = RCSBlock_v2_4294548586
+	link = RCSBlock_v2_4294548402
 	attN = top,Null_0_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
 	attN = bottom,adapterSmallMiniTall_4294596744_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
 	EVENTS
@@ -163460,7 +163460,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294566990
+	part = RCSBlock_v2_4294566990
 	partName = Part
 	persistentId = 1486806361
 	pos = 2.62252176E-08,15.9714556,-0.303162992
@@ -163484,9 +163484,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294548770
-	sym = RCSBlock.v2_4294548586
-	sym = RCSBlock.v2_4294548402
+	sym = RCSBlock_v2_4294548770
+	sym = RCSBlock_v2_4294548586
+	sym = RCSBlock_v2_4294548402
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -163573,7 +163573,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294548770
+	part = RCSBlock_v2_4294548770
 	partName = Part
 	persistentId = 1512028139
 	pos = -0.303162962,15.9714556,-4.42951382E-08
@@ -163597,9 +163597,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294548586
-	sym = RCSBlock.v2_4294548402
-	sym = RCSBlock.v2_4294566990
+	sym = RCSBlock_v2_4294548586
+	sym = RCSBlock_v2_4294548402
+	sym = RCSBlock_v2_4294566990
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -163686,7 +163686,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294548586
+	part = RCSBlock_v2_4294548586
 	partName = Part
 	persistentId = 752343313
 	pos = 2.78132961E-10,15.9714556,0.303162992
@@ -163710,9 +163710,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294548402
-	sym = RCSBlock.v2_4294566990
-	sym = RCSBlock.v2_4294548770
+	sym = RCSBlock_v2_4294548402
+	sym = RCSBlock_v2_4294566990
+	sym = RCSBlock_v2_4294548770
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -163799,7 +163799,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294548402
+	part = RCSBlock_v2_4294548402
 	partName = Part
 	persistentId = 313404333
 	pos = 0.303162962,15.9714556,8.15529333E-09
@@ -163823,9 +163823,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294566990
-	sym = RCSBlock.v2_4294548770
-	sym = RCSBlock.v2_4294548586
+	sym = RCSBlock_v2_4294566990
+	sym = RCSBlock_v2_4294548770
+	sym = RCSBlock_v2_4294548586
 	srfN = srfAttach,rcsTankMini_4294567754,node_collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -163959,7 +163959,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = roverBody.v2_4294547270
+	part = roverBody_v2_4294547270
 	partName = Part
 	persistentId = 2117660875
 	pos = 0,15,0
@@ -163998,8 +163998,8 @@ PART
 	link = SurveyScanner_4294541906
 	link = radialRCSTank_4294536432
 	link = radialRCSTank_4294536400
-	link = RCSBlock.v2_4294536100
-	link = RCSBlock.v2_4294530924
+	link = RCSBlock_v2_4294536100
+	link = RCSBlock_v2_4294530924
 	attN = right,Null_0_0.510226011|0|0_1|0|0_0.510226011|0|0_1|0|0
 	attN = left,Null_0_-0.510226011|0|0_-1|0|0_-0.510226011|0|0_-1|0|0
 	attN = back,Null_0_0|0|0.224069998_0|0|1_0|0|0.224069998_0|0|1
@@ -164215,7 +164215,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294532304
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -164316,7 +164316,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = LgRadialSolarPanel_4294546572
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -164417,7 +164417,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544902
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -164518,7 +164518,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294545186
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -164619,7 +164619,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544676
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -164720,7 +164720,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544712
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -164821,7 +164821,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544450
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -164922,7 +164922,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels5_4294544486
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|0|1,0|0|0
 	EVENTS
 	{
 	}
@@ -165022,7 +165022,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -165138,7 +165138,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -165254,7 +165254,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -165370,7 +165370,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -165486,7 +165486,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom,roverBody.v2_4294547270_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom,roverBody_v2_4294547270_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -165594,7 +165594,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = radialRCSTank_4294536400
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -165670,7 +165670,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = radialRCSTank_4294536432
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,0|0|0.219999999,0|0|-1,0|0|0.219999999
 	EVENTS
 	{
 	}
@@ -165721,7 +165721,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294536100
+	part = RCSBlock_v2_4294536100
 	partName = Part
 	persistentId = 1991783613
 	pos = 0.574411333,15.950387,0
@@ -165745,8 +165745,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294530924
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294530924
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -165832,7 +165832,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294530924
+	part = RCSBlock_v2_4294530924
 	partName = Part
 	persistentId = 3652579283
 	pos = -0.574411333,15.950387,5.02166344E-08
@@ -165856,8 +165856,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294536100
-	srfN = srfAttach,roverBody.v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
+	sym = RCSBlock_v2_4294536100
+	srfN = srfAttach,roverBody_v2_4294547270,collider.collider,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
 	}
@@ -165992,7 +165992,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = HECS2.ProbeCore_4294643518
+	part = HECS2_ProbeCore_4294643518
 	partName = Part
 	persistentId = 3621627627
 	pos = 0,15,0
@@ -166256,7 +166256,7 @@ PART
 	link = largeSolarPanel_4294606386
 	link = rcsTankRadialLong_4294526608
 	link = fuelLine_4294525818
-	srfN = srfAttach,HECS2.ProbeCore_4294643518,COL,0|-1.47523797|0,0|-1|0,0|-1.47523797|0
+	srfN = srfAttach,HECS2_ProbeCore_4294643518,COL,0|-1.47523797|0,0|-1|0,0|-1.47523797|0
 	attN = bottom,Null_0_0|-1.47523797|0_0|-1|0_0|-1.47523797|0_0|-1|0
 	attN = top,Null_0_0|1.47523797|0_0|1|0_0|1.47523797|0_0|1|0
 	EVENTS
@@ -166637,7 +166637,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom,HECS2.ProbeCore_4294643518_0|-0.180000007|0_0|-1|0_0|-0.180000007|0_0|-1|0
+	attN = bottom,HECS2_ProbeCore_4294643518_0|-0.180000007|0_0|-1|0_0|-0.180000007|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -167406,8 +167406,8 @@ PART
 	link = strutConnector_4294544778
 	link = strutConnector_4294544396
 	link = radialRCSTank_4294534968
-	link = RCSBlock.v2_4294515726
-	link = RCSBlock.v2_4294515242
+	link = RCSBlock_v2_4294515726
+	link = RCSBlock_v2_4294515242
 	sym = structuralIBeam3_4294553524
 	srfN = srfAttach,probeCoreCube_4294560592,cube_Collider,0|-0.802465618|0,0|-1|0,0|-0.802465618|0
 	attN = top,Null_0_0|0.802465618|0_0|1|0_0|0.802465618|0_0|1|0
@@ -167478,8 +167478,8 @@ PART
 	link = strutConnector_4294544670
 	link = strutConnector_4294544180
 	link = radialRCSTank_4294534882
-	link = RCSBlock.v2_4294516300
-	link = RCSBlock.v2_4294516894
+	link = RCSBlock_v2_4294516300
+	link = RCSBlock_v2_4294516894
 	sym = structuralIBeam3_4294553640
 	srfN = srfAttach,probeCoreCube_4294560592,cube_Collider,0|-0.802465618|0,0|-1|0,0|-0.802465618|0
 	attN = top,Null_0_0|0.802465618|0_0|1|0_0|0.802465618|0_0|1|0
@@ -168471,7 +168471,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294516300
+	part = RCSBlock_v2_4294516300
 	partName = Part
 	persistentId = 1109722015
 	pos = -1.18406561E-07,14.6484718,-2.0032711
@@ -168495,7 +168495,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294515726
+	sym = RCSBlock_v2_4294515726
 	srfN = srfAttach,structuralIBeam3_4294553524,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -168582,7 +168582,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294515726
+	part = RCSBlock_v2_4294515726
 	partName = Part
 	persistentId = 726326298
 	pos = -5.67247653E-08,14.6484718,2.00327063
@@ -168606,7 +168606,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294516300
+	sym = RCSBlock_v2_4294516300
 	srfN = srfAttach,structuralIBeam3_4294553640,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -168693,7 +168693,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294516894
+	part = RCSBlock_v2_4294516894
 	partName = Part
 	persistentId = 2168054798
 	pos = -1.27776943E-07,15.1350527,-2.00838041
@@ -168717,7 +168717,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294515242
+	sym = RCSBlock_v2_4294515242
 	srfN = srfAttach,structuralIBeam3_4294553524,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -168804,7 +168804,7 @@ PART
 }
 PART
 {
-	part = RCSBlock.v2_4294515242
+	part = RCSBlock_v2_4294515242
 	partName = Part
 	persistentId = 3407540987
 	pos = -4.78011728E-08,15.1350527,2.00838232
@@ -168828,7 +168828,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = RCSBlock.v2_4294516894
+	sym = RCSBlock_v2_4294516894
 	srfN = srfAttach,structuralIBeam3_4294553640,ibeam2,-0.00875000004|0|0,0.125|0|0,-0.00875000004|0|0
 	EVENTS
 	{
@@ -172147,9 +172147,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = mk2LanderCabin.v2_4294238026
+	link = mk2LanderCabin_v2_4294238026
 	link = strutCube_4294063596
-	attN = top,mk2LanderCabin.v2_4294238026_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
+	attN = top,mk2LanderCabin_v2_4294238026_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
 	attN = bottom,structuralPanel1_4294253802_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
 	{
@@ -172190,7 +172190,7 @@ PART
 }
 PART
 {
-	part = mk2LanderCabin.v2_4294238026
+	part = mk2LanderCabin_v2_4294238026
 	partName = Part
 	persistentId = 2801018262
 	pos = 0.192581892,10.0986862,-3.46831751
@@ -172574,7 +172574,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -172667,7 +172667,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294227362
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -172899,7 +172899,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294227816
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -173131,7 +173131,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = externalTankCapsule_4294120280
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -173234,7 +173234,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = externalTankCapsule_4294120430
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -173337,7 +173337,7 @@ PART
 	modMass = 9.99999975E-05
 	modSize = 0,0,0
 	sym = smallCargoContainer_4294111874
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
 	attN = top,Null_0_0|0.349999994|0_0|1|0_0|0.349999994|0_0|1|0
 	attN = bottom,Null_0_0|-0.349999994|0_0|-1|0_0|-0.349999994|0_0|-1|0
 	EVENTS
@@ -173422,7 +173422,7 @@ PART
 	modMass = 9.99999975E-05
 	modSize = 0,0,0
 	sym = smallCargoContainer_4294112410
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
 	attN = top,Null_0_0|0.349999994|0_0|1|0_0|0.349999994|0_0|1|0
 	attN = bottom,Null_0_0|-0.349999994|0_0|-1|0_0|-0.349999994|0_0|-1|0
 	EVENTS
@@ -173507,7 +173507,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight2_4294104570
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
 	EVENTS
 	{
 	}
@@ -173678,7 +173678,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight2_4294105114
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
 	EVENTS
 	{
 	}
@@ -174024,7 +174024,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294058690
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -174140,7 +174140,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294059140
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -174256,7 +174256,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294057774
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -174488,7 +174488,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294058416
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -177071,9 +177071,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = mk2LanderCabin.v2_4294238026
+	link = mk2LanderCabin_v2_4294238026
 	link = strutCube_4294063596
-	attN = top,mk2LanderCabin.v2_4294238026_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
+	attN = top,mk2LanderCabin_v2_4294238026_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
 	attN = bottom,structuralPanel1_4294253802_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
 	{
@@ -177114,7 +177114,7 @@ PART
 }
 PART
 {
-	part = mk2LanderCabin.v2_4294238026
+	part = mk2LanderCabin_v2_4294238026
 	partName = Part
 	persistentId = 2836173289
 	pos = 0.192581892,10.0986862,-3.46831894
@@ -177497,7 +177497,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -177589,7 +177589,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -177821,7 +177821,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = externalTankCapsule_4294120280
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -177924,7 +177924,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = externalTankCapsule_4294120430
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -178027,7 +178027,7 @@ PART
 	modMass = 9.99999975E-05
 	modSize = 0,0,0
 	sym = smallCargoContainer_4294111874
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
 	attN = top,Null_0_0|0.349999994|0_0|1|0_0|0.349999994|0_0|1|0
 	attN = bottom,Null_0_0|-0.349999994|0_0|-1|0_0|-0.349999994|0_0|-1|0
 	EVENTS
@@ -178112,7 +178112,7 @@ PART
 	modMass = 9.99999975E-05
 	modSize = 0,0,0
 	sym = smallCargoContainer_4294112410
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0.25,0|0|-1,0|0|0.25
 	attN = top,Null_0_0|0.349999994|0_0|1|0_0|0.349999994|0_0|1|0
 	attN = bottom,Null_0_0|-0.349999994|0_0|-1|0_0|-0.349999994|0_0|-1|0
 	EVENTS
@@ -178197,7 +178197,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight2_4294104570
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
 	EVENTS
 	{
 	}
@@ -178368,7 +178368,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight2_4294105114
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|-0.0307044405|0.2692509,0|0|-1,0|-0.0307044405|0.2692509
 	EVENTS
 	{
 	}
@@ -178714,7 +178714,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294058690
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -178830,7 +178830,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294059140
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -178945,7 +178945,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -179176,7 +179176,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294238026,COLPod,0.0500000007|0|0,1|0|0,0.0500000007|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294238026,COLPod,0.0500000007|0|0,1|0|0,0.0500000007|0|0
 	EVENTS
 	{
 	}
@@ -179391,7 +179391,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = roverBody.v2_4294620034
+	part = roverBody_v2_4294620034
 	partName = Part
 	persistentId = 3185413681
 	pos = -0.00037612021,7.74096346,-0.00243318081
@@ -179641,7 +179641,7 @@ PART
 	link = domeLight1_4294603900
 	link = longAntenna_4294582716
 	sym = externalTankRound_4294611524
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -179747,7 +179747,7 @@ PART
 	link = domeLight1_4294603698
 	link = longAntenna_4294577000
 	sym = externalTankRound_4294611570
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -180381,7 +180381,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294562148
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -180553,7 +180553,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294593946
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -180700,7 +180700,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -180830,7 +180830,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294410714
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -181062,7 +181062,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294596392
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -181294,7 +181294,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294409906
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -181526,7 +181526,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294410388
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -181787,7 +181787,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = roverBody.v2_4294620034
+	part = roverBody_v2_4294620034
 	partName = Part
 	persistentId = 639653510
 	pos = -0.00037612021,7.74096346,-0.00243318081
@@ -182038,7 +182038,7 @@ PART
 	modSize = 0,0,0
 	link = domeLight1_4294603900
 	sym = externalTankRound_4294611524
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -182143,7 +182143,7 @@ PART
 	modSize = 0,0,0
 	link = domeLight1_4294603698
 	sym = externalTankRound_4294611570
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -182543,7 +182543,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294562148
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -182715,7 +182715,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294593946
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -182862,7 +182862,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -182992,7 +182992,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294410714
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -183224,7 +183224,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294596392
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -183456,7 +183456,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294409906
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -183688,7 +183688,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294410388
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -183920,7 +183920,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294408764
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -184026,7 +184026,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294408852
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -184161,7 +184161,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = roverBody.v2_4294620034
+	part = roverBody_v2_4294620034
 	partName = Part
 	persistentId = 4277665243
 	pos = -0.00037612021,7.74096346,-0.00243318081
@@ -184411,7 +184411,7 @@ PART
 	link = domeLight1_4294603900
 	link = longAntenna_4294582716
 	sym = externalTankRound_4294611524
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -184517,7 +184517,7 @@ PART
 	link = domeLight1_4294603698
 	link = longAntenna_4294577000
 	sym = externalTankRound_4294611570
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.300000012|0|0,1|0|0,0.300000012|0|0
 	EVENTS
 	{
 	}
@@ -185151,7 +185151,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294562148
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -185323,7 +185323,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294593946
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -185470,7 +185470,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -185599,7 +185599,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -185830,7 +185830,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -186062,7 +186062,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294408764
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -186168,7 +186168,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294408852
-	srfN = srfAttach,roverBody.v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294620034,collider.collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -193936,8 +193936,8 @@ PART
 	link = sensorAccelerometer_4294199544
 	link = GooExperiment_4294198752
 	link = GooExperiment_4294198662
-	link = science.module_4294197600
-	attN = top,science.module_4294197600_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
+	link = science_module_4294197600
+	attN = top,science_module_4294197600_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
 	attN = bottom,noseCone_4294207874_0|-0.9375|0_0|-1|0_0|-0.9375|0_0|-1|0
 	EVENTS
 	{
@@ -194634,7 +194634,7 @@ PART
 }
 PART
 {
-	part = science.module_4294197600
+	part = science_module_4294197600
 	partName = Part
 	persistentId = 505024294
 	pos = 0,10,1.45000124
@@ -194658,8 +194658,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = HECS2.ProbeCore_4294210476
-	attN = top,HECS2.ProbeCore_4294210476_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
+	link = HECS2_ProbeCore_4294210476
+	attN = top,HECS2_ProbeCore_4294210476_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
 	attN = bottom,Mk1FuselageStructural_4294213496_0|-0.512499988|0_0|-0.125|0_0|-0.512499988|0_0|-0.125|0
 	EVENTS
 	{
@@ -194765,7 +194765,7 @@ PART
 }
 PART
 {
-	part = HECS2.ProbeCore_4294210476
+	part = HECS2_ProbeCore_4294210476
 	partName = Part
 	persistentId = 2812161207
 	pos = 0,10,2.56250334
@@ -194794,7 +194794,7 @@ PART
 	link = solarPanels1_4294206192
 	link = solarPanels1_4294205932
 	attN = top,noseCone_4294212396_0|0.5|0_0|1|0_0|0.5|0_0|1|0
-	attN = bottom,science.module_4294197600_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
+	attN = bottom,science_module_4294197600_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -195024,7 +195024,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom01,HECS2.ProbeCore_4294210476_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom01,HECS2_ProbeCore_4294210476_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -195109,7 +195109,7 @@ PART
 	link = strutConnector_4294192010
 	link = strutCube_4294191132
 	link = strutCube_4294190846
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,-1|0|0,-1|0|0,-1|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,-1|0|0,-1|0|0,-1|0|0
 	attN = top,Null_0_0|0.0274999999|0_0|1|0_0|0.0274999999|0_0|1|0
 	attN = bottom,Null_0_0|-0.0274999999|0_0|-1|0_0|-0.0274999999|0_0|-1|0
 	EVENTS
@@ -195217,7 +195217,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294205932
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -195315,7 +195315,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294206192
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -198034,8 +198034,8 @@ PART
 	link = sensorAccelerometer_4294199544
 	link = GooExperiment_4294198752
 	link = GooExperiment_4294198662
-	link = science.module_4294197600
-	attN = top,science.module_4294197600_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
+	link = science_module_4294197600
+	attN = top,science_module_4294197600_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
 	attN = bottom,noseCone_4294207874_0|-0.9375|0_0|-1|0_0|-0.9375|0_0|-1|0
 	EVENTS
 	{
@@ -198813,7 +198813,7 @@ PART
 }
 PART
 {
-	part = science.module_4294197600
+	part = science_module_4294197600
 	partName = Part
 	persistentId = 2678470167
 	pos = 0,10,1.45000148
@@ -198837,8 +198837,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = HECS2.ProbeCore_4294210476
-	attN = top,HECS2.ProbeCore_4294210476_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
+	link = HECS2_ProbeCore_4294210476
+	attN = top,HECS2_ProbeCore_4294210476_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
 	attN = bottom,Mk1FuselageStructural_4294213496_0|-0.512499988|0_0|-0.125|0_0|-0.512499988|0_0|-0.125|0
 	EVENTS
 	{
@@ -198944,7 +198944,7 @@ PART
 }
 PART
 {
-	part = HECS2.ProbeCore_4294210476
+	part = HECS2_ProbeCore_4294210476
 	partName = Part
 	persistentId = 1363182036
 	pos = 0,10,2.56250381
@@ -198973,7 +198973,7 @@ PART
 	link = solarPanels1_4294206192
 	link = solarPanels1_4294205932
 	attN = top,noseCone_4294212396_0|0.5|0_0|1|0_0|0.5|0_0|1|0
-	attN = bottom,science.module_4294197600_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
+	attN = bottom,science_module_4294197600_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -199203,7 +199203,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom01,HECS2.ProbeCore_4294210476_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom01,HECS2_ProbeCore_4294210476_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -199288,7 +199288,7 @@ PART
 	link = strutConnector_4294192010
 	link = strutCube_4294191132
 	link = strutCube_4294190846
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,-1|0|0,-1|0|0,-1|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,-1|0|0,-1|0|0,-1|0|0
 	attN = top,Null_0_0|0.0274999999|0_0|1|0_0|0.0274999999|0_0|1|0
 	attN = bottom,Null_0_0|-0.0274999999|0_0|-1|0_0|-0.0274999999|0_0|-1|0
 	EVENTS
@@ -199344,8 +199344,8 @@ PART
 	link = strutConnector_4294191724
 	link = strutCube_4294190648
 	link = strutCube_4294190280
-	link = ksp.r.largeBatteryPack_4294188730
-	link = ksp.r.largeBatteryPack_4294188416
+	link = ksp_r_largeBatteryPack_4294188730
+	link = ksp_r_largeBatteryPack_4294188416
 	srfN = srfAttach,structuralPanel2_4294209176,panel,-1|0|0,-1|0|0,-1|0|0
 	attN = top,Null_0_0|0.0274999999|0_0|1|0_0|0.0274999999|0_0|1|0
 	attN = bottom,Null_0_0|-0.0274999999|0_0|-1|0_0|-0.0274999999|0_0|-1|0
@@ -199398,7 +199398,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294205932
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -199496,7 +199496,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294206192
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -200728,7 +200728,7 @@ PART
 }
 PART
 {
-	part = ksp.r.largeBatteryPack_4294188730
+	part = ksp_r_largeBatteryPack_4294188730
 	partName = Part
 	persistentId = 3367574471
 	pos = -0.658934832,9.22703362,1.58995736
@@ -200752,7 +200752,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = ksp.r.largeBatteryPack_4294188416
+	sym = ksp_r_largeBatteryPack_4294188416
 	srfN = srfAttach,structuralPanel2_4294208566,panel,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
@@ -200804,7 +200804,7 @@ PART
 }
 PART
 {
-	part = ksp.r.largeBatteryPack_4294188416
+	part = ksp_r_largeBatteryPack_4294188416
 	partName = Part
 	persistentId = 1037867080
 	pos = 0.680732131,9.22703362,1.58995712
@@ -200828,7 +200828,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = ksp.r.largeBatteryPack_4294188730
+	sym = ksp_r_largeBatteryPack_4294188730
 	srfN = srfAttach,structuralPanel2_4294208566,panel,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
@@ -202367,8 +202367,8 @@ PART
 	link = sensorAccelerometer_4294199544
 	link = GooExperiment_4294198752
 	link = GooExperiment_4294198662
-	link = science.module_4294197600
-	attN = top,science.module_4294197600_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
+	link = science_module_4294197600
+	attN = top,science_module_4294197600_0|0.9375|0_0|1|0_0|0.9375|0_0|1|0
 	attN = bottom,noseCone_4294207874_0|-0.9375|0_0|-1|0_0|-0.9375|0_0|-1|0
 	EVENTS
 	{
@@ -203261,7 +203261,7 @@ PART
 }
 PART
 {
-	part = science.module_4294197600
+	part = science_module_4294197600
 	partName = Part
 	persistentId = 4158149430
 	pos = 0,10,1.45000148
@@ -203285,8 +203285,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = HECS2.ProbeCore_4294210476
-	attN = top,HECS2.ProbeCore_4294210476_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
+	link = HECS2_ProbeCore_4294210476
+	attN = top,HECS2_ProbeCore_4294210476_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
 	attN = bottom,Mk1FuselageStructural_4294213496_0|-0.512499988|0_0|-0.125|0_0|-0.512499988|0_0|-0.125|0
 	EVENTS
 	{
@@ -203392,7 +203392,7 @@ PART
 }
 PART
 {
-	part = HECS2.ProbeCore_4294210476
+	part = HECS2_ProbeCore_4294210476
 	partName = Part
 	persistentId = 2655307673
 	pos = 0,10,2.56250381
@@ -203421,7 +203421,7 @@ PART
 	link = solarPanels1_4294206192
 	link = solarPanels1_4294205932
 	attN = top,noseCone_4294212396_0|0.5|0_0|1|0_0|0.5|0_0|1|0
-	attN = bottom,science.module_4294197600_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
+	attN = bottom,science_module_4294197600_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -203651,7 +203651,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom01,HECS2.ProbeCore_4294210476_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom01,HECS2_ProbeCore_4294210476_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -203736,7 +203736,7 @@ PART
 	link = strutConnector_4294192010
 	link = strutCube_4294191132
 	link = strutCube_4294190846
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,-1|0|0,-1|0|0,-1|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,-1|0|0,-1|0|0,-1|0|0
 	attN = top,Null_0_0|0.0274999999|0_0|1|0_0|0.0274999999|0_0|1|0
 	attN = bottom,Null_0_0|-0.0274999999|0_0|-1|0_0|-0.0274999999|0_0|-1|0
 	EVENTS
@@ -203792,8 +203792,8 @@ PART
 	link = strutConnector_4294191724
 	link = strutCube_4294190648
 	link = strutCube_4294190280
-	link = ksp.r.largeBatteryPack_4294188730
-	link = ksp.r.largeBatteryPack_4294188416
+	link = ksp_r_largeBatteryPack_4294188730
+	link = ksp_r_largeBatteryPack_4294188416
 	srfN = srfAttach,structuralPanel2_4294209176,panel,-1|0|0,-1|0|0,-1|0|0
 	attN = top,Null_0_0|0.0274999999|0_0|1|0_0|0.0274999999|0_0|1|0
 	attN = bottom,Null_0_0|-0.0274999999|0_0|-1|0_0|-0.0274999999|0_0|-1|0
@@ -203846,7 +203846,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294205932
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -203944,7 +203944,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294206192
-	srfN = srfAttach,HECS2.ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,HECS2_ProbeCore_4294210476,COL,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -205170,7 +205170,7 @@ PART
 }
 PART
 {
-	part = ksp.r.largeBatteryPack_4294188730
+	part = ksp_r_largeBatteryPack_4294188730
 	partName = Part
 	persistentId = 1705595853
 	pos = -0.658934832,9.22703362,1.58995736
@@ -205194,7 +205194,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = ksp.r.largeBatteryPack_4294188416
+	sym = ksp_r_largeBatteryPack_4294188416
 	srfN = srfAttach,structuralPanel2_4294208566,panel,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
@@ -205246,7 +205246,7 @@ PART
 }
 PART
 {
-	part = ksp.r.largeBatteryPack_4294188416
+	part = ksp_r_largeBatteryPack_4294188416
 	partName = Part
 	persistentId = 3481586779
 	pos = 0.680732131,9.22703362,1.58995712
@@ -205270,7 +205270,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = ksp.r.largeBatteryPack_4294188730
+	sym = ksp_r_largeBatteryPack_4294188730
 	srfN = srfAttach,structuralPanel2_4294208566,panel,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
@@ -205402,10 +205402,10 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = science.module_4294172942
-	link = probeCoreHex.v2_4294167480
-	attN = bottom,science.module_4294172942_0|-0.410830498|0_0|-1|0_0|-0.410830498|0_0|-1|0
-	attN = top,probeCoreHex.v2_4294167480_0|0.64937079|0_0|1|0_0|0.64937079|0_0|1|0
+	link = science_module_4294172942
+	link = probeCoreHex_v2_4294167480
+	attN = bottom,science_module_4294172942_0|-0.410830498|0_0|-1|0_0|-0.410830498|0_0|-1|0
+	attN = top,probeCoreHex_v2_4294167480_0|0.64937079|0_0|1|0_0|0.64937079|0_0|1|0
 	EVENTS
 	{
 	}
@@ -205448,7 +205448,7 @@ PART
 }
 PART
 {
-	part = science.module_4294172942
+	part = science_module_4294172942
 	partName = Part
 	persistentId = 470346267
 	pos = 0,10,-1.02333188
@@ -205475,7 +205475,7 @@ PART
 	link = fuelTankSmallFlat_4294171782
 	link = structuralIBeam2_4294165966
 	link = structuralIBeam2_4294165878
-	link = HighGainAntenna5.v2_4294480784
+	link = HighGainAntenna5_v2_4294480784
 	attN = top,trussAdapter_4294174714_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
 	attN = bottom,fuelTankSmallFlat_4294171782_0|-0.512499988|0_0|-0.125|0_0|-0.512499988|0_0|-0.125|0
 	EVENTS
@@ -205613,7 +205613,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = trussAdapter_4294171274
-	attN = top,science.module_4294172942_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
+	attN = top,science_module_4294172942_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
 	attN = bottom,trussAdapter_4294171274_0|-0.3125|0_0|-1|0_0|-0.3125|0_0|-1|0
 	EVENTS
 	{
@@ -205800,7 +205800,7 @@ PART
 	link = roverWheel2_4294390302
 	link = roverWheel2_4294389790
 	sym = structuralIBeam2_4294165878
-	srfN = srfAttach,science.module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
 	attN = top,Null_0_0|1.59827399|0_0|1|0_0|1.59827399|0_0|1|0
 	attN = bottom,Null_0_0|-1.59827399|0_0|-1|0_0|-1.59827399|0_0|-1|0
 	EVENTS
@@ -205882,7 +205882,7 @@ PART
 	link = roverWheel2_4294390130
 	link = roverWheel2_4294389454
 	sym = structuralIBeam2_4294165966
-	srfN = srfAttach,science.module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
 	attN = top,Null_0_0|1.59827399|0_0|1|0_0|1.59827399|0_0|1|0
 	attN = bottom,Null_0_0|-1.59827399|0_0|-1|0_0|-1.59827399|0_0|-1|0
 	EVENTS
@@ -206403,7 +206403,7 @@ PART
 }
 PART
 {
-	part = probeCoreHex.v2_4294167480
+	part = probeCoreHex_v2_4294167480
 	partName = Part
 	persistentId = 1773999041
 	pos = 0,10,0.83687228
@@ -208071,7 +208071,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294150870
-	srfN = srfAttach,probeCoreHex.v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -208265,7 +208265,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294150998
-	srfN = srfAttach,probeCoreHex.v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -210830,7 +210830,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294480784
+	part = HighGainAntenna5_v2_4294480784
 	partName = Part
 	persistentId = 1039786486
 	pos = -0.619188666,10,-1.21043801
@@ -210854,7 +210854,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,science.module_4294172942,node_collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -211055,8 +211055,8 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = science.module_4294172942
-	attN = bottom,science.module_4294172942_0|-0.410830498|0_0|-1|0_0|-0.410830498|0_0|-1|0
+	link = science_module_4294172942
+	attN = bottom,science_module_4294172942_0|-0.410830498|0_0|-1|0_0|-0.410830498|0_0|-1|0
 	attN = top,Null_0_0|0.64937079|0_0|1|0_0|0.64937079|0_0|1|0
 	EVENTS
 	{
@@ -211100,7 +211100,7 @@ PART
 }
 PART
 {
-	part = science.module_4294172942
+	part = science_module_4294172942
 	partName = Part
 	persistentId = 1322585867
 	pos = 0,10,-1.02333212
@@ -211129,7 +211129,7 @@ PART
 	link = structuralIBeam2_4294165878
 	link = FuelCell_4294158896
 	link = FuelCell_4294158820
-	link = HighGainAntenna5.v2_4294476078
+	link = HighGainAntenna5_v2_4294476078
 	attN = top,trussAdapter_4294174714_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
 	attN = bottom,fuelTankSmallFlat_4294171782_0|-0.512499988|0_0|-0.125|0_0|-0.512499988|0_0|-0.125|0
 	EVENTS
@@ -211267,7 +211267,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = trussAdapter_4294171274
-	attN = top,science.module_4294172942_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
+	attN = top,science_module_4294172942_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
 	attN = bottom,trussAdapter_4294171274_0|-0.3125|0_0|-1|0_0|-0.3125|0_0|-1|0
 	EVENTS
 	{
@@ -211454,7 +211454,7 @@ PART
 	link = roverWheel2_4294390302
 	link = roverWheel2_4294389790
 	sym = structuralIBeam2_4294165878
-	srfN = srfAttach,science.module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
 	attN = top,Null_0_0|1.59827399|0_0|1|0_0|1.59827399|0_0|1|0
 	attN = bottom,Null_0_0|-1.59827399|0_0|-1|0_0|-1.59827399|0_0|-1|0
 	EVENTS
@@ -211536,7 +211536,7 @@ PART
 	link = roverWheel2_4294390130
 	link = roverWheel2_4294389454
 	sym = structuralIBeam2_4294165966
-	srfN = srfAttach,science.module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
 	attN = top,Null_0_0|1.59827399|0_0|1|0_0|1.59827399|0_0|1|0
 	attN = bottom,Null_0_0|-1.59827399|0_0|-1|0_0|-1.59827399|0_0|-1|0
 	EVENTS
@@ -212082,7 +212082,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294158820
-	srfN = srfAttach,science.module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -212194,7 +212194,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294158896
-	srfN = srfAttach,science.module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -216119,7 +216119,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294476078
+	part = HighGainAntenna5_v2_4294476078
 	partName = Part
 	persistentId = 3593812351
 	pos = -0.619858682,10,-1.33300304
@@ -216143,7 +216143,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,science.module_4294172942,node_collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -216340,10 +216340,10 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = science.module_4294172942
-	link = probeCoreHex.v2_4294167480
-	attN = bottom,science.module_4294172942_0|-0.410830498|0_0|-1|0_0|-0.410830498|0_0|-1|0
-	attN = top,probeCoreHex.v2_4294167480_0|0.64937079|0_0|1|0_0|0.64937079|0_0|1|0
+	link = science_module_4294172942
+	link = probeCoreHex_v2_4294167480
+	attN = bottom,science_module_4294172942_0|-0.410830498|0_0|-1|0_0|-0.410830498|0_0|-1|0
+	attN = top,probeCoreHex_v2_4294167480_0|0.64937079|0_0|1|0_0|0.64937079|0_0|1|0
 	EVENTS
 	{
 	}
@@ -216386,7 +216386,7 @@ PART
 }
 PART
 {
-	part = science.module_4294172942
+	part = science_module_4294172942
 	partName = Part
 	persistentId = 1984477382
 	pos = 0,10,-1.02333212
@@ -216415,7 +216415,7 @@ PART
 	link = structuralIBeam2_4294165878
 	link = FuelCell_4294158896
 	link = FuelCell_4294158820
-	link = HighGainAntenna5.v2_4294472054
+	link = HighGainAntenna5_v2_4294472054
 	attN = top,trussAdapter_4294174714_0|0.612500012|0_0|0.125|0_0|0.612500012|0_0|0.125|0
 	attN = bottom,fuelTankSmallFlat_4294171782_0|-0.512499988|0_0|-0.125|0_0|-0.512499988|0_0|-0.125|0
 	EVENTS
@@ -216553,7 +216553,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = trussAdapter_4294171274
-	attN = top,science.module_4294172942_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
+	attN = top,science_module_4294172942_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
 	attN = bottom,trussAdapter_4294171274_0|-0.3125|0_0|-1|0_0|-0.3125|0_0|-1|0
 	EVENTS
 	{
@@ -216736,7 +216736,7 @@ PART
 	link = stripLight1_4294151450
 	link = roverWheel2_4294390302
 	sym = structuralIBeam2_4294165878
-	srfN = srfAttach,science.module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
 	attN = top,Null_0_0|1.59827399|0_0|1|0_0|1.59827399|0_0|1|0
 	attN = bottom,Null_0_0|-1.59827399|0_0|-1|0_0|-1.59827399|0_0|-1|0
 	EVENTS
@@ -216814,7 +216814,7 @@ PART
 	link = stripLight1_4294151354
 	link = roverWheel2_4294391586
 	sym = structuralIBeam2_4294165966
-	srfN = srfAttach,science.module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|-1.59827399|0,0|-1|0,0|-1.59827399|0
 	attN = top,Null_0_0|1.59827399|0_0|1|0_0|1.59827399|0_0|1|0
 	attN = bottom,Null_0_0|-1.59827399|0_0|-1|0_0|-1.59827399|0_0|-1|0
 	EVENTS
@@ -217360,7 +217360,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294158820
-	srfN = srfAttach,science.module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -217472,7 +217472,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = FuelCell_4294158896
-	srfN = srfAttach,science.module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -217559,7 +217559,7 @@ PART
 }
 PART
 {
-	part = probeCoreHex.v2_4294167480
+	part = probeCoreHex_v2_4294167480
 	partName = Part
 	persistentId = 3520585877
 	pos = 0,10,0.836872518
@@ -219227,7 +219227,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294150870
-	srfN = srfAttach,probeCoreHex.v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -219421,7 +219421,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294150998
-	srfN = srfAttach,probeCoreHex.v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,probeCoreHex_v2_4294167480,collider_base,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -220048,7 +220048,7 @@ PART
 }
 PART
 {
-	part = HighGainAntenna5.v2_4294472054
+	part = HighGainAntenna5_v2_4294472054
 	partName = Part
 	persistentId = 3903983464
 	pos = -0.620176792,10,-1.24897385
@@ -220072,7 +220072,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,science.module_4294172942,node_collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,science_module_4294172942,node_collider,0|0|0,0|-1|0,0|0|0
 	attN = bottom,Null_0_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
@@ -226484,7 +226484,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = stackBiCoupler.v2_4294144838
+	part = stackBiCoupler_v2_4294144838
 	partName = Part
 	persistentId = 3040824025
 	pos = -0.00126764923,10.2262812,0.00609196723
@@ -226582,7 +226582,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294376438
 	sym = structuralIBeam1_4294135528
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -226650,7 +226650,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294379902
 	sym = structuralIBeam1_4294136316
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -226718,7 +226718,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294375816
 	sym = structuralIBeam1_4294133488
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -226786,7 +226786,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294374574
 	sym = structuralIBeam1_4294133930
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -226860,9 +226860,9 @@ PART
 	link = spotLight3_4294125122
 	link = spotLight3_4294125058
 	link = spotLight3_4294124994
-	link = probeCoreOcto2.v2_4294108672
-	attN = top,probeCoreOcto2.v2_4294108672_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
-	attN = bottom,stackBiCoupler.v2_4294144838_0|0|0_0|-1|0_0|0|0_0|-1|0
+	link = probeCoreOcto2_v2_4294108672
+	attN = top,probeCoreOcto2_v2_4294108672_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
+	attN = bottom,stackBiCoupler_v2_4294144838_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -228150,7 +228150,7 @@ PART
 }
 PART
 {
-	part = probeCoreOcto2.v2_4294108672
+	part = probeCoreOcto2_v2_4294108672
 	partName = Part
 	persistentId = 2706477086
 	pos = -0.00126764923,10.8132229,0.00609202497
@@ -228352,7 +228352,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	attN = bottom,probeCoreOcto2.v2_4294108672_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom,probeCoreOcto2_v2_4294108672_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -229409,7 +229409,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = stackBiCoupler.v2_4294144838
+	part = stackBiCoupler_v2_4294144838
 	partName = Part
 	persistentId = 4273723929
 	pos = -0.00126764923,10.2262812,0.00609196723
@@ -229509,7 +229509,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294376438
 	sym = structuralIBeam1_4294135528
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -229577,7 +229577,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294379902
 	sym = structuralIBeam1_4294136316
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -229645,7 +229645,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294375816
 	sym = structuralIBeam1_4294133488
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -229713,7 +229713,7 @@ PART
 	modSize = 0,0,0
 	link = roverWheel1_4294374574
 	sym = structuralIBeam1_4294133930
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -229787,9 +229787,9 @@ PART
 	link = spotLight3_4294125122
 	link = spotLight3_4294125058
 	link = spotLight3_4294124994
-	link = probeCoreOcto2.v2_4294108672
-	attN = top,probeCoreOcto2.v2_4294108672_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
-	attN = bottom,stackBiCoupler.v2_4294144838_0|0|0_0|-1|0_0|0|0_0|-1|0
+	link = probeCoreOcto2_v2_4294108672
+	attN = top,probeCoreOcto2_v2_4294108672_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
+	attN = bottom,stackBiCoupler_v2_4294144838_0|0|0_0|-1|0_0|0|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -231102,7 +231102,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels3_4294109866
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -231202,7 +231202,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels3_4294124106
-	srfN = srfAttach,stackBiCoupler.v2_4294144838,collider,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,stackBiCoupler_v2_4294144838,collider,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -231277,7 +231277,7 @@ PART
 }
 PART
 {
-	part = probeCoreOcto2.v2_4294108672
+	part = probeCoreOcto2_v2_4294108672
 	partName = Part
 	persistentId = 3786752209
 	pos = -0.00126764923,10.8132229,0.00609202497
@@ -232433,7 +232433,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = mk2LanderCabin.v2_4294623314
+	part = mk2LanderCabin_v2_4294623314
 	partName = Part
 	persistentId = 655622443
 	pos = 0,10,0
@@ -232830,7 +232830,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294608078
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -233062,7 +233062,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294608322
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -233294,7 +233294,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294606864
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -233526,7 +233526,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel1_4294607698
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -233758,7 +233758,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294603386
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -233869,7 +233869,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294603658
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -233980,7 +233980,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294602554
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -234091,7 +234091,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294603138
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -234202,7 +234202,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294602096
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -234313,7 +234313,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294602300
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -234424,7 +234424,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294592274
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -234596,7 +234596,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294592402
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -234744,7 +234744,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = GooExperiment_4294586986
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -234874,7 +234874,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = GooExperiment_4294587268
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -234999,7 +234999,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,1.25|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,1.25|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -235064,7 +235064,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294578672
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -235180,7 +235180,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294580362
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -235296,7 +235296,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294562038
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -235468,7 +235468,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294562242
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -235615,7 +235615,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -235726,7 +235726,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = sensorBarometer_4294546560
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -235837,7 +235837,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = sensorBarometer_4294546932
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -235949,7 +235949,7 @@ PART
 	modSize = 0,0,0
 	link = strutConnector_4294542826
 	link = strutConnector_4294542552
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -236248,7 +236248,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294542030
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -236359,7 +236359,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294604208
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -236510,7 +236510,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = mk2LanderCabin.v2_4294623314
+	part = mk2LanderCabin_v2_4294623314
 	partName = Part
 	persistentId = 3011137842
 	pos = 0,10,0
@@ -236905,7 +236905,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0.386656851|0.402500004|0,1.25|0|0,0.386656851|0.402500004|0
 	EVENTS
 	{
 	}
@@ -237137,7 +237137,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294603386
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -237248,7 +237248,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294603658
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -237359,7 +237359,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294602554
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -237470,7 +237470,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294603138
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -237581,7 +237581,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294602096
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -237692,7 +237692,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294602300
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -237803,7 +237803,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294592274
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -237975,7 +237975,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294592402
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -238123,7 +238123,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = GooExperiment_4294586986
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -238253,7 +238253,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = GooExperiment_4294587268
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -238378,7 +238378,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,1.25|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,1.25|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -238443,7 +238443,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294578672
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -238559,7 +238559,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = strutConnector_4294580362
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -238675,7 +238675,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294562038
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -238847,7 +238847,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = stripLight1_4294562242
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -238994,7 +238994,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -239105,7 +239105,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = sensorBarometer_4294546560
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -239216,7 +239216,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = sensorBarometer_4294546932
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -239328,7 +239328,7 @@ PART
 	modSize = 0,0,0
 	link = strutConnector_4294542826
 	link = strutConnector_4294542552
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0.271114707|0|0,1|0|0,0.271114707|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0.271114707|0|0,1|0|0,0.271114707|0|0
 	attN = top,Null_0_0|0.528679371|0_0|1|0_0|0.528679371|0_0|1|0
 	attN = bottom,Null_0_0|-0.528679371|0_0|-1|0_0|-0.528679371|0_0|-1|0
 	EVENTS
@@ -239627,7 +239627,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294542030
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -239738,7 +239738,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = linearRcs_4294604208
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -239849,7 +239849,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294369616
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -239947,7 +239947,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4294369876
-	srfN = srfAttach,mk2LanderCabin.v2_4294623314,COLPod,0|0|0,1|0|0,0|0|0
+	srfN = srfAttach,mk2LanderCabin_v2_4294623314,COLPod,0|0|0,1|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -250528,7 +250528,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = roverBody.v2_4294491236
+	part = roverBody_v2_4294491236
 	partName = Part
 	persistentId = 2602813633
 	pos = 0,10,0
@@ -250563,7 +250563,7 @@ PART
 	link = roverWheel2_4294445888
 	link = commDish_4294436498
 	link = strutCube_4294432936
-	link = probeCoreOcto2.v2_4294427950
+	link = probeCoreOcto2_v2_4294427950
 	link = fuelLine_4294422526
 	link = sensorThermometer_4294419794
 	link = sensorGravimeter_4294419162
@@ -250573,7 +250573,7 @@ PART
 	attN = right,Null_0_0.510226011|0|0_1|0|0_0.510226011|0|0_1|0|0
 	attN = left,Null_0_-0.510226011|0|0_-1|0|0_-0.510226011|0|0_-1|0|0
 	attN = back,Null_0_0|0|0.224069998_0|0|1_0|0|0.224069998_0|0|1
-	attN = front,probeCoreOcto2.v2_4294427950_0|0|-0.224069998_0|0|-1_0|0|-0.224069998_0|0|-1
+	attN = front,probeCoreOcto2_v2_4294427950_0|0|-0.224069998_0|0|-1_0|0|-0.224069998_0|0|-1
 	attN = bottom,Null_0_0|-0.746285021|0_0|-1|0_0|-0.746285021|0_0|-1|0
 	attN = top,Null_0_0|0.746285021|0_0|1|0_0|0.746285021|0_0|1|0
 	EVENTS
@@ -250787,7 +250787,7 @@ PART
 	link = strutConnector_4294439694
 	link = strutConnector_4294440464
 	sym = linearRcs_4294466046
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -250900,7 +250900,7 @@ PART
 	link = strutConnector_4294438538
 	link = strutConnector_4294438246
 	sym = linearRcs_4294466128
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -251011,7 +251011,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = radPanelSm_4294415748
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0.25,0|0|-1,0|0|0.25
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0.25,0|0|-1,0|0|0.25
 	attN = top,Null_0_0|0.400000006|0_0|1|0_0|0.400000006|0_0|1|0
 	attN = bottom,Null_0_0|-0.400000006|0_0|-1|0_0|-0.400000006|0_0|-1|0
 	EVENTS
@@ -251112,7 +251112,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294447666
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -251344,7 +251344,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294447996
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -251576,7 +251576,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294446570
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -251808,7 +251808,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294447348
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -252040,7 +252040,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294445888
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -252272,7 +252272,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = roverWheel2_4294446232
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -252967,7 +252967,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|-0.129999995|0,0|-1|0,0|-0.129999995|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|-0.129999995|0,0|-1|0,0|-0.129999995|0
 	attN = bottom,Null_0_0|-0.129999995|0_0|-1|0_0|-0.129999995|0_0|-1|0
 	EVENTS
 	{
@@ -253084,7 +253084,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = strutCube_4294432628
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|-0.128734395|0,0|-1|0,0|-0.128734395|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|-0.128734395|0,0|-1|0,0|-0.128734395|0
 	attN = top,strutCube_4294432628_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
 	attN = bottom,Null_0_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
@@ -253191,7 +253191,7 @@ PART
 }
 PART
 {
-	part = probeCoreOcto2.v2_4294427950
+	part = probeCoreOcto2_v2_4294427950
 	partName = Part
 	persistentId = 3141938714
 	pos = 0.33693099,10.8606157,0.549360275
@@ -253216,7 +253216,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	attN = bottom,Null_0_0|-0.0610621013|0_0|-1|0_0|-0.0610621013|0_0|-1|0
-	attN = top,roverBody.v2_4294491236_0|0.0610621013|0_0|1|0_0|0.0610621013|0_0|1|0
+	attN = top,roverBody_v2_4294491236_0|0.0610621013|0_0|1|0_0|0.0610621013|0_0|1|0
 	EVENTS
 	{
 	}
@@ -253392,7 +253392,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -253508,7 +253508,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -253618,7 +253618,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -253821,7 +253821,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294412768
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -253993,7 +253993,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294412994
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -254140,7 +254140,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -254315,7 +254315,7 @@ OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
 PART
 {
-	part = roverBody.v2_4294491236
+	part = roverBody_v2_4294491236
 	partName = Part
 	persistentId = 2980738408
 	pos = 0,10,0
@@ -254347,7 +254347,7 @@ PART
 	link = roverWheel2_4294445888
 	link = commDish_4294436498
 	link = strutCube_4294432936
-	link = probeCoreOcto2.v2_4294427950
+	link = probeCoreOcto2_v2_4294427950
 	link = fuelLine_4294422526
 	link = sensorThermometer_4294419794
 	link = sensorGravimeter_4294419162
@@ -254359,7 +254359,7 @@ PART
 	attN = right,Null_0_0.510226011|0|0_1|0|0_0.510226011|0|0_1|0|0
 	attN = left,Null_0_-0.510226011|0|0_-1|0|0_-0.510226011|0|0_-1|0|0
 	attN = back,Null_0_0|0|0.224069998_0|0|1_0|0|0.224069998_0|0|1
-	attN = front,probeCoreOcto2.v2_4294427950_0|0|-0.224069998_0|0|-1_0|0|-0.224069998_0|0|-1
+	attN = front,probeCoreOcto2_v2_4294427950_0|0|-0.224069998_0|0|-1_0|0|-0.224069998_0|0|-1
 	attN = bottom,Null_0_0|-0.746285021|0_0|-1|0_0|-0.746285021|0_0|-1|0
 	attN = top,Null_0_0|0.746285021|0_0|1|0_0|0.746285021|0_0|1|0
 	EVENTS
@@ -254573,7 +254573,7 @@ PART
 	link = strutConnector_4294439694
 	link = strutConnector_4294440464
 	sym = linearRcs_4294466046
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -254686,7 +254686,7 @@ PART
 	link = strutConnector_4294438538
 	link = strutConnector_4294438246
 	sym = linearRcs_4294466128
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1.25|0,0|0|0
 	EVENTS
 	{
 	}
@@ -254798,7 +254798,7 @@ PART
 	modSize = 0,0,0
 	link = radPanelSm_4294415748
 	link = rtg_4293914116
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0.25,0|0|-1,0|0|0.25
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0.25,0|0|-1,0|0|0.25
 	attN = top,Null_0_0|0.400000006|0_0|1|0_0|0.400000006|0_0|1|0
 	attN = bottom,Null_0_0|-0.400000006|0_0|-1|0_0|-0.400000006|0_0|-1|0
 	EVENTS
@@ -254898,7 +254898,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -255129,7 +255129,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -255360,7 +255360,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0.223305196|0.52485168|0,1|0|0,0.223305196|0.52485168|0
 	EVENTS
 	{
 	}
@@ -256055,7 +256055,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|-0.129999995|0,0|-1|0,0|-0.129999995|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|-0.129999995|0,0|-1|0,0|-0.129999995|0
 	attN = bottom,Null_0_0|-0.129999995|0_0|-1|0_0|-0.129999995|0_0|-1|0
 	EVENTS
 	{
@@ -256172,7 +256172,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = strutCube_4294432628
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|-0.128734395|0,0|-1|0,0|-0.128734395|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|-0.128734395|0,0|-1|0,0|-0.128734395|0
 	attN = top,strutCube_4294432628_0|0.128734395|0_0|1|0_0|0.128734395|0_0|1|0
 	attN = bottom,Null_0_0|-0.128734395|0_0|-1|0_0|-0.128734395|0_0|-1|0
 	EVENTS
@@ -256279,7 +256279,7 @@ PART
 }
 PART
 {
-	part = probeCoreOcto2.v2_4294427950
+	part = probeCoreOcto2_v2_4294427950
 	partName = Part
 	persistentId = 3521322425
 	pos = 0.33693099,10.8606157,0.549360394
@@ -256304,7 +256304,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	attN = bottom,Null_0_0|-0.0610621013|0_0|-1|0_0|-0.0610621013|0_0|-1|0
-	attN = top,roverBody.v2_4294491236_0|0.0610621013|0_0|1|0_0|0.0610621013|0_0|1|0
+	attN = top,roverBody_v2_4294491236_0|0.0610621013|0_0|1|0_0|0.0610621013|0_0|1|0
 	EVENTS
 	{
 	}
@@ -256480,7 +256480,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0.125|0|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0.125|0|0,0|0|0
 	EVENTS
 	{
 	}
@@ -256596,7 +256596,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -256706,7 +256706,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -256909,7 +256909,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294412768
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -257081,7 +257081,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = spotLight3_4294412994
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|-1|0,0|0|0
 	EVENTS
 	{
 	}
@@ -257228,7 +257228,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|-0.0900000036,0|0|-0.600000024,0|0|-0.0900000036
 	EVENTS
 	{
 	}
@@ -257474,7 +257474,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4293913294
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -257550,7 +257550,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4293913340
-	srfN = srfAttach,roverBody.v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,roverBody_v2_4294491236,collider.collider,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
