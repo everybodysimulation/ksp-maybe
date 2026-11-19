@@ -303573,7 +303573,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             solid_booste
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 1123.59
+		maxThrust = 1573.03
 		heatProduction = 415
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 8.0
@@ -304767,7 +304767,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Puff_diffuse
 		exhaustDamage = False
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 24.2564
+		maxThrust = 33.959
 		heatProduction = 30
 		fxOffset = 0, 0, 1.02
 		EngineType = MonoProp
@@ -306250,7 +306250,7 @@ Eövë•ÛxéZD÷Œwòl~Ugˆı‡jºævİ/­{ûî?"o>$>ëåSöÚÍW¬Å¨Ó„pQ-ª^ûú´V"˜3oØ³Ö©?nÁRğ
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 327.475
+		maxThrust = 458.465
 		heatProduction = 550
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 10.0
@@ -306597,7 +306597,7 @@ Eövë•ÛxéZD÷Œwòl~Ugˆı‡jºævİ/­{ûî?"o>$>ëåSöÚÍW¬Å¨Ó„pQ-ª^ûú´V"˜3oØ³Ö©?nÁRğ
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 268.024
+		maxThrust = 375.234
 		heatProduction = 545
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 10.0
@@ -307494,7 +307494,7 @@ smokePoint        ¡Ô¿À      €¿       ³  €?  €?  €?   Untagged             
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 3792.23
+		maxThrust = 5309.12
 		heatProduction = 375
 		fxOffset = 0, 0, 0.25
 		EngineType = LiquidFuel
@@ -308668,7 +308668,7 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             twin_nozzle_
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 3825.53
+		maxThrust = 5355.74
 		heatProduction = 375
 		fxOffset = 0, 0, 0.25
 		EngineType = LiquidFuel
@@ -310487,7 +310487,7 @@ Töw†+tqzÑq>ö¨YES½zª4Vë©hİšPëÍ¹ŠïÚÌÕê§{9ïıw'à_+“S1Q<9¦~Ñ<û¾® ¼EÀ{oNÇÊe
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 3858.84
+		maxThrust = 5402.38
 		heatProduction = 140
 		fxOffset = 0, 0, 1.5
 		EngineType = LiquidFuel
@@ -311698,7 +311698,7 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 8222.5
+		maxThrust = 11511.5
 		heatProduction = 192
 		fxOffset = 0, 0, 0.25
 		EngineType = LiquidFuel
@@ -311988,7 +311988,7 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 37.5619
+		maxThrust = 52.5867
 		heatProduction = 550
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 10.0
@@ -312107,7 +312107,7 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 14.5062
+		maxThrust = 20.3087
 		heatProduction = 550
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 10.0
@@ -312212,7 +312212,7 @@ PART
 		exhaustDamage = False
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 2.2425
+		maxThrust = 3.1395
 		heatProduction = 0
 		powerEffectName = IonPlume
 		EngineType = Electric
@@ -312903,7 +312903,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 109.761
+		maxThrust = 153.665
 		heatProduction = 15
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 0.5
@@ -312970,7 +312970,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 174.672
+		maxThrust = 244.541
 		heatProduction = 75
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 0.8
@@ -313515,7 +313515,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 158.096
+		maxThrust = 221.334
 		heatProduction = 40
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 0.12
@@ -313912,7 +313912,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 565.268
+		maxThrust = 791.375
 		heatProduction = 100
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 0.06
@@ -314328,7 +314328,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 176.373
+		maxThrust = 246.922
 		heatProduction = 75
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 0.2
@@ -316149,7 +316149,7 @@ EeníüU€v§{æœê [}ÎSÜ¸Àõ<ıW¼€U©/…@ı€  ï»¿PART
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 18.7772
+		maxThrust = 26.2881
 		heatProduction = 150
 		fxOffset = 0, 0, 0.01
 		localPosition = 0, 0, 0.12
@@ -316957,7 +316957,7 @@ Twitch.mbm    Twitch_GLOW.mbm    ï»¿PART
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 18.9865
+		maxThrust = 26.5811
 		heatProduction = 150
 		fxOffset = 0, 0, 0.01
 		localPosition = 0, 0, 0.12
@@ -318427,7 +318427,7 @@ Yâá–Ye–Ye–Yg½qærûùÖóÌlaÈÃñÕğï™{ÜR›/¯}9£j9êİnlï)jŞ|«ÚzÖÜ8/ÒX$/R·SuŒÔ‰-ã
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 24.518
+		maxThrust = 34.3252
 		heatProduction = 150
 		fxOffset = 0, 0, 0.125
 		EngineType = LiquidFuel
@@ -318867,7 +318867,7 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 246.563
+		maxThrust = 345.188
 		heatProduction = 110
 		fxOffset = 0, 0, 0
 		EngineType = LiquidFuel
@@ -319221,7 +319221,7 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 		exhaustDamage = False
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 2.26866
+		maxThrust = 3.17612
 		heatProduction = 30
 		fxOffset = 0, 0, 0.05
 		EngineType = LiquidFuel
@@ -319626,7 +319626,7 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 		exhaustDamage = False
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 2.29482
+		maxThrust = 3.21275
 		heatProduction = 25
 		fxOffset = 0, 0, 0.99
 		EngineType = LiquidFuel
@@ -321283,7 +321283,7 @@ ADZgê-¡h€í›ÚÀ•ûÒ*şVWI§’J"ß2Ã®í¨j… ÆAæZiéÙÃN—Z¶PwToDGü~G°½nyÈDb!ó8Ë¾¤
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 75.9086
+		maxThrust = 106.272
 		heatProduction = 80
 		fxOffset = 0, 0, 0.1
 		EngineType = LiquidFuel
@@ -321646,7 +321646,7 @@ ADZgê-¡h€í›ÚÀ•ûÒ*şVWI§’J"ß2Ã®í¨j… ÆAæZiéÙÃN—Z¶PwToDGü~G°½nyÈDb!ó8Ë¾¤
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 76.6935
+		maxThrust = 107.371
 		heatProduction = 250
 		fxOffset = 0, 0, 1
 		EngineType = Nuclear
@@ -322453,7 +322453,7 @@ bî‡±IK%7=ç§Iä“¸2P
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 351.218
+		maxThrust = 491.705
 		heatProduction = 192
 		fxOffset = 0, 0, 0.8
 		EngineType = LiquidFuel
@@ -326976,7 +326976,7 @@ h~ş3À«Ú's/Á‡ß__EWªJu³áìK¢ä=§J	'Yj””°­Äˆ=t¥4Ì&™€42ÚõwÃ_Ï17ëşSùÔ×
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 354.648
+		maxThrust = 496.507
 		heatProduction = 192
 		fxOffset = 0, 0, 0.8
 		EngineType = LiquidFuel
@@ -327098,7 +327098,7 @@ h~ş3À«Ú's/Á‡ß__EWªJu³áìK¢ä=§J	'Yj””°­Äˆ=t¥4Ì&™€42ÚõwÃ_Ï17ëşSùÔ×
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 302.943
+		maxThrust = 424.12
 		heatProduction = 200
 		fxOffset = 0, 0, 0.574338
 		EngineType = LiquidFuel
@@ -330933,7 +330933,7 @@ v*ê&+¹93Vq¾iæĞ       èt,½ßuÎÅ3^[Ï   «¡  4–‹Î{÷wZ@ Cj3í‘XÚÿiì¥Ì}9 Œ_º~¯~}%
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 305.755
+		maxThrust = 428.057
 		heatProduction = 200
 		fxOffset = 0, 0, 0.574338
 		EngineType = LiquidFuel
@@ -331360,7 +331360,7 @@ _sÀ¯¬§n)Ù‚ü§cd{+Œb¤§g]ÚıÚ#s¾äº	h§q+b§sX?ö#ü®¢ŠwB’¸î,ÙådoôË.</l`ò@§4&
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 2739.22
+		maxThrust = 3834.91
 		heatProduction = 196
 		fxOffset = 0, 0, 2.18
 		fxOriginalOffset
@@ -337253,7 +337253,7 @@ råxæİ'Tq‘íõÍ¾qW”¿¡;-¿¡İ:·zCàá¶Ùuñ®íıÛØ	~R-e–ŸÓí»Ÿö¯—Rİ}•õí#’~»ËĞ* ¶U
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 159.666
+		maxThrust = 223.532
 		heatProduction = 175
 		fxOffset = 0, 0, 0.1
 		EngineType = LiquidFuel
@@ -343925,7 +343925,7 @@ q'cÇÙ{÷œ4´ëÄ¯ÈÛ°éÓ*ä”+IÓÍwNàmòØíÂFb¹Ö àêå²Æœ¥°úåM”GLxNğ]FßºÎ°¼½v9¸•K®
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 374.226
+		maxThrust = 523.916
 		heatProduction = 83
 		fxOffset = 0, 0, 0.4
 		EngineType = LiquidFuel
@@ -344654,7 +344654,7 @@ aÊ» ÿ‰pXqO  ‚LºÛ$Ã² ±Aï;"y« 4           rèî‰GTÊ]x`†yPaST¤K ¦ŸR	£äuÅ6æ
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 1758.55
+		maxThrust = 2461.97
 		heatProduction = 192
 		fxOffset = 0, 0, 0
 		EngineType = LiquidFuel
@@ -345473,7 +345473,7 @@ R˜‚U-	_«àFË>N¬e[Ã®¢21º{™¼GOváËe|í’†¾hÁÀÚê´˜Z¬Œ™˜€  @ø9´ Ú¢|OQ °¨
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 1077.58
+		maxThrust = 1508.61
 		heatProduction = 350
 		fxOffset = 0, 0, 1.2
 		EngineType = LiquidFuel
@@ -349987,7 +349987,7 @@ D"¾ ‘>  €¿oä[¿kw4¾<'ö>  €¿                                         
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 24.7796
+		maxThrust = 34.6914
 		heatProduction = 15
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 0.12
@@ -350913,7 +350913,7 @@ W>òñÅR.şçÔ&çP}6å
 		exhaustDamage = True
 		ignitionThreshold = 0.33
 		minThrust = 0
-		maxThrust = 136.96
+		maxThrust = 191.744
 		heatProduction = 60
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 0.2
@@ -350979,7 +350979,7 @@ W>òñÅR.şçÔ&çP}6å
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 248.917
+		maxThrust = 348.484
 		heatProduction = 133
 		fxOffset = 0, 0, 0.25
 		EngineType = LiquidFuel
@@ -353592,7 +353592,7 @@ b†‹cÉu„/5§SÇËÈô=›ÖlçîÚ¼Œ%E¼ÑdºûÍÖ‹o¤ëû1~Ønï67wìéŞ7Ä°fe¤D/HÔ‡„¾è˜TG
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 460.003
+		maxThrust = 644.004
 		heatProduction = 390
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 8.0
@@ -353884,7 +353884,7 @@ b†‹cÉu„/5§SÇËÈô=›ÖlçîÚ¼Œ%E¼ÑdºûÍÖ‹o¤ëû1~Ønï67wìéŞ7Ä°fe¤D/HÔ‡„¾è˜TG
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 3159.56
+		maxThrust = 4423.38
 		heatProduction = 550
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 10.0
@@ -356341,7 +356341,7 @@ yØRibØRiyÑüØ†æŞ‡zvæ¿òÜvGÚ»/íÙ4›vM/ã6]ğ†oÛîh’şâß‡ä à<ôë5ıãã×]Ï¢ÿğD…b’½¸
 		exhaustDamage = True
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 6641.72
+		maxThrust = 9298.41
 		heatProduction = 550
 		useEngineResponseTime = True
 		engineAccelerationSpeed = 10.0
@@ -360149,7 +360149,7 @@ yğÀcî+§<qXcs‹BÑ›™ÎVYÂZ•á¿sC}²Î4Ç¿$8tv1~v&UoWáÅ7ãšaèÉX3gK,îBB}T
 		allowShutdown = False
 		ignitionThreshold = 0.1
 		minThrust = 0
-		maxThrust = 21.5953
+		maxThrust = 30.2334
 		heatProduction = 550
 		fxOffset = 0, 0, 0.02
 		EngineType = SolidBooster
