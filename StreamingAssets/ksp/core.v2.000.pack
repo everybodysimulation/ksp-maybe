@@ -280141,9 +280141,9 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             M1-3 Pod.tga
 		runningEffectName = running
 		atmosphereCurve
 		{
-			key = 0 283.2
-			key = 1 118
-			key = 4 0.00118
+			key = 0 354
+			key = 1 147.5
+			key = 4 0.001475
 		}
 	}
 	
@@ -303589,9 +303589,9 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             solid_booste
 		}
 		atmosphereCurve
 		{
-			key = 0 259.6
-			key = 1 230.1
-			key = 7 0.00118
+			key = 0 324.5
+			key = 1 287.625
+			key = 7 0.001475
 		}
 	}
 	MODULE
@@ -304781,9 +304781,9 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             Puff_diffuse
 		}
 		atmosphereCurve
 		{
-			key = 0 295
-			key = 1 141.6
-			key = 4 0.00118
+			key = 0 368.75
+			key = 1 177
+			key = 4 0.001475
 		}
 	}
 	MODULE
@@ -306270,9 +306270,9 @@ Eövë•ÛxéZD÷Œwòl~Ugˆı‡jºævİ/­{ûî?"o>$>ëåSöÚÍW¬Å¨Ó„pQ-ª^ûú´V"˜3oØ³Ö©?nÁRğ
 		}
 		atmosphereCurve
 		{
-			key = 0 230.1
-			key = 1 200.6
-			key = 7 0.00118
+			key = 0 287.625
+			key = 1 250.75
+			key = 7 0.001475
 		}
 	}
 	MODULE
@@ -306617,9 +306617,9 @@ Eövë•ÛxéZD÷Œwòl~Ugˆı‡jºævİ/­{ûî?"o>$>ëåSöÚÍW¬Å¨Ó„pQ-ª^ûú´V"˜3oØ³Ö©?nÁRğ
 		}
 		atmosphereCurve
 		{
-			key = 0 194.7
-			key = 1 165.2
-			key = 6 0.00118
+			key = 0 243.375
+			key = 1 206.5
+			key = 6 0.001475
 		}
 	}
 
@@ -307512,9 +307512,9 @@ smokePoint        ¡Ô¿À      €¿       ³  €?  €?  €?   Untagged             
 		}
 		atmosphereCurve
 		{
-			key = 0 354
-			key = 1 330.4
-			key = 9 0.00118
+			key = 0 442.5
+			key = 1 413
+			key = 9 0.001475
 		}
 	}
 	MODULE
@@ -308686,9 +308686,9 @@ _BurnColor      €?  €?  €?  €?_UnderwaterFogFactor             twin_nozzle_
 		}
 		atmosphereCurve
 		{
-			key = 0 354
-			key = 1 330.4
-			key = 9 0.00118
+			key = 0 442.5
+			key = 1 413
+			key = 9 0.001475
 		}
 	}
 	MODULE
@@ -310505,9 +310505,9 @@ Töw†+tqzÑq>ö¨YES½zª4Vë©hİšPëÍ¹ŠïÚÌÕê§{9ïıw'à_+“S1Q<9¦~Ñ<û¾® ¼EÀ{oNÇÊe
 		}
 		atmosphereCurve
 		{
-			key = 0 401.2
-			key = 1 241.9
-			key = 5 0.00118
+			key = 0 501.5
+			key = 1 302.375
+			key = 5 0.001475
 		}
 	}
 	MODULE
@@ -311716,9 +311716,9 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 		}
 		atmosphereCurve
 		{
-			key = 0 371.7
-			key = 1 348.1
-			key = 12 0.00118
+			key = 0 464.625
+			key = 1 435.125
+			key = 12 0.001475
 		}
 	}
 	MODULE
@@ -312008,9 +312008,9 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 		}
 		atmosphereCurve
 		{
-			key = 0 253.7
-			key = 1 224.2
-			key = 7 0.00118
+			key = 0 317.125
+			key = 1 280.25
+			key = 7 0.001475
 		}
 	}
 	RESOURCE
@@ -312127,9 +312127,9 @@ pm€    }_¼©ó¾´ã®½Y–ø¼C¾Ô{¦}êfYqç•Üb®ú* …ïÅzcÂ±äææÇé7‚Æ]Xì{Ä±Ía62
 		}
 		atmosphereCurve
 		{
-			key = 0 247.8
-			key = 1 218.3
-			key = 7 0.00118
+			key = 0 309.75
+			key = 1 272.875
+			key = 7 0.001475
 		}
 	}
 	RESOURCE
@@ -312231,9 +312231,9 @@ PART
 		}
 		atmosphereCurve
 		{
-			key = 0 4956
-			key = 1 118
-			key = 1.2 0.00118
+			key = 0 6195
+			key = 1 147.5
+			key = 1.2 0.001475
 		}
 	}
 	MODULE
@@ -312935,7 +312935,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		}
 		atmosphereCurve
 		{
-			key = 0 10620 0 0 
+			key = 0 13275 0 0 
 		}
 		// Jet params
 		atmChangeFlow = True
@@ -313002,7 +313002,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		}
 		atmosphereCurve
 		{
-			key = 0 4720 0 0 
+			key = 0 5900 0 0 
 		}
 		// Jet params
 		atmChangeFlow = True
@@ -313546,7 +313546,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		}
 		atmosphereCurve
 		{
-			key = 0 12390 0 0
+			key = 0 15487.5 0 0
 		}
 		// Jet params
 		atmChangeFlow = True
@@ -313943,7 +313943,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		}
 		atmosphereCurve
 		{
-			key = 0 14868 0 0
+			key = 0 18585 0 0
 		}
 		// Jet params
 		atmChangeFlow = True
@@ -314360,7 +314360,7 @@ UŒª«àˆ€<E ˜€Õ*‘ò© ªªU…
 		}
 		atmosphereCurve
 		{
-			key = 0 4720 0 0 
+			key = 0 5900 0 0 
 		}
 		// Jet params
 		atmChangeFlow = True
@@ -316168,9 +316168,9 @@ EeníüU€v§{æœê [}ÎSÜ¸Àõ<ıW¼€U©/…@ı€  ï»¿PART
 		}
 		atmosphereCurve
 		{
-			key = 0 342.2
-			key = 1 295
-			key = 7 0.00118
+			key = 0 427.75
+			key = 1 368.75
+			key = 7 0.001475
 		}
 	}
 	MODULE
@@ -316976,9 +316976,9 @@ Twitch.mbm    Twitch_GLOW.mbm    ï»¿PART
 		}
 		atmosphereCurve
 		{
-			key = 0 342.2
-			key = 1 324.5
-			key = 7 0.00118
+			key = 0 427.75
+			key = 1 405.625
+			key = 7 0.001475
 		}
 	}
 	MODULE
@@ -318445,9 +318445,9 @@ Yâá–Ye–Ye–Yg½qærûùÖóÌlaÈÃñÕğï™{ÜR›/¯}9£j9êİnlï)jŞ|«ÚzÖÜ8/ÒX$/R·SuŒÔ‰-ã
 		}
 		atmosphereCurve
 		{
-			key = 0 377.6
-			key = 1 312.7
-			key = 7 0.00118
+			key = 0 472
+			key = 1 390.875
+			key = 7 0.001475
 		}
 	}
 	MODULE
@@ -318885,11 +318885,11 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 		}
 		atmosphereCurve
 		{
-			key = 0 401.2 -50 -73.71224
-			key = 1 342.2 -21.23404 -21.23404
-			key = 5 271.4 -10.54119 -10.54119
-			key = 10 200.6 -13.59091 -13.59091
-			key = 20 0.00118
+			key = 0 501.5 -50 -73.71224
+			key = 1 427.75 -21.23404 -21.23404
+			key = 5 339.25 -10.54119 -10.54119
+			key = 10 250.75 -13.59091 -13.59091
+			key = 20 0.001475
 		}
 	}
 	//MODULE
@@ -319240,9 +319240,9 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 		}
 		atmosphereCurve
 		{
-			key = 0 342.2
-			key = 1 306.8
-			key = 8 0.00118
+			key = 0 427.75
+			key = 1 383.5
+			key = 8 0.001475
 		}
 	}
 	MODULE
@@ -319645,9 +319645,9 @@ w ¥ºqä:Iê†®]6*òëÚ½—;<
 		}
 		atmosphereCurve
 		{
-			key = 0 371.7
-			key = 1 94.4
-			key = 3 0.00118
+			key = 0 464.625
+			key = 1 118
+			key = 3 0.001475
 		}
 	}
 	MODULE
@@ -321301,9 +321301,9 @@ ADZgê-¡h€í›ÚÀ•ûÒ*şVWI§’J"ß2Ã®í¨j… ÆAæZiéÙÃN—Z¶PwToDGü~G°½nyÈDb!ó8Ë¾¤
 		}
 		atmosphereCurve
 		{
-			key = 0 407.1
-			key = 1 100.3
-			key = 3 0.00118
+			key = 0 508.875
+			key = 1 125.375
+			key = 3 0.001475
 		}
 	}
 	MODULE
@@ -321659,9 +321659,9 @@ ADZgê-¡h€í›ÚÀ•ûÒ*şVWI§’J"ß2Ã®í¨j… ÆAæZiéÙÃN—Z¶PwToDGü~G°½nyÈDb!ó8Ë¾¤
 		}
 		atmosphereCurve
 		{
-			key = 0 944
-			key = 1 218.3
-			key = 2 0.00118
+			key = 0 1180
+			key = 1 272.875
+			key = 2 0.001475
 		}
 	}
 	MODULE
@@ -322471,9 +322471,9 @@ bî‡±IK%7=ç§Iä“¸2P
 		}
 		atmosphereCurve
 		{
-			key = 0 365.8
-			key = 1 312.7
-			key = 7 0.00118
+			key = 0 457.25
+			key = 1 390.875
+			key = 7 0.001475
 
 		}
 	}
@@ -326994,9 +326994,9 @@ h~ş3À«Ú's/Á‡ß__EWªJu³áìK¢ä=§J	'Yj””°­Äˆ=t¥4Ì&™€42ÚõwÃ_Ï17ëşSùÔ×
 		}
 		atmosphereCurve
 		{
-			key = 0 365.8
-			key = 1 312.7
-			key = 7 0.00118
+			key = 0 457.25
+			key = 1 390.875
+			key = 7 0.001475
 
 		}
 	}
@@ -327116,9 +327116,9 @@ h~ş3À«Ú's/Á‡ß__EWªJu³áìK¢ä=§J	'Yj””°­Äˆ=t¥4Ì&™€42ÚõwÃ_Ï17ëşSùÔ×
 		}
 		atmosphereCurve
 		{
-			key = 0 377.6
-			key = 1 295
-			key = 6 0.00118
+			key = 0 472
+			key = 1 368.75
+			key = 6 0.001475
 		}
 	}
 	MODULE
@@ -330951,9 +330951,9 @@ v*ê&+¹93Vq¾iæĞ       èt,½ßuÎÅ3^[Ï   «¡  4–‹Î{÷wZ@ Cj3í‘XÚÿiì¥Ì}9 Œ_º~¯~}%
 		}
 		atmosphereCurve
 		{
-			key = 0 377.6
-			key = 1 295
-			key = 6 0.00118
+			key = 0 472
+			key = 1 368.75
+			key = 6 0.001475
 		}
 	}
 	MODULE
@@ -331379,9 +331379,9 @@ _sÀ¯¬§n)Ù‚ü§cd{+Œb¤§g]ÚıÚ#s¾äº	h§q+b§sX?ö#ü®¢ŠwB’¸î,ÙådoôË.</l`ò@§4&
 		}
 		atmosphereCurve
 		{
-			key = 0 365.8
-			key = 1 336.3
-			key = 9 0.00118
+			key = 0 457.25
+			key = 1 420.375
+			key = 9 0.001475
 		}
 	}
 	MODULE
@@ -337271,9 +337271,9 @@ råxæİ'Tq‘íõÍ¾qW”¿¡;-¿¡İ:·zCàá¶Ùuñ®íıÛØ	~R-e–ŸÓí»Ÿö¯—Rİ}•õí#’~»ËĞ* ¶U
 		}
 		atmosphereCurve
 		{
-			key = 0 359.9
-			key = 1 324.5
-			key = 9 0.00118
+			key = 0 449.875
+			key = 1 405.625
+			key = 9 0.001475
 		}
 	}
 	MODULE
@@ -343943,9 +343943,9 @@ q'cÇÙ{÷œ4´ëÄ¯ÈÛ°éÓ*ä”+IÓÍwNàmòØíÂFb¹Ö àêå²Æœ¥°úåM”GLxNğ]FßºÎ°¼½v9¸•K®
 		}
 		atmosphereCurve
 		{
-			key = 0 413
-			key = 1 106.2
-			key = 3 0.00118
+			key = 0 516.25
+			key = 1 132.75
+			key = 3 0.001475
 		}
 	}
 	MODULE
@@ -344672,9 +344672,9 @@ aÊ» ÿ‰pXqO  ‚LºÛ$Ã² ±Aï;"y« 4           rèî‰GTÊ]x`†yPaST¤K ¦ŸR	£äuÅ6æ
 		}
 		atmosphereCurve
 		{
-			key = 0 371.7
-			key = 1 348.1
-			key = 12 0.00118
+			key = 0 464.625
+			key = 1 435.125
+			key = 12 0.001475
 		}
 	}
 	MODULE
@@ -345491,9 +345491,9 @@ R˜‚U-	_«àFË>N¬e[Ã®¢21º{™¼GOváËe|í’†¾hÁÀÚê´˜Z¬Œ™˜€  @ø9´ Ú¢|OQ °¨
 		}
 		atmosphereCurve
 		{
-			key = 0 377.6
-			key = 1 330.4
-			key = 6 0.00118
+			key = 0 472
+			key = 1 413
+			key = 6 0.001475
 		}
 	}
 	MODULE
@@ -350018,7 +350018,7 @@ D"¾ ‘>  €¿oä[¿kw4¾<'ö>  €¿                                         
 		}
 		atmosphereCurve
 		{
-			key = 0 7552 0 0
+			key = 0 9440 0 0
 		}
 		// Jet params
 		atmChangeFlow = True
@@ -350941,7 +350941,7 @@ W>òñÅR.şçÔ&çP}6å
 		}
 		atmosphereCurve
 		{
-			key = 0 3776 0 0
+			key = 0 4720 0 0
 		}
 		// Jet params
 		atmChangeFlow = True
@@ -350999,9 +350999,9 @@ W>òñÅR.şçÔ&çP}6å
 		}
 		atmosphereCurve
 		{
-			key = 0 359.9
-			key = 1 324.5
-			key = 9 0.00118
+			key = 0 449.875
+			key = 1 405.625
+			key = 9 0.001475
 		}
 	}
 	MODULE
@@ -353608,9 +353608,9 @@ b†‹cÉu„/5§SÇËÈô=›ÖlçîÚ¼Œ%E¼ÑdºûÍÖ‹o¤ëû1~Ønï67wìéŞ7Ä°fe¤D/HÔ‡„¾è˜TG
 		}
 		atmosphereCurve
 		{
-			key = 0 247.8
-			key = 1 206.5
-			key = 6 0.00118
+			key = 0 309.75
+			key = 1 258.125
+			key = 6 0.001475
 		}
 	}
 	MODULE
@@ -353904,9 +353904,9 @@ b†‹cÉu„/5§SÇËÈô=›ÖlçîÚ¼Œ%E¼ÑdºûÍÖ‹o¤ëû1~Ønï67wìéŞ7Ä°fe¤D/HÔ‡„¾è˜TG
 		}
 		atmosphereCurve
 		{
-			key = 0 271.4
-			key = 1 241.9
-			key = 7 0.00118
+			key = 0 339.25
+			key = 1 302.375
+			key = 7 0.001475
 		}
 	}
 	RESOURCE
@@ -356361,9 +356361,9 @@ yØRibØRiyÑüØ†æŞ‡zvæ¿òÜvGÚ»/íÙ4›vM/ã6]ğ†oÛîh’şâß‡ä à<ôë5ıãã×]Ï¢ÿğD…b’½¸
 		}
 		atmosphereCurve
 		{
-			key = 0 277.3
-			key = 1 247.8
-			key = 7 0.00118
+			key = 0 346.625
+			key = 1 309.75
+			key = 7 0.001475
 		}
 	}
 	RESOURCE
@@ -360162,9 +360162,9 @@ yğÀcî+§<qXcs‹BÑ›™ÎVYÂZ•á¿sC}²Î4Ç¿$8tv1~v&UoWáÅ7ãšaèÉX3gK,îBB}T
 		}
 		atmosphereCurve
 		{
-			key = 0 181.72
-			key = 1 139.24
-			key = 6 0.00118
+			key = 0 227.15
+			key = 1 174.05
+			key = 6 0.001475
 		}
 		exhaustDamageMultiplier = 50
 	}
