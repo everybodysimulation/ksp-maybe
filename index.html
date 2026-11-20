@@ -922,6 +922,21 @@ function startUnity() {
   progBar.classList.add("animate");
   progFill.style.width = "0%";
   loadStatus.textContent = "Connecting...";
+  // This build only carries GLSL ES 1.00 (WebGL1) shader variants: every compiled
+  // shader blob in data.unity3d targets the GLES2 platform, and the fragment code is
+  // "#version 100". If the player gets a WebGL2 context there is no ES3 program to
+  // bind for many of them, so those surfaces lose their shader and draw flat white
+  // while the few materials that do resolve still look right. Force the WebGL1 path;
+  // add ?gl=2 to the URL to get WebGL2 back for comparison.
+  (function () {
+    var glMode = new URLSearchParams(location.search).get("gl") || "1";
+    if (glMode === "2") return;
+    var origGetContext = HTMLCanvasElement.prototype.getContext;
+    HTMLCanvasElement.prototype.getContext = function (type) {
+      if (type === "webgl2" || type === "experimental-webgl2") return null;
+      return origGetContext.apply(this, arguments);
+    };
+  })();
   var canvas = document.querySelector("#unityContainer canvas");
   var buildUrl = "Build";
   var loaderUrl = buildUrl + "/Build.loader.js" + "?v=" + Date.now();
